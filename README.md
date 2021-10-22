@@ -41,7 +41,7 @@ If you work with TypeScript, you may have used one of the open source projects I
   <thead>
     <th>Project ⚙️</th>
     <th>Description 📝</th>
-    <th">Role 🧑‍🏭</th>
+    <th>Role 🧑‍🏭</th>
     <th>Stars ⭐</th>
   </thead>
   <tbody>
