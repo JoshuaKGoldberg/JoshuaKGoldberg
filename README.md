@@ -37,7 +37,7 @@ I'm passionate about bringing accessible education to the masses in a sustainabl
 
 If you work with TypeScript, you may have used one of the open source projects I support:
 
-<table>
+<table width="100%>
   <thead>
     <th>Project ⚙️</th>
     <th>Description 📝</th>
@@ -74,9 +74,9 @@ If you work with TypeScript, you may have used one of the open source projects I
 
 ### Just For Fun
 
-These projects I do because I think they're fascinating, if not particularly useful:
+These projects I do because I think they're fascinating and/or fun, if not particularly useful:
 
-<table>
+<table width="100%">
   <thead>
     <th>Project ⚙️</th>
     <th>Description 📝</th>
