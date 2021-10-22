@@ -11,7 +11,7 @@
 
 I'm a passionate open source developer from New York. _(he/him)_
 
-By day, I'm a staff frontend developer on the Web Platform team at at [Codecademy](https://codecademy.com), where I focus on our shared static analysis, testing, and accessibility tooling.
+By day, I'm a staff frontend developer on the Web Platform team at at [Codecademy](https://codecademy.com), where I focus on our frontend tooling and infrastructure, core learning platform, and site accessibility.
 
 In my spare time, I contribute to assorted open source projects in the TypeScript ecosystem, and am writing a [_Learning TypeScript_ book for O'Reilly](https://www.oreilly.com/library/view/learning-typescript/9781098110321/).
 I'm passionate about bringing accessible education to the masses in a sustainable way.
