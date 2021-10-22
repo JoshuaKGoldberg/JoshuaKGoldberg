@@ -37,7 +37,7 @@ I'm passionate about bringing accessible education to the masses in a sustainabl
 
 If you work with TypeScript, you may have used one of the open source projects I support:
 
-<table width="100%>
+<table width="100%">
   <thead>
     <th>Project ⚙️</th>
     <th>Description 📝</th>
