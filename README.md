@@ -65,7 +65,7 @@ If you work with TypeScript, you may have used one of the open source projects I
     </tr>
     <tr>
       <th><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
-      <td>ESLint plugin with $ExpectType, $ExpectError and $ExpectTypeSnapshot type assertions</td>
+      <td>ESLint plugin with $ExpectType, $ExpectError and $ExpectTypeSnapshot type assertions.</td>
       <td>Adoptive maintainer</td>
       <td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
     </tr>
