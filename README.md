@@ -29,7 +29,7 @@ I'm passionate about bringing accessible education to the masses in a sustainabl
 
 * 🗣️ **Conferences**: I've been doing the circuit of speaking engagements to share knowledge. You can see my talks [listed on my personal site](https://joshuakgoldberg.com/#talks).
 * 🙌 **Open Source**: I do as much as possible in the open and try to support my open source communities. Companies should pay us for our time. 💸
-* 🤝 **Volunteering**: I regularly take on mentees and work with organizations such as [Pursuit](https://www.pursuit.org), or back when I lived in Seattle, [Unloop](https://www.un-loop.org).
+* 🤝 **Volunteering**: I regularly mentor mentees and work with orgs such as [Emergent Works](https://emergentworks.org), [Pursuit](https://www.pursuit.org), or when I lived in Seattle, [Unloop](https://www.un-loop.org).
 
 ## What I'm Working On
 
