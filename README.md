@@ -1,7 +1,7 @@
 ## Hi, I'm Josh! 💖
 
 <a aria-label="Joshua K Goldberg personal website" href="https://joshuakgoldberg.com" />
-  <img align="right" alt="Josh Goldberg's smiling happy face" src="https://www.joshuakgoldberg.com/img/josh.jpg" />
+  <img align="right" alt="" src="https://www.joshuakgoldberg.com/img/sparkling-heart.png" />
 </a>
 
 [![Email Me](https://img.shields.io/badge/Email-me@joshuakgoldberg.com-BB001B.svg)](mailto:me@joshuakgoldberg.com)
