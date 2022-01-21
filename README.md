@@ -1,9 +1,5 @@
 ## Hi, I'm Josh! 💖
 
-<a aria-label="Joshua K Goldberg personal website" href="https://joshuakgoldberg.com" />
-  <img align="right" alt="" src="https://www.joshuakgoldberg.com/img/sparkling-heart.png" />
-</a>
-
 [![Email Me](https://img.shields.io/badge/Email-me@joshuakgoldberg.com-BB001B.svg)](mailto:me@joshuakgoldberg.com)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/joshuakgoldbergcodes)
