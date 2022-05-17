@@ -7,9 +7,10 @@
 
 I'm a passionate open source developer from New York. _(he/him)_
 
-By day, I'm a staff frontend developer on the Web Platform team at at [Codecademy](https://codecademy.com), where I focus on our frontend tooling and infrastructure, core learning platform, and site accessibility.
+Hi, I'm Josh! I'm a frontend developer from New York with a passion for open source, static analysis, and the web.
+I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as [typescript-eslint](https://typescript-eslint.io) and [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat).
 
-In my spare time, I contribute to assorted open source projects in the TypeScript ecosystem, and am writing a [_Learning TypeScript_ book for O'Reilly](https://www.oreilly.com/library/view/learning-typescript/9781098110321/).
+I'm also writing a writing a [_Learning TypeScript_ book for O'Reilly](https://www.oreilly.com/library/view/learning-typescript/9781098110321), set to release soon!
 I'm passionate about bringing accessible education to the masses in a sustainable way.
 
 ---
