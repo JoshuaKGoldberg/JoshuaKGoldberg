@@ -24,7 +24,7 @@ I'm passionate about bringing accessible education to the masses in a sustainabl
 
 ### Favorite Tech Activities
 
-* 🗣️ **Conferences**: I've been doing the circuit of speaking engagements to share knowledge. You can see my talks [listed on my personal site](https://joshuakgoldberg.com/#talks).
+* 🗣️ **Conferences**: You can see my [talks listed on my personal site](https://joshuakgoldberg.com/#talks) and read [my speaker rider](https://github.com/JoshuaKGoldberg/speaker-rider).
 * 🙌 **Open Source**: I do as much as possible in the open and try to support my open source communities. Companies should pay us for our time. 💸
 * 🤝 **Volunteering**: I regularly mentor mentees and work with orgs such as [Emergent Works](https://emergentworks.org), [Pursuit](https://www.pursuit.org), or when I lived in Seattle, [Unloop](https://www.un-loop.org).
 
