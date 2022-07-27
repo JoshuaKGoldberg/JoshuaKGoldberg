@@ -10,7 +10,7 @@ I'm a passionate open source developer from New York. _(he/him)_
 Hi, I'm Josh! I'm a frontend developer from New York with a passion for open source, static analysis, and the web.
 I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as [typescript-eslint](https://typescript-eslint.io) and [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat).
 
-I'm also writing a writing a [_Learning TypeScript_ book for O'Reilly](https://www.oreilly.com/library/view/learning-typescript/9781098110321), set to release soon!
+I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), available now!
 I'm passionate about bringing accessible education to the masses in a sustainable way.
 
 ---
