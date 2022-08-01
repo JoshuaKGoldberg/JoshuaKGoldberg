@@ -5,9 +5,7 @@
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/joshuakgoldbergcodes)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
-I'm a passionate open source developer from New York. _(he/him)_
-
-Hi, I'm Josh! I'm a frontend developer from New York with a passion for open source, static analysis, and the web.
+Hi, I'm Josh _(he/him)_! I'm a frontend developer from New York with a passion for open source, static analysis, and the web.
 I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as [typescript-eslint](https://typescript-eslint.io) and [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat).
 
 I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), available now!
