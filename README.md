@@ -66,12 +66,6 @@ If you work with TypeScript, you may have used one of the open source projects I
       <td>Adoptive maintainer</td>
       <td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
     </tr>
-    <tr>
-      <th><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-      <td>Gently fails test runs if the console was used during them.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
-    </tr>
   </tbody>
 </table>
 
@@ -104,6 +98,12 @@ These projects I do because I think they're fascinating and/or fun, if not parti
       <td>💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojisplosion" /></td>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
+      <td>Gently fails test runs if the console was used during them.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
     </tr>
   </tbody>
 </table>
