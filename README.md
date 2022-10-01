@@ -26,32 +26,32 @@ If you work with TypeScript, you may have used one of the open source projects I
 
 <table width="100%">
   <thead>
-    <th>Project ⚙️</th>
-    <th>Description 📝</th>
-    <th>Role 🧑‍🏭</th>
-    <th>Stars ⭐</th>
+    <th span="col">Project ⚙️</th>
+    <th span="col">Description 📝</th>
+    <th span="col">Role 🧑‍🏭</th>
+    <th span="col">Stars ⭐</th>
   </thead>
   <tbody>
     <tr>
-      <th><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
+      <th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
       <td>Monorepo for all the tooling which enables ESLint to support TypeScript.</td>
       <td>Maintainer</td>
       <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
     </tr>
     <tr>
-      <th><a href="https://github.com/typescript-eslint/tslint-to-eslint-config">tslint-to-eslint-config</a></th>
+      <th span="row"><a href="https://github.com/typescript-eslint/tslint-to-eslint-config">tslint-to-eslint-config</a></th>
       <td>Converts your TSLint configuration to the closest possible ESLint equivalent.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: tslint-to-eslint-config" src="https://img.shields.io/github/stars/typescript-eslint/tslint-to-eslint-config" /></td>
     </tr>
     <tr>
-      <th><a href="https://github.com/JoshuaKGoldberg/TypeStat">TypeStat</a></th>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/TypeStat">TypeStat</a></th>
       <td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
     </tr>
     <tr>
-      <th><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
       <td>ESLint plugin with $ExpectType, $ExpectError and $ExpectTypeSnapshot type assertions.</td>
       <td>Adoptive maintainer</td>
       <td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
@@ -65,32 +65,38 @@ These projects I do because I think they're fascinating and/or fun, if not parti
 
 <table width="100%">
   <thead>
-    <th>Project ⚙️</th>
-    <th>Description 📝</th>
-    <th>Role 🧑‍🏭</th>
-    <th>Stars ⭐</th>
+    <th span="col">Project ⚙️</th>
+    <th span="col">Description 📝</th>
+    <th span="col">Role 🧑‍🏭</th>
+    <th span="col">Stars ⭐</th>
   </thead>
   <tbody>
     <tr>
-      <th><a href="https://github.com/FullScreenShenanigans/EightBittr">EightBittr</a></th>
-      <td>Bare-bones, highly modular game engine for 2D 8-bit games.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: EightBittr" src="https://img.shields.io/github/stars/FullScreenShenanigans/EightBittr" /></td>
-    </tr>
-    <tr>
-      <th><a href="https://github.com/budgielang/budgie">Budgie</a></th>
+      <th span="row"><a href="https://github.com/budgielang/budgie">Budgie</a></th>
       <td>A unified syntax that compiles into your favorite OOP languages.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: Budgie" src="https://img.shields.io/github/stars/budgielang/budgie" /></td>
     </tr>
     <tr>
-      <th><a href="https://github.com/JoshuaKGoldberg/emojisplosion">emojisplosion</a></th>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/emojisplosion">Emojisplosion</a></th>
       <td>💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojisplosion" /></td>
     </tr>
     <tr>
-      <th><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
+      <th span="row"><a href="https://github.com/FullScreenShenanigans/EightBittr">EightBittr</a></th>
+      <td>Bare-bones, highly modular game engine for 2D 8-bit games.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: EightBittr" src="https://img.shields.io/github/stars/FullScreenShenanigans/EightBittr" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/emojisplosion">Konamimojisplosion</a></th>
+      <td>Connects konami-code-js to emojisplosion for a glorious easter egg</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/konamimojisplosion" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
       <td>Gently fails test runs if the console was used during them.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
