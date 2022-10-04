@@ -77,6 +77,12 @@ I've also created a spattering of other useful projects you might be interested 
       <td>Creator & maintainer</td>
       <td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
     </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
+      <td>Gently fails test runs if the console was used during them.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
+    </tr>
   </tbody>
 </table>
 
@@ -115,12 +121,6 @@ These projects I do because I think they're fascinating and/or fun, if not parti
       <td>Connects konami-code-js to emojisplosion for a glorious easter egg</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/konamimojisplosion" /></td>
-    </tr>
-    <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-      <td>Gently fails test runs if the console was used during them.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
     </tr>
   </tbody>
 </table>
