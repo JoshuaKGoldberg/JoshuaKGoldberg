@@ -72,8 +72,14 @@ I've also created a spattering of other useful projects you might be interested 
       <td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
     </tr>
     <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
+      <td>🎭 Mocks out Redux actions and selectors for clean React Jest tests.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
+    </tr>
+    <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
-      <td>TypeScript transformation that inlines calls to small functions.</td>
+      <td>TypeScript transformation that inlines calls to small functions. ⚡️</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
     </tr>
