@@ -89,6 +89,12 @@ I've also created a spattering of other useful projects you might be interested 
       <td>Creator & maintainer</td>
       <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
     </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
+      <td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
+    </tr>
   </tbody>
 </table>
 
