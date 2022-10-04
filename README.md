@@ -20,32 +20,6 @@ You might enjoy my [TSConf](https://tsconf.io) talks on building [binary arithme
 
 > You can see my [conference talks listed on my personal site](https://joshuakgoldberg.com/#talks) and read [my speaker rider](https://github.com/JoshuaKGoldberg/speaker-rider).
 
-### Visible Projects
-
-If you work with TypeScript, you may have used one of the open source projects I support:
-
-## Hi, I'm Josh! 💖
-
-[![Email Me](https://img.shields.io/badge/Email-me@joshuakgoldberg.com-BB001B.svg)](mailto:me@joshuakgoldberg.com)
-[![Follow on Twitch](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitch.tv/JoshuaKGoldberg)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/joshuakgoldbergcodes)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
-
-_(he/him)_ I'm a frontend developer with a passion for open source, static analysis, and the web.
-I'm a full time open source maintainer and work on projects in the TypeScript ecosystem such as [typescript-eslint](https://typescript-eslint.io) and [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat).
-
-I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), available now!
-
----
-
-## What I'm Working On
-
-<img alt="TypeScript logo" style="height:1.2em;width:1em;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /> **TypeScript**: Gosh do I love TypeScript. I [file issues on](https://github.com/microsoft/TypeScript/issues/JoshuaKGoldberg) and [submit PRs to](https://github.com/microsoft/TypeScript/pulls/JoshuaKGoldberg) the TypeScript language.
-You might enjoy my [TSConf](https://tsconf.io) talks on building [binary arithmetic](https://blog.joshuakgoldberg.com/binary-arithmetic) or a [board game engine](https://blog.joshuakgoldberg.com/type-system-game-engines) in the type system.
-
-> You can see my [conference talks listed on my personal site](https://joshuakgoldberg.com/#talks) and read [my speaker rider](https://github.com/JoshuaKGoldberg/speaker-rider).
-
 ### Biggest Projects
 
 If you work with TypeScript, you may have used one of the open source projects I support:
@@ -127,30 +101,6 @@ These projects I do because I think they're fascinating and/or fun, if not parti
     <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/emojisplosion">Emojisplosion</a></th>
       <td>💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojisplosion" /></td>
-    </tr>
-    <tr>
-      <th span="row"><a href="https://github.com/FullScreenShenanigans/EightBittr">EightBittr</a></th>
-      <td>Bare-bones, highly modular game engine for 2D 8-bit games.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: EightBittr" src="https://img.shields.io/github/stars/FullScreenShenanigans/EightBittr" /></td>
-    </tr>
-    <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/emojisplosion">Konamimojisplosion</a></th>
-      <td>Connects konami-code-js to emojisplosion for a glorious easter egg</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/konamimojisplosion" /></td>
-    </tr>
-    <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-      <td>Gently fails test runs if the console was used during them.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
-    </tr>
-  </tbody>
-</table>
-
       <td>Creator & maintainer</td>
       <td><img alt="Stars: emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojisplosion" /></td>
     </tr>
