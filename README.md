@@ -39,16 +39,16 @@ If you work with TypeScript, you may have used one of the open source projects I
       <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
     </tr>
     <tr>
-      <th span="row"><a href="https://github.com/typescript-eslint/tslint-to-eslint-config">tslint-to-eslint-config</a></th>
-      <td>Converts your TSLint configuration to the closest possible ESLint equivalent.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: tslint-to-eslint-config" src="https://img.shields.io/github/stars/typescript-eslint/tslint-to-eslint-config" /></td>
-    </tr>
-    <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/TypeStat">TypeStat</a></th>
       <td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/typescript-eslint/tslint-to-eslint-config">tslint-to-eslint-config</a></th>
+      <td>Converts your TSLint configuration to the closest possible ESLint equivalent.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: tslint-to-eslint-config" src="https://img.shields.io/github/stars/typescript-eslint/tslint-to-eslint-config" /></td>
     </tr>
   </tbody>
 </table>
@@ -72,10 +72,10 @@ I've also created a spattering of other useful projects you might be interested 
       <td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
     </tr>
     <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
-      <td>🎭 Mocks out Redux actions and selectors for clean React Jest tests.</td>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
+      <td>Template TypeScript Node.js package with all the CI bells & whistles I commonly use. ✨.</td>
       <td>Creator & maintainer</td>
-      <td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
+      <td><img alt="Stars: template-typescript-node-package" src="https://img.shields.io/github/stars/JoshuaKGoldberg/template-typescript-node-package" /></td>
     </tr>
     <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
@@ -84,16 +84,22 @@ I've also created a spattering of other useful projects you might be interested 
       <td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
     </tr>
     <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-      <td>Gently fails test runs if the console was used during them.</td>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
+      <td>🎭 Mocks out Redux actions and selectors for clean React Jest tests.</td>
       <td>Creator & maintainer</td>
-      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
+      <td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
     </tr>
     <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
       <td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
+      <td>Gently fails test runs if the console was used during them.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
     </tr>
   </tbody>
 </table>
