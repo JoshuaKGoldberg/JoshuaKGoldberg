@@ -55,7 +55,7 @@ If you work with TypeScript, you may have used one of the open source projects I
 
 ### Other Utilities
 
-I've also created a spattering of other useful projects you might be interested in.
+I also work on a spattering of other useful projects you might be interested in.
 
 <table width="100%">
   <thead>
