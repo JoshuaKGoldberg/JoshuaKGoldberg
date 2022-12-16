@@ -1,9 +1,9 @@
 ## Hi, I'm Josh! 💖
 
-[![Email Me](https://img.shields.io/badge/Email-me@joshuakgoldberg.com-BB001B.svg)](mailto:me@joshuakgoldberg.com)
-[![Follow on Twitch](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitch.tv/JoshuaKGoldberg)
+[![Email Me](https://img.shields.io/badge/Email-github@joshuakgoldberg.com-007735.svg)](mailto:me@joshuakgoldberg.com)
+[![Follow on Masstodon](https://img.shields.io/badge/Follow-Masstodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
+[![Follow on Twitch](https://img.shields.io/badge/Follow-Twitch-9147FF.svg)](https://twitch.tv/JoshuaKGoldberg)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/joshuakgoldbergcodes)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
 _(he/him)_ I'm a frontend developer with a passion for open source, static analysis, and the web.
