@@ -117,16 +117,16 @@ These projects I do because I think they're fascinating and/or fun, if not parti
   </thead>
   <tbody>
     <tr>
-      <th span="row"><a href="https://github.com/budgielang/budgie">Budgie</a></th>
-      <td>A unified syntax that compiles into your favorite OOP languages.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: Budgie" src="https://img.shields.io/github/stars/budgielang/budgie" /></td>
-    </tr>
-    <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/emojisplosion">Emojisplosion</a></th>
       <td>💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojisplosion" /></td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/budgielang/budgie">Budgie</a></th>
+      <td>A unified syntax that compiles into your favorite OOP languages.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: Budgie" src="https://img.shields.io/github/stars/budgielang/budgie" /></td>
     </tr>
     <tr>
       <th span="row"><a href="https://github.com/FullScreenShenanigans/EightBittr">EightBittr</a></th>
