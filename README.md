@@ -1,7 +1,7 @@
 ## Hi, I'm Josh! 💖
 
 [![Email Me](https://img.shields.io/badge/Email-github@joshuakgoldberg.com-007735.svg)](mailto:me@joshuakgoldberg.com)
-[![Follow on Masstodon](https://img.shields.io/badge/Follow-Masstodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
+[![Follow on Mastodon](https://img.shields.io/badge/Follow-Masstodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
 [![Follow on Twitch](https://img.shields.io/badge/Follow-Twitch-9147FF.svg)](https://twitch.tv/JoshuaKGoldberg)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
