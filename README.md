@@ -135,7 +135,7 @@ These projects I do because I think they're fascinating and/or fun, if not parti
       <td><img alt="Stars: EightBittr" src="https://img.shields.io/github/stars/FullScreenShenanigans/EightBittr" /></td>
     </tr>
     <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/emojisplosion">Konamimojisplosion</a></th>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/konamimojisplosion">Konamimojisplosion</a></th>
       <td>Connects konami-code-js to emojisplosion for a glorious easter egg</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/konamimojisplosion" /></td>
