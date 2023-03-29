@@ -24,9 +24,9 @@ They deserve our sincere appreciation and gratitude.
 <table width="100%">
         <thead>
                 <tr>
-                        <th width="33%">Gold Sponsors</th>
-                        <th width="33%">Silver Sponsors</th>
-                        <th width="33%">Bronze Sponsors</th>
+                        <th width="33%">Gold Sponsors (&gt;=$25/mo)</th>
+                        <th width="33%">Silver Sponsors (&gt;=$10/mo)</th>
+                        <th width="33%">Bronze Sponsors (&gt;=$1/mo)</th>
                 </tr>
         </thead>
         <tbody>
