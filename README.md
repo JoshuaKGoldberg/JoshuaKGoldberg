@@ -82,31 +82,31 @@ They deserve our sincere appreciation and gratitude.
                         </td>
                         <td >
                                 <a href="https://github.com/Yonava">
-                                        <img alt="Yona Alexander Voss-Andreae" src="https://github.com/Yonava.png?size=25" />
+                                        <img alt="Yona Alexander Voss-Andreae" src="https://github.com/Yonava.png?size=50" />
                                 </a>
                                 <a href="https://github.com/usmangenx">
-                                        <img alt="Muhammad Usman Javed" src="https://github.com/usmangenx.png?size=25" />
+                                        <img alt="Muhammad Usman Javed" src="https://github.com/usmangenx.png?size=50" />
                                 </a>
                                 <a href="https://github.com/sindresorhus">
-                                        <img alt="Sindre Sorhus" src="https://github.com/sindresorhus.png?size=25" />
+                                        <img alt="Sindre Sorhus" src="https://github.com/sindresorhus.png?size=50" />
                                 </a>
                                 <a href="https://github.com/seveibar">
-                                        <img alt="Severin Ibarluzea" src="https://github.com/seveibar.png?size=25" />
+                                        <img alt="Severin Ibarluzea" src="https://github.com/seveibar.png?size=50" />
                                 </a>
                                 <a href="https://github.com/santoshyadavdev">
-                                        <img alt="Santosh Yadav" src="https://github.com/santoshyadavdev.png?size=25" />
+                                        <img alt="Santosh Yadav" src="https://github.com/santoshyadavdev.png?size=50" />
                                 </a>
                                 <a href="https://github.com/kevinctofel">
-                                        <img alt="Kevin C. Tofel" src="https://github.com/kevinctofel.png?size=25" />
+                                        <img alt="Kevin C. Tofel" src="https://github.com/kevinctofel.png?size=50" />
                                 </a>
                                 <a href="https://github.com/johnnyreilly">
-                                        <img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=25" />
+                                        <img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=50" />
                                 </a>
                                 <a href="https://github.com/evenstensberg">
-                                        <img alt="Even Stensberg" src="https://github.com/evenstensberg.png?size=25" />
+                                        <img alt="Even Stensberg" src="https://github.com/evenstensberg.png?size=50" />
                                 </a>
                                 <a href="https://github.com/bmish">
-                                        <img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=25" />
+                                        <img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
                                 </a>
                         </td>
                 </tr>
