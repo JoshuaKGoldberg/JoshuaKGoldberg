@@ -114,7 +114,8 @@ They deserve our sincere appreciation and gratitude.
 </table>
 
 > 💚 Motivated to support my work, or just want your image here?
-> [Please sponsor me](https://github.com/sponsors/JoshuaKGoldberg)!
+> See my [GitHub Sponsors profile](https://github.com/sponsors/JoshuaKGoldberg).
+> Thanks!
 
 ## What I'm Working On
 
