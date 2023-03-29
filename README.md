@@ -6,7 +6,7 @@
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
-Hi, I'm Josh! I’m an independent full time open source developer.
+I’m an independent full time open source developer.
 
 I work on projects in the TypeScript ecosystem, most notably [typescript-eslint](https://typescript-eslint.io): the tooling that enables ESLint and Prettier to run on TypeScript code.
 I'm also the author of the OO'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and an active conference speaker.
