@@ -218,6 +218,13 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
       <td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
     </tr>
     <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
+      <td>Contributed markdownlint rule for one sentence per line.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
+    </tr>
+          
+    <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
       <td>Checks whether a semantic release should be run for a commit.</td>
       <td>Creator & maintainer</td>
