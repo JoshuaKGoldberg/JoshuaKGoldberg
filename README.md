@@ -139,7 +139,7 @@ If you work with TypeScript, you may have used one of the open source projects I
   <tbody>
     <tr>
       <th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
-      <td>Monorepo for all the tooling which enables ESLint to support TypeScript.</td>
+      <td>The tooling that enables ESLint and Prettier to support TypeScript.</td>
       <td>Maintainer</td>
       <td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
     </tr>
