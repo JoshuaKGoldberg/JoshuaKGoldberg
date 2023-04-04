@@ -177,7 +177,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
   <tbody>
     <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
-      <td>Template TypeScript Node.js package with all the CI bells & whistles I commonly use. ✨.</td>
+      <td>A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: template-typescript-node-package" src="https://img.shields.io/github/stars/JoshuaKGoldberg/template-typescript-node-package" /></td>
     </tr>
