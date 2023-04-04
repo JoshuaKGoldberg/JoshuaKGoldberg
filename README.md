@@ -79,6 +79,9 @@ They deserve our sincere appreciation and gratitude.
                                 <a href="https://github.com/AkiraBrand">
                                         <img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
                                 </a>
+                                <a href="https://github.com/Jutanium">
+                                        <img alt="Dan Jutan" src="https://github.com/Jutanium.png?size=50" />
+                                </a>
                         </td>
                         <td >
                                 <a href="https://github.com/Yonava">
@@ -107,6 +110,9 @@ They deserve our sincere appreciation and gratitude.
                                 </a>
                                 <a href="https://github.com/bmish">
                                         <img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
+                                </a>
+                                <a href="https://github.com/ElianCodes">
+                                        <img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
                                 </a>
                         </td>
                 </tr>
