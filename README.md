@@ -200,6 +200,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
       <td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
     </tr>
     <tr>
+      <th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
+      <td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
+      <td>Creator & maintainer</td>
+      <td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
+    </tr>
+    <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
       <td>Gently fails test runs if the console was used during them.</td>
       <td>Creator & maintainer</td>
@@ -212,12 +218,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
       <td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
     </tr>
     <tr>
-      <th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
-      <td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
-      <td>Creator & maintainer</td>
-      <td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
-    </tr>
-    <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
       <td>Contributed markdownlint rule for one sentence per line.</td>
       <td>Creator & maintainer</td>
@@ -225,7 +225,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
     </tr>
     <tr>
       <th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-      <td>Contributed markdownlint rule for one sentence per line.</td>
+      <td>Creates a Markdown table summarizing your GitHub sponsors.</td>
       <td>Creator & maintainer</td>
       <td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
     </tr>  
