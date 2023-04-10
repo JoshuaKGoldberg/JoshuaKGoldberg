@@ -24,13 +24,19 @@ They deserve our sincere appreciation and gratitude.
 <table width="100%">
         <thead>
                 <tr>
-                        <th width="33%">Gold Sponsors (&gt;=$25/mo)</th>
-                        <th width="33%">Silver Sponsors (&gt;=$10/mo)</th>
-                        <th width="33%">Bronze Sponsors (&gt;=$1/mo)</th>
+                        <th width="25%">Platinum Sponsors (&gt;=$100/mo)</th>
+                        <th width="25%">Gold Sponsors (&gt;=$25/mo)</th>
+                        <th width="25%">Silver Sponsors (&gt;=$10/mo)</th>
+                        <th width="25%">Bronze Sponsors (&gt;=$1/mo)</th>
                 </tr>
         </thead>
         <tbody>
                 <tr align="center">
+                        <td >
+                                <a href="https://github.com/sponsors/Jutanium">
+                                        <img alt="Dan Jutan" src="https://github.com/Jutanium.png?size=150" />
+                                </a>
+                        </td>
                         <td >
                                 <a href="https://github.com/Loops-so">
                                         <img alt="Loops" src="https://github.com/Loops-so.png?size=100" />
@@ -78,9 +84,6 @@ They deserve our sincere appreciation and gratitude.
                                 </a>
                                 <a href="https://github.com/AkiraBrand">
                                         <img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
-                                </a>
-                                <a href="https://github.com/Jutanium">
-                                        <img alt="Dan Jutan" src="https://github.com/Jutanium.png?size=50" />
                                 </a>
                         </td>
                         <td >
