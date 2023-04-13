@@ -19,7 +19,7 @@
 	},
 	"homepage": "https://github.com/JoshuaKGoldberg/JoshuaKGoldberg#readme",
 	"dependencies": {
-		"github-sponsors-to-markdown": "^0.0.5"
+		"github-sponsors-to-markdown": "^0.0.6"
 	},
 	"devDependencies": {
 		"prettier": "^2.8.7"
