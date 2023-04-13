@@ -9,6 +9,7 @@ const existingContent = (await fs.readFile("./README.md"))
 	.split("\n");
 
 const table = await githubSponsorsToMarkdown({
+	login: "JoshuaKGoldberg",
 	tiers: {
 		Platinum: {
 			label: "Platinum Sponsors (&gt;=$100/mo)",

@@ -24,10 +24,94 @@ They deserve our sincere appreciation and gratitude.
 <table width="100%">
 	<thead>
 		<tr>
+			<th width="25%">Platinum Sponsors (&gt;=$100/mo)</th>
+			<th width="25%">Gold Sponsors (&gt;=$25/mo)</th>
+			<th width="25%">Silver Sponsors (&gt;=$10/mo)</th>
+			<th width="25%">Bronze Sponsors (&gt;=$5/mo)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr align="center">
+			<td >
+				<a href="https://github.com/Jutanium">
+					<img alt="Dan Jutan" src="https://github.com/Jutanium.png?size=150" />
+				</a>
+			</td>
+			<td >
+				<a href="https://github.com/Loops-so">
+					<img alt="Loops" src="https://github.com/Loops-so.png?size=100" />
+				</a>
+				<a href="https://github.com/beyang">
+					<img alt="Beyang Liu" src="https://github.com/beyang.png?size=100" />
+				</a>
+			</td>
+			<td >
+				<a href="https://github.com/thomasballinger">
+					<img alt="Tom Ballinger" src="https://github.com/thomasballinger.png?size=50" />
+				</a>
+				<a href="https://github.com/rwaskiewicz">
+					<img alt="Ryan Waskiewicz" src="https://github.com/rwaskiewicz.png?size=50" />
+				</a>
+				<a href="https://github.com/nickytonline">
+					<img alt="Nick Taylor" src="https://github.com/nickytonline.png?size=50" />
+				</a>
+				<a href="https://github.com/kitsonk">
+					<img alt="Kitson Kelly" src="https://github.com/kitsonk.png?size=50" />
+				</a>
+				<a href="https://github.com/kienankb">
+					<img alt="kienan" src="https://github.com/kienankb.png?size=50" />
+				</a>
+				<a href="https://github.com/KernelGamut32">
+					<img alt="Allen Sanders" src="https://github.com/KernelGamut32.png?size=50" />
+				</a>
+				<a href="https://github.com/KATT">
+					<img alt="Alex / KATT" src="https://github.com/KATT.png?size=50" />
+				</a>
+				<a href="https://github.com/Jolg42">
+					<img alt="Joël Galeran" src="https://github.com/Jolg42.png?size=50" />
+				</a>
+				<a href="https://github.com/indeedeng">
+					<img alt="Indeed Engineering" src="https://github.com/indeedeng.png?size=50" />
+				</a>
+				<a href="https://github.com/IanVS">
+					<img alt="Ian VanSchooten" src="https://github.com/IanVS.png?size=50" />
+				</a>
+				<a href="https://github.com/FarazPatankar">
+					<img alt="Faraz Patankar" src="https://github.com/FarazPatankar.png?size=50" />
+				</a>
+				<a href="https://github.com/eps1lon">
+					<img alt="Sebastian Silbermann" src="https://github.com/eps1lon.png?size=50" />
+				</a>
+				<a href="https://github.com/AkiraBrand">
+					<img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
+				</a>
+			</td>
+			<td >
+				<a href="https://github.com/usmangenx">
+					<img alt="Muhammad Usman Javed" src="https://github.com/usmangenx.png?size=50" />
+				</a>
+				<a href="https://github.com/sindresorhus">
+					<img alt="Sindre Sorhus" src="https://github.com/sindresorhus.png?size=50" />
+				</a>
+				<a href="https://github.com/seveibar">
+					<img alt="Severin Ibarluzea" src="https://github.com/seveibar.png?size=50" />
+				</a>
+				<a href="https://github.com/santoshyadavdev">
+					<img alt="Santosh Yadav" src="https://github.com/santoshyadavdev.png?size=50" />
+				</a>
+				<a href="https://github.com/kevinctofel">
+					<img alt="Kevin C. Tofel" src="https://github.com/kevinctofel.png?size=50" />
+				</a>
+				<a href="https://github.com/johnnyreilly">
+					<img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=50" />
+				</a>
+				<a href="https://github.com/ElianCodes">
+					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
+				</a>
+				<a href="https://github.com/bmish">
+					<img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
