@@ -32,6 +32,7 @@ const table = await githubSponsorsToMarkdown({
 			size: 50,
 		},
 	},
+	verbose: true,
 });
 
 const updatedContent = [
