@@ -27,13 +27,13 @@ They deserve our sincere appreciation and gratitude.
 			<th width="25%">Platinum Sponsors (&gt;=$100/mo)</th>
 			<th width="25%">Gold Sponsors (&gt;=$25/mo)</th>
 			<th width="25%">Silver Sponsors (&gt;=$10/mo)</th>
-			<th width="25%">Bronze Sponsors (&gt;=$1/mo)</th>
+			<th width="25%">Bronze Sponsors (&gt;=$5/mo)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr align="center">
 			<td >
-				<a href="https://github.com/sponsors/Jutanium">
+				<a href="https://github.com/Jutanium">
 					<img alt="Dan Jutan" src="https://github.com/Jutanium.png?size=150" />
 				</a>
 			</td>
@@ -87,9 +87,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 			</td>
 			<td >
-				<a href="https://github.com/Yonava">
-					<img alt="Yona Alexander Voss-Andreae" src="https://github.com/Yonava.png?size=50" />
-				</a>
 				<a href="https://github.com/usmangenx">
 					<img alt="Muhammad Usman Javed" src="https://github.com/usmangenx.png?size=50" />
 				</a>
@@ -108,14 +105,11 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/johnnyreilly">
 					<img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=50" />
 				</a>
-				<a href="https://github.com/evenstensberg">
-					<img alt="Even Stensberg" src="https://github.com/evenstensberg.png?size=50" />
+				<a href="https://github.com/ElianCodes">
+					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
 				</a>
 				<a href="https://github.com/bmish">
 					<img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
-				</a>
-				<a href="https://github.com/ElianCodes">
-					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
 				</a>
 			</td>
 		</tr>

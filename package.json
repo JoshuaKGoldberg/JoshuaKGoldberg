@@ -1,0 +1,27 @@
+{
+	"name": "joshuakgoldberg",
+	"version": "1.0.0",
+	"description": "[![Email Me](https://img.shields.io/badge/Email-github@joshuakgoldberg.com-007735.svg)](mailto:me@joshuakgoldberg.com) [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg) [![Follow on Twitch](https://img.shields.io/badge/Follow-Twitch-9147FF.svg)](https://twitch.tv/JoshuaKGoldberg) [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg) [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)",
+	"main": "build.js",
+	"type": "module",
+	"scripts": {
+		"build": "node build.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues"
+	},
+	"homepage": "https://github.com/JoshuaKGoldberg/JoshuaKGoldberg#readme",
+	"dependencies": {
+		"github-sponsors-to-markdown": "^0.0.1"
+	},
+	"devDependencies": {
+		"prettier": "^2.8.7"
+	}
+}
