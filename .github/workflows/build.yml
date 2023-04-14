@@ -14,3 +14,7 @@ on:
     branches:
       - ci-test
       - main
+  repository_dispatch:
+    types:
+      - webhook
+  workflow_dispatch:
