@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  github-sponsors-to-markdown: ^0.0.6
+  github-sponsors-to-markdown: ^0.0.7
   prettier: ^2.8.7
 
 dependencies:
-  github-sponsors-to-markdown: 0.0.6
+  github-sponsors-to-markdown: 0.0.7
 
 devDependencies:
   prettier: 2.8.7
@@ -69,8 +69,8 @@ packages:
     resolution: {integrity: sha512-xmHIy4F3scKVwMsQ4WnVaS8bHOx0DmVwRywosKhaILI0ywMDWPtBSku2HNxRvF7jtwDRsoEwYQSfbxj8b7RlJQ==}
     dev: false
 
-  /github-sponsors-to-markdown/0.0.6:
-    resolution: {integrity: sha512-OgEX6HnAEqKnR0hJpyQrXFDiinbA/Wn7AIvs/zQWFfG9I4jRCjvL+jOWH2Zd+vj82zYggOtLksMmeqOXDy4Lyg==}
+  /github-sponsors-to-markdown/0.0.7:
+    resolution: {integrity: sha512-kCwbk6iZYOq6TMkyHvOHtL2Y8z5Zb3Pxw8LXMdciARft1ZOTyg9cwsUOTamy07Z8WaciG2/RQFQRnqVjGtHVTw==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
