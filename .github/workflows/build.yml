@@ -4,7 +4,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: ./.github/actions/prepare
-      - run: GH_TOKEN=${{ secrets.GITHUB_TOKEN }} pnpm build
+      - env:
+          SPONSORS_PAT: ${{ secrets.SPONSORS_PAT }}
+        run: GH_TOKEN=$SPONSORS_PAT pnpm build
+
       - uses: EndBug/add-and-commit@v9
 
 name: Build README.md
