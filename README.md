@@ -182,24 +182,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: template-typescript-node-package" src="https://img.shields.io/github/stars/JoshuaKGoldberg/template-typescript-node-package" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
-			<td>Fills in missing allcontributors entries for a repository. 👪</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
-			<td>Generates an allcontributors list for an existing repository. 👪</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
-			<td>Checks whether a documentation description introduces any new information.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
 			<td>ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions</td>
 			<td>Adoptive maintainer</td>
@@ -236,6 +218,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
+			<td>Checks whether a documentation description introduces any new information.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
 			<td>Checks whether a semantic release should be run for a commit.</td>
 			<td>Creator & maintainer</td>
@@ -252,6 +240,18 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Contributed markdownlint rule for one sentence per line.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
+			<td>Fills in missing allcontributors entries for a repository. 👪</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
+			<td>Generates an allcontributors list for an existing repository. 👪</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
