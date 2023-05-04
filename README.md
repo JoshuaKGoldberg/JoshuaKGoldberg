@@ -1,5 +1,10 @@
 ## Hi, I'm Josh! 💖
 
+<!--
+Fun fact: the entirety of this README.md is auto-generated!
+See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
+-->
+
 [![Email Me](https://img.shields.io/badge/Email-github@joshuakgoldberg.com-007735.svg)](mailto:me@joshuakgoldberg.com)
 [![Follow on Bluesky](https://img.shields.io/badge/Follow-Bluesky-3B82F6.svg)](https://staging.bsky.app/profile/joshuakgoldberg.com)
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
