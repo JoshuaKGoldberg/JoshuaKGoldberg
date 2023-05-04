@@ -7,7 +7,6 @@ jobs:
       - env:
           SPONSORS_PAT: ${{ secrets.SPONSORS_PAT }}
         run: GH_TOKEN=$SPONSORS_PAT pnpm build
-
       - uses: EndBug/add-and-commit@v9
 
 name: Build README.md
@@ -20,4 +19,6 @@ on:
   repository_dispatch:
     types:
       - webhook
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
