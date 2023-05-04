@@ -27,6 +27,24 @@
         "stars": 154
       },
       {
+        "owner": "JoshuaKGoldberg",
+        "repo": "all-contributors-auto-action",
+        "description": "Fills in missing allcontributors entries for a repository. 👪",
+        "stars": 3
+      },
+      {
+        "owner": "JoshuaKGoldberg",
+        "repo": "all-contributors-for-repository",
+        "description": "Generates an allcontributors list for an existing repository. 👪",
+        "stars": 3
+      },
+      {
+        "owner": "JoshuaKGoldberg",
+        "repo": "are-docs-informative",
+        "description": "Checks whether a documentation description introduces any new information.",
+        "stars": 7
+      },
+      {
         "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
         "owner": "JoshuaKGoldberg",
         "repo": "eslint-plugin-expect-type",
