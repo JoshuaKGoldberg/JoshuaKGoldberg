@@ -7,13 +7,13 @@
         "owner": "typescript-eslint",
         "repo": "typescript-eslint",
         "role": "Maintainer",
-        "stars": 13300
+        "stars": 13324
       },
       {
         "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
         "owner": "JoshuaKGoldberg",
         "repo": "TypeStat",
-        "stars": 900
+        "stars": 904
       }
     ]
   },
@@ -24,14 +24,14 @@
         "description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
         "owner": "JoshuaKGoldberg",
         "repo": "template-typescript-node-package",
-        "stars": 154
+        "stars": 158
       },
       {
         "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
         "owner": "JoshuaKGoldberg",
         "repo": "eslint-plugin-expect-type",
         "role": "Adoptive maintainer",
-        "stars": 59
+        "stars": 60
       },
       {
         "description": "🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
@@ -114,7 +114,7 @@
         "description": "💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍",
         "owner": "JoshuaKGoldberg",
         "repo": "Emojisplosion",
-        "stars": 71
+        "stars": 72
       },
       {
         "description": "Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
@@ -145,7 +145,7 @@
         "owner": "JoshuaKGoldberg",
         "repo": "Old-Deleted-FullScreenMario",
         "role": "Creator",
-        "stars": 2994
+        "stars": 2995
       },
       {
         "description": "A free HTML5 remake of the original Pokemon, expanded for modern browsing.",
