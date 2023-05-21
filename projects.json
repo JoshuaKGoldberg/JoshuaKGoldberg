@@ -7,13 +7,13 @@
         "owner": "typescript-eslint",
         "repo": "typescript-eslint",
         "role": "Maintainer",
-        "stars": 13324
+        "stars": 13383
       },
       {
         "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
         "owner": "JoshuaKGoldberg",
         "repo": "TypeStat",
-        "stars": 904
+        "stars": 913
       }
     ]
   },
@@ -24,7 +24,7 @@
         "description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
         "owner": "JoshuaKGoldberg",
         "repo": "template-typescript-node-package",
-        "stars": 158
+        "stars": 174
       },
       {
         "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
@@ -34,22 +34,22 @@
         "stars": 60
       },
       {
+        "description": "A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
+        "owner": "JoshuaKGoldberg",
+        "repo": "refined-saved-replies",
+        "stars": 20
+      },
+      {
         "description": "🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
         "owner": "JoshuaKGoldberg",
         "repo": "mock-react-redux",
-        "stars": 20
+        "stars": 19
       },
       {
         "description": "TypeScript transformation that inlines calls to small functions. ⚡️",
         "owner": "JoshuaKGoldberg",
         "repo": "ts-function-inliner",
         "stars": 18
-      },
-      {
-        "description": "A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "refined-saved-replies",
-        "stars": 15
       },
       {
         "description": "Gently fails test runs if the console was used during them. ✅",
@@ -76,22 +76,22 @@
         "stars": 5
       },
       {
+        "description": "Contributed markdownlint rule for one sentence per line.",
+        "owner": "JoshuaKGoldberg",
+        "repo": "sentences-per-line",
+        "stars": 5
+      },
+      {
         "description": "Creates a Markdown table summarizing your GitHub sponsors.",
         "owner": "JoshuaKGoldberg",
         "repo": "github-sponsors-to-markdown",
         "stars": 4
       },
       {
-        "description": "Contributed markdownlint rule for one sentence per line.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "sentences-per-line",
-        "stars": 4
-      },
-      {
         "owner": "JoshuaKGoldberg",
         "repo": "all-contributors-auto-action",
         "description": "Fills in missing allcontributors entries for a repository. 👪",
-        "stars": 3
+        "stars": 4
       },
       {
         "owner": "JoshuaKGoldberg",
@@ -111,10 +111,17 @@
     "description": "I also have an interest in making web apps more delightful. These projects will help you add emoji delighters to your page quickly.",
     "projects": [
       {
-        "description": "💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍",
+        "description": "😏 simple emoji support for node.js projects",
+        "owner": "omnidan",
+        "repo": "node-emoji",
+        "role": "Junior maintainer",
+        "stars": 1154
+      },
+      {
+        "description": "💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍",
         "owner": "JoshuaKGoldberg",
         "repo": "Emojisplosion",
-        "stars": 72
+        "stars": 74
       },
       {
         "description": "Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
@@ -145,13 +152,13 @@
         "owner": "JoshuaKGoldberg",
         "repo": "Old-Deleted-FullScreenMario",
         "role": "Creator",
-        "stars": 2995
+        "stars": 2992
       },
       {
         "description": "A free HTML5 remake of the original Pokemon, expanded for modern browsing.",
         "owner": "FullScreenShenanigans",
         "repo": "FullScreenPokemon",
-        "stars": 196
+        "stars": 199
       },
       {
         "description": "Choosing a modern JavaScript UI framework, Pokemon-style.",
@@ -183,13 +190,13 @@
         ],
         "owner": "budgielang",
         "repo": "Budgie",
-        "stars": 58
+        "stars": 59
       },
       {
         "description": "Bare-bones, highly modular game engine for 2D 8-bit games.",
         "owner": "FullScreenShenanigans",
         "repo": "EightBittr",
-        "stars": 49
+        "stars": 51
       }
     ]
   }

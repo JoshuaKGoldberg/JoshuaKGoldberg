@@ -188,6 +188,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
+			<td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
 			<td>🎭 Mocks out Redux actions and selectors for clean React Jest tests.</td>
 			<td>Creator & maintainer</td>
@@ -198,12 +204,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>TypeScript transformation that inlines calls to small functions. ⚡️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
-			<td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
@@ -230,16 +230,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-			<td>Creates a Markdown table summarizing your GitHub sponsors.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for one sentence per line.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
+			<td>Creates a Markdown table summarizing your GitHub sponsors.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
@@ -276,8 +276,14 @@ These projects will help you add emoji delighters to your page quickly.
 	</thead>
 	<tbody>
 		<tr>
+			<th span="row"><a href="https://github.com/omnidan/node-emoji">node-emoji</a></th>
+			<td>😏 simple emoji support for node.js projects</td>
+			<td>Junior maintainer</td>
+			<td><img alt="Stars: node-emoji" src="https://img.shields.io/github/stars/omnidan/node-emoji" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Emojisplosion">Emojisplosion</a></th>
-			<td>💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻HTML 📄page. 😚😍</td>
+			<td>💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: Emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Emojisplosion" /></td>
 		</tr>
