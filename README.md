@@ -277,7 +277,7 @@ These projects will help you add emoji delighters to your page quickly.
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/omnidan/node-emoji">node-emoji</a></th>
-			<td>😏 simple emoji support for node.js projects</td>
+			<td>:smirk: simple emoji support for node.js projects</td>
 			<td>Junior maintainer</td>
 			<td><img alt="Stars: node-emoji" src="https://img.shields.io/github/stars/omnidan/node-emoji" /></td>
 		</tr>

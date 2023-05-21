@@ -111,7 +111,7 @@
     "description": "I also have an interest in making web apps more delightful. These projects will help you add emoji delighters to your page quickly.",
     "projects": [
       {
-        "description": "😏 simple emoji support for node.js projects",
+        "description": ":smirk: simple emoji support for node.js projects",
         "owner": "omnidan",
         "repo": "node-emoji",
         "role": "Junior maintainer",
