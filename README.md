@@ -203,6 +203,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
+			<td>Prettier plugin to enforce consistent brace style for all control statements.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
 			<td>Gently fails test runs if the console was used during them. ✅</td>
 			<td>Creator & maintainer</td>

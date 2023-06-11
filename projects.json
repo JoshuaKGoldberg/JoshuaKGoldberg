@@ -52,6 +52,12 @@
         "stars": 18
       },
       {
+        "description": "Prettier plugin to enforce consistent brace style for all control statements.",
+        "owner": "JoshuaKGoldberg",
+        "repo": "prettier-plugin-curly",
+        "stars": 10
+      },
+      {
         "description": "Gently fails test runs if the console was used during them. ✅",
         "owner": "JoshuaKGoldberg",
         "repo": "console-fail-test",
