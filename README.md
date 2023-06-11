@@ -72,9 +72,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/KernelGamut32">
 					<img alt="Allen Sanders" src="https://github.com/KernelGamut32.png?size=50" />
 				</a>
-				<a href="https://github.com/KATT">
-					<img alt="Alex / KATT" src="https://github.com/KATT.png?size=50" />
-				</a>
 				<a href="https://github.com/Jolg42">
 					<img alt="Joël Galeran" src="https://github.com/Jolg42.png?size=50" />
 				</a>
@@ -150,7 +147,7 @@ If you work with TypeScript, you may have used one of the open source projects I
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
-			<td>:sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript</td>
+			<td>✨ Monorepo for all the tooling which enables ESLint to support TypeScript</td>
 			<td>Maintainer</td>
 			<td><img alt="Stars: typescript-eslint" src="https://img.shields.io/github/stars/typescript-eslint/typescript-eslint" /></td>
 		</tr>
@@ -277,7 +274,7 @@ These projects will help you add emoji delighters to your page quickly.
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/omnidan/node-emoji">node-emoji</a></th>
-			<td>:smirk: simple emoji support for node.js projects</td>
+			<td>😏 simple emoji support for node.js projects</td>
 			<td>Junior maintainer</td>
 			<td><img alt="Stars: node-emoji" src="https://img.shields.io/github/stars/omnidan/node-emoji" /></td>
 		</tr>

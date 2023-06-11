@@ -3,17 +3,17 @@
     "description": "If you work with TypeScript, you may have used one of the open source projects I support:",
     "projects": [
       {
-        "description": ":sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript",
+        "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
         "owner": "typescript-eslint",
         "repo": "typescript-eslint",
         "role": "Maintainer",
-        "stars": 13383
+        "stars": 13479
       },
       {
         "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
         "owner": "JoshuaKGoldberg",
         "repo": "TypeStat",
-        "stars": 913
+        "stars": 923
       }
     ]
   },
@@ -24,20 +24,20 @@
         "description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
         "owner": "JoshuaKGoldberg",
         "repo": "template-typescript-node-package",
-        "stars": 174
+        "stars": 234
       },
       {
         "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
         "owner": "JoshuaKGoldberg",
         "repo": "eslint-plugin-expect-type",
         "role": "Adoptive maintainer",
-        "stars": 60
+        "stars": 61
       },
       {
         "description": "A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
         "owner": "JoshuaKGoldberg",
         "repo": "refined-saved-replies",
-        "stars": 20
+        "stars": 21
       },
       {
         "description": "🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
@@ -55,7 +55,7 @@
         "description": "Gently fails test runs if the console was used during them. ✅",
         "owner": "JoshuaKGoldberg",
         "repo": "console-fail-test",
-        "stars": 9
+        "stars": 10
       },
       {
         "description": "Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
@@ -111,17 +111,17 @@
     "description": "I also have an interest in making web apps more delightful. These projects will help you add emoji delighters to your page quickly.",
     "projects": [
       {
-        "description": ":smirk: simple emoji support for node.js projects",
+        "description": "😏 simple emoji support for node.js projects",
         "owner": "omnidan",
         "repo": "node-emoji",
         "role": "Junior maintainer",
-        "stars": 1154
+        "stars": 1160
       },
       {
         "description": "💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍",
         "owner": "JoshuaKGoldberg",
         "repo": "Emojisplosion",
-        "stars": 74
+        "stars": 76
       },
       {
         "description": "Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
@@ -152,13 +152,13 @@
         "owner": "JoshuaKGoldberg",
         "repo": "Old-Deleted-FullScreenMario",
         "role": "Creator",
-        "stars": 2992
+        "stars": 2991
       },
       {
         "description": "A free HTML5 remake of the original Pokemon, expanded for modern browsing.",
         "owner": "FullScreenShenanigans",
         "repo": "FullScreenPokemon",
-        "stars": 199
+        "stars": 200
       },
       {
         "description": "Choosing a modern JavaScript UI framework, Pokemon-style.",

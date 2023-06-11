@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/JoshuaKGoldberg/JoshuaKGoldberg#readme",
 	"dependencies": {
 		"github-sponsors-to-markdown": "^0.0.7",
+		"node-emoji": "^2.0.2",
 		"octokit": "^2.0.14",
 		"prettier": "^2.8.7"
 	},

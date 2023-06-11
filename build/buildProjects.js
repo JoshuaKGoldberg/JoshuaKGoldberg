@@ -1,6 +1,8 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import url from "node:url";
+
+import * as emoji from "node-emoji";
 import prettier from "prettier";
 import { Octokit } from "octokit";
 
@@ -32,7 +34,7 @@ export async function buildProjects() {
 		const { owner, repo } = project;
 		const response = await octokit.rest.repos.get({ owner, repo });
 
-		project.description = response.data.description;
+		project.description = emoji.emojify(response.data.description);
 		project.stars = response.data.stargazers_count;
 
 		if (project.more) {
