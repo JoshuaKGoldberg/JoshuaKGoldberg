@@ -7,7 +7,7 @@
         "owner": "typescript-eslint",
         "repo": "typescript-eslint",
         "role": "Maintainer",
-        "stars": 13479
+        "stars": 13488
       },
       {
         "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
@@ -24,7 +24,7 @@
         "description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
         "owner": "JoshuaKGoldberg",
         "repo": "template-typescript-node-package",
-        "stars": 234
+        "stars": 235
       },
       {
         "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
@@ -55,7 +55,7 @@
         "description": "Prettier plugin to enforce consistent brace style for all control statements.",
         "owner": "JoshuaKGoldberg",
         "repo": "prettier-plugin-curly",
-        "stars": 10
+        "stars": 22
       },
       {
         "description": "Gently fails test runs if the console was used during them. ✅",
