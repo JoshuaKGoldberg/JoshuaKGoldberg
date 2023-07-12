@@ -7,13 +7,13 @@
         "owner": "typescript-eslint",
         "repo": "typescript-eslint",
         "role": "Maintainer",
-        "stars": 13488
+        "stars": 13600
       },
       {
         "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
         "owner": "JoshuaKGoldberg",
         "repo": "TypeStat",
-        "stars": 923
+        "stars": 943
       }
     ]
   },
@@ -24,14 +24,20 @@
         "description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
         "owner": "JoshuaKGoldberg",
         "repo": "template-typescript-node-package",
-        "stars": 235
+        "stars": 273
       },
       {
         "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
         "owner": "JoshuaKGoldberg",
         "repo": "eslint-plugin-expect-type",
         "role": "Adoptive maintainer",
-        "stars": 61
+        "stars": 63
+      },
+      {
+        "description": "Prettier plugin to enforce consistent brace style for all control statements.",
+        "owner": "JoshuaKGoldberg",
+        "repo": "prettier-plugin-curly",
+        "stars": 28
       },
       {
         "description": "A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
@@ -43,22 +49,16 @@
         "description": "🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
         "owner": "JoshuaKGoldberg",
         "repo": "mock-react-redux",
-        "stars": 19
+        "stars": 20
       },
       {
         "description": "TypeScript transformation that inlines calls to small functions. ⚡️",
         "owner": "JoshuaKGoldberg",
         "repo": "ts-function-inliner",
-        "stars": 18
+        "stars": 19
       },
       {
-        "description": "Prettier plugin to enforce consistent brace style for all control statements.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "prettier-plugin-curly",
-        "stars": 22
-      },
-      {
-        "description": "Gently fails test runs if the console was used during them. ✅",
+        "description": "Gently fails test runs if the console was used during them. ✋",
         "owner": "JoshuaKGoldberg",
         "repo": "console-fail-test",
         "stars": 10
@@ -67,7 +67,7 @@
         "description": "Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
         "owner": "JoshuaKGoldberg",
         "repo": "ts-api-utils",
-        "stars": 9
+        "stars": 13
       },
       {
         "owner": "JoshuaKGoldberg",
@@ -97,7 +97,7 @@
         "owner": "JoshuaKGoldberg",
         "repo": "all-contributors-auto-action",
         "description": "Fills in missing allcontributors entries for a repository. 👪",
-        "stars": 4
+        "stars": 8
       },
       {
         "owner": "JoshuaKGoldberg",
@@ -121,13 +121,13 @@
         "owner": "omnidan",
         "repo": "node-emoji",
         "role": "Junior maintainer",
-        "stars": 1160
+        "stars": 1209
       },
       {
         "description": "💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍",
         "owner": "JoshuaKGoldberg",
         "repo": "Emojisplosion",
-        "stars": 76
+        "stars": 78
       },
       {
         "description": "Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
@@ -145,7 +145,7 @@
         "description": "Astro integration to quickly integrate konamimojisplosion into your site. 🎉 ✨ 🎆",
         "owner": "JoshuaKGoldberg",
         "repo": "astro-konamimojisplosion",
-        "stars": 2
+        "stars": 1
       }
     ]
   },
@@ -158,7 +158,7 @@
         "owner": "JoshuaKGoldberg",
         "repo": "Old-Deleted-FullScreenMario",
         "role": "Creator",
-        "stars": 2991
+        "stars": 2993
       },
       {
         "description": "A free HTML5 remake of the original Pokemon, expanded for modern browsing.",
@@ -202,7 +202,7 @@
         "description": "Bare-bones, highly modular game engine for 2D 8-bit games.",
         "owner": "FullScreenShenanigans",
         "repo": "EightBittr",
-        "stars": 51
+        "stars": 53
       }
     ]
   }

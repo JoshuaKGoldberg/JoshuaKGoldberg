@@ -32,19 +32,13 @@ They deserve our sincere appreciation and gratitude.
 <table width="100%">
 	<thead>
 		<tr>
-			<th width="25%">Platinum Sponsors (&gt;=$100/mo)</th>
-			<th width="25%">Gold Sponsors (&gt;=$25/mo)</th>
-			<th width="25%">Silver Sponsors (&gt;=$10/mo)</th>
-			<th width="25%">Bronze Sponsors (&gt;=$5/mo)</th>
+			<th width="33%">Gold Sponsors (&gt;=$25/mo)</th>
+			<th width="33%">Silver Sponsors (&gt;=$10/mo)</th>
+			<th width="33%">Bronze Sponsors (&gt;=$5/mo)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr align="center">
-			<td >
-				<a href="https://github.com/Jutanium">
-					<img alt="Dan Jutan" src="https://github.com/Jutanium.png?size=150" />
-				</a>
-			</td>
 			<td >
 				<a href="https://github.com/Loops-so">
 					<img alt="Loops" src="https://github.com/Loops-so.png?size=100" />
@@ -83,9 +77,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/FarazPatankar">
 					<img alt="Faraz Patankar" src="https://github.com/FarazPatankar.png?size=50" />
-				</a>
-				<a href="https://github.com/estevezluis">
-					<img alt="Luis Estevez" src="https://github.com/estevezluis.png?size=50" />
 				</a>
 				<a href="https://github.com/eps1lon">
 					<img alt="Sebastian Silbermann" src="https://github.com/eps1lon.png?size=50" />
@@ -185,6 +176,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
+			<td>Prettier plugin to enforce consistent brace style for all control statements.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
 			<td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
 			<td>Creator & maintainer</td>
@@ -203,14 +200,8 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
-			<td>Prettier plugin to enforce consistent brace style for all control statements.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-			<td>Gently fails test runs if the console was used during them. ✅</td>
+			<td>Gently fails test runs if the console was used during them. ✋</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
