@@ -333,6 +333,12 @@ These projects I do because I think they're fascinating and/or fun, if not parti
 			<td><img alt="Stars: FullScreenPokemon" src="https://img.shields.io/github/stars/FullScreenShenanigans/FullScreenPokemon" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/FullScreenShenanigans/EightBittr">EightBittr</a></th>
+			<td>Bare-bones, highly modular game engine for 2D 8-bit games.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: EightBittr" src="https://img.shields.io/github/stars/FullScreenShenanigans/EightBittr" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ChooseYourFramework">ChooseYourFramework</a></th>
 			<td>Choosing a modern JavaScript UI framework, Pokemon-style.</td>
 			<td>Creator & maintainer</td>
@@ -343,12 +349,6 @@ These projects I do because I think they're fascinating and/or fun, if not parti
 			<td>A unified syntax that compiles into your favorite OOP languages. 🦜</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: Budgie" src="https://img.shields.io/github/stars/budgielang/Budgie" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/FullScreenShenanigans/EightBittr">EightBittr</a></th>
-			<td>Bare-bones, highly modular game engine for 2D 8-bit games.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: EightBittr" src="https://img.shields.io/github/stars/FullScreenShenanigans/EightBittr" /></td>
 		</tr>
 	</tbody>
 </table>
