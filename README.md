@@ -69,6 +69,9 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/Jolg42">
 					<img alt="Joël Galeran" src="https://github.com/Jolg42.png?size=50" />
 				</a>
+				<a href="https://github.com/jennjunod">
+					<img alt="Jenn Junod" src="https://github.com/jennjunod.png?size=50" />
+				</a>
 				<a href="https://github.com/indeedeng">
 					<img alt="Indeed Engineering" src="https://github.com/indeedeng.png?size=50" />
 				</a>
@@ -109,6 +112,9 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/ElianCodes">
 					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
+				</a>
+				<a href="https://github.com/danfry1">
+					<img alt="Daniel Fry" src="https://github.com/danfry1.png?size=50" />
 				</a>
 				<a href="https://github.com/bmish">
 					<img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
@@ -200,16 +206,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
+			<td>Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
 			<td>Gently fails test runs if the console was used during them. ✋</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
-			<td>Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
+			<td>Fills in missing allcontributors entries for a repository. 👪</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
@@ -234,12 +246,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creates a Markdown table summarizing your GitHub sponsors.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
-			<td>Fills in missing allcontributors entries for a repository. 👪</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
