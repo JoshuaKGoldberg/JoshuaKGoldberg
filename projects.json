@@ -1,209 +1,209 @@
 {
-  "Biggest Projects": {
-    "description": "If you work with TypeScript, you may have used one of the open source projects I support:",
-    "projects": [
-      {
-        "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
-        "owner": "typescript-eslint",
-        "repo": "typescript-eslint",
-        "role": "Maintainer",
-        "stars": 13741
-      },
-      {
-        "description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "TypeStat",
-        "stars": 958
-      }
-    ]
-  },
-  "Developer Tooling": {
-    "description": "I work on assorted projects in the JavaScript/TypeScript ecosystem that make it easier to write high quality applications.",
-    "projects": [
-      {
-        "description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "template-typescript-node-package",
-        "stars": 316
-      },
-      {
-        "description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
-        "owner": "JoshuaKGoldberg",
-        "repo": "eslint-plugin-expect-type",
-        "role": "Adoptive maintainer",
-        "stars": 64
-      },
-      {
-        "description": "Prettier plugin to enforce consistent brace style for all control statements.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "prettier-plugin-curly",
-        "stars": 31
-      },
-      {
-        "description": "A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "refined-saved-replies",
-        "stars": 21
-      },
-      {
-        "description": "🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "mock-react-redux",
-        "stars": 20
-      },
-      {
-        "description": "TypeScript transformation that inlines calls to small functions. ⚡️",
-        "owner": "JoshuaKGoldberg",
-        "repo": "ts-function-inliner",
-        "stars": 20
-      },
-      {
-        "description": "Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "ts-api-utils",
-        "stars": 15
-      },
-      {
-        "description": "Gently fails test runs if the console was used during them. ✋",
-        "owner": "JoshuaKGoldberg",
-        "repo": "console-fail-test",
-        "stars": 10
-      },
-      {
-        "owner": "JoshuaKGoldberg",
-        "repo": "all-contributors-auto-action",
-        "description": "Fills in missing allcontributors entries for a repository. 👪",
-        "stars": 9
-      },
-      {
-        "owner": "JoshuaKGoldberg",
-        "repo": "are-docs-informative",
-        "description": "Checks whether a documentation description introduces any new information.",
-        "stars": 7
-      },
-      {
-        "description": "Checks whether a semantic release should be run for a commit.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "should-semantic-release",
-        "stars": 5
-      },
-      {
-        "description": "Contributed markdownlint rule for one sentence per line.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "sentences-per-line",
-        "stars": 5
-      },
-      {
-        "description": "Creates a Markdown table summarizing your GitHub sponsors.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "github-sponsors-to-markdown",
-        "stars": 4
-      },
-      {
-        "owner": "JoshuaKGoldberg",
-        "repo": "all-contributors-for-repository",
-        "description": "Generates an allcontributors list for an existing repository. 👪",
-        "stars": 3
-      },
-      {
-        "description": "A version of Sinon's `useFakeTimers` that you can call multiple times in a test.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "sinon-timers-repeatable",
-        "stars": 1
-      }
-    ]
-  },
-  "Emoji Shenanigans": {
-    "description": "I also have an interest in making web apps more delightful. These projects will help you add emoji delighters to your page quickly.",
-    "projects": [
-      {
-        "description": "😏 simple emoji support for node.js projects",
-        "owner": "omnidan",
-        "repo": "node-emoji",
-        "role": "Junior maintainer",
-        "stars": 1224
-      },
-      {
-        "description": "💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍",
-        "owner": "JoshuaKGoldberg",
-        "repo": "Emojisplosion",
-        "stars": 82
-      },
-      {
-        "description": "Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
-        "owner": "JoshuaKGoldberg",
-        "repo": "Konamimojisplosion",
-        "stars": 9
-      },
-      {
-        "description": "TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
-        "owner": "JoshuaKGoldberg",
-        "repo": "typedoc-plugin-konamimojisplosion",
-        "stars": 3
-      },
-      {
-        "description": "Astro integration to quickly integrate konamimojisplosion into your site. 🎉 ✨ 🎆",
-        "owner": "JoshuaKGoldberg",
-        "repo": "astro-konamimojisplosion",
-        "stars": 1
-      }
-    ]
-  },
-  "Just For Fun": {
-    "description": "These projects I do because I think they're fascinating and/or fun, if not particularly useful:",
-    "projects": [
-      {
-        "description": "An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.",
-        "name": "FullScreenMario",
-        "owner": "JoshuaKGoldberg",
-        "repo": "Old-Deleted-FullScreenMario",
-        "role": "Creator",
-        "stars": 2993
-      },
-      {
-        "description": "A free HTML5 remake of the original Pokemon, expanded for modern browsing.",
-        "owner": "FullScreenShenanigans",
-        "repo": "FullScreenPokemon",
-        "stars": 205
-      },
-      {
-        "description": "Choosing a modern JavaScript UI framework, Pokemon-style.",
-        "owner": "JoshuaKGoldberg",
-        "repo": "ChooseYourFramework",
-        "stars": 65
-      },
-      {
-        "description": "A unified syntax that compiles into your favorite OOP languages. 🦜",
-        "more": [
-          {
-            "description": "A natural language layer on top of Budgie. 🦜",
-            "owner": "budgielang",
-            "repo": "NBudgie",
-            "stars": 2
-          },
-          {
-            "description": "Converts TypeScript code to Budgie. 🦜",
-            "owner": "budgielang",
-            "repo": "ts-budgie",
-            "stars": 2
-          },
-          {
-            "description": "Compiles C# code to General Language Syntax (GLS).",
-            "owner": "budgielang",
-            "repo": "CS-Budgie",
-            "stars": 1
-          }
-        ],
-        "owner": "budgielang",
-        "repo": "Budgie",
-        "stars": 59
-      },
-      {
-        "description": "Bare-bones, highly modular game engine for 2D 8-bit games.",
-        "owner": "FullScreenShenanigans",
-        "repo": "EightBittr",
-        "stars": 69
-      }
-    ]
-  }
+	"Biggest Projects": {
+		"description": "If you work with TypeScript, you may have used one of the open source projects I support:",
+		"projects": [
+			{
+				"description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+				"owner": "typescript-eslint",
+				"repo": "typescript-eslint",
+				"role": "Maintainer",
+				"stars": 13741
+			},
+			{
+				"description": "Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "TypeStat",
+				"stars": 958
+			}
+		]
+	},
+	"Developer Tooling": {
+		"description": "I work on assorted projects in the JavaScript/TypeScript ecosystem that make it easier to write high quality applications.",
+		"projects": [
+			{
+				"description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "template-typescript-node-package",
+				"stars": 316
+			},
+			{
+				"description": "ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
+				"owner": "JoshuaKGoldberg",
+				"repo": "eslint-plugin-expect-type",
+				"role": "Adoptive maintainer",
+				"stars": 64
+			},
+			{
+				"description": "Prettier plugin to enforce consistent brace style for all control statements.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "prettier-plugin-curly",
+				"stars": 31
+			},
+			{
+				"description": "A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "refined-saved-replies",
+				"stars": 21
+			},
+			{
+				"description": "🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "mock-react-redux",
+				"stars": 20
+			},
+			{
+				"description": "TypeScript transformation that inlines calls to small functions. ⚡️",
+				"owner": "JoshuaKGoldberg",
+				"repo": "ts-function-inliner",
+				"stars": 20
+			},
+			{
+				"description": "Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "ts-api-utils",
+				"stars": 15
+			},
+			{
+				"description": "Gently fails test runs if the console was used during them. ✋",
+				"owner": "JoshuaKGoldberg",
+				"repo": "console-fail-test",
+				"stars": 10
+			},
+			{
+				"owner": "JoshuaKGoldberg",
+				"repo": "all-contributors-auto-action",
+				"description": "Fills in missing allcontributors entries for a repository. 👪",
+				"stars": 9
+			},
+			{
+				"owner": "JoshuaKGoldberg",
+				"repo": "are-docs-informative",
+				"description": "Checks whether a documentation description introduces any new information.",
+				"stars": 7
+			},
+			{
+				"description": "Checks whether a semantic release should be run for a commit.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "should-semantic-release",
+				"stars": 5
+			},
+			{
+				"description": "Contributed markdownlint rule for one sentence per line.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "sentences-per-line",
+				"stars": 5
+			},
+			{
+				"description": "Creates a Markdown table summarizing your GitHub sponsors.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "github-sponsors-to-markdown",
+				"stars": 4
+			},
+			{
+				"owner": "JoshuaKGoldberg",
+				"repo": "all-contributors-for-repository",
+				"description": "Generates an allcontributors list for an existing repository. 👪",
+				"stars": 3
+			},
+			{
+				"description": "A version of Sinon's `useFakeTimers` that you can call multiple times in a test.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "sinon-timers-repeatable",
+				"stars": 1
+			}
+		]
+	},
+	"Emoji Shenanigans": {
+		"description": "I also have an interest in making web apps more delightful. These projects will help you add emoji delighters to your page quickly.",
+		"projects": [
+			{
+				"description": "😏 simple emoji support for node.js projects",
+				"owner": "omnidan",
+				"repo": "node-emoji",
+				"role": "Junior maintainer",
+				"stars": 1224
+			},
+			{
+				"description": "💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍",
+				"owner": "JoshuaKGoldberg",
+				"repo": "Emojisplosion",
+				"stars": 82
+			},
+			{
+				"description": "Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
+				"owner": "JoshuaKGoldberg",
+				"repo": "Konamimojisplosion",
+				"stars": 9
+			},
+			{
+				"description": "TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
+				"owner": "JoshuaKGoldberg",
+				"repo": "typedoc-plugin-konamimojisplosion",
+				"stars": 3
+			},
+			{
+				"description": "Astro integration to quickly integrate konamimojisplosion into your site. 🎉 ✨ 🎆",
+				"owner": "JoshuaKGoldberg",
+				"repo": "astro-konamimojisplosion",
+				"stars": 1
+			}
+		]
+	},
+	"Just For Fun": {
+		"description": "These projects I do because I think they're fascinating and/or fun, if not particularly useful:",
+		"projects": [
+			{
+				"description": "An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.",
+				"name": "FullScreenMario",
+				"owner": "JoshuaKGoldberg",
+				"repo": "Old-Deleted-FullScreenMario",
+				"role": "Creator",
+				"stars": 2993
+			},
+			{
+				"description": "A free HTML5 remake of the original Pokemon, expanded for modern browsing.",
+				"owner": "FullScreenShenanigans",
+				"repo": "FullScreenPokemon",
+				"stars": 205
+			},
+			{
+				"description": "Choosing a modern JavaScript UI framework, Pokemon-style.",
+				"owner": "JoshuaKGoldberg",
+				"repo": "ChooseYourFramework",
+				"stars": 65
+			},
+			{
+				"description": "A unified syntax that compiles into your favorite OOP languages. 🦜",
+				"more": [
+					{
+						"description": "A natural language layer on top of Budgie. 🦜",
+						"owner": "budgielang",
+						"repo": "NBudgie",
+						"stars": 2
+					},
+					{
+						"description": "Converts TypeScript code to Budgie. 🦜",
+						"owner": "budgielang",
+						"repo": "ts-budgie",
+						"stars": 2
+					},
+					{
+						"description": "Compiles C# code to General Language Syntax (GLS).",
+						"owner": "budgielang",
+						"repo": "CS-Budgie",
+						"stars": 1
+					}
+				],
+				"owner": "budgielang",
+				"repo": "Budgie",
+				"stars": 59
+			},
+			{
+				"description": "Bare-bones, highly modular game engine for 2D 8-bit games.",
+				"owner": "FullScreenShenanigans",
+				"repo": "EightBittr",
+				"stars": 69
+			}
+		]
+	}
 }
