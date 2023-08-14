@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import prettier from "prettier";
 import { buildSponsorsTable } from "./buildSponsorsTable.js";
 import { buildProjectsTables } from "./buildProjectsTables.js";
+import { writeFile } from "../shared/writeFile.js";
 
 const content = `
 ## Hi, I'm Josh! 💖
@@ -46,7 +47,4 @@ ${await buildSponsorsTable()}
 ${await buildProjectsTables()}
 `.trimStart();
 
-await fs.writeFile(
-	"./README.md",
-	prettier.format(content, { parser: "markdown" })
-);
+await writeFile("./README.md", content, "markdown");

@@ -5,6 +5,7 @@ import url from "node:url";
 import * as emoji from "node-emoji";
 import prettier from "prettier";
 import { Octokit } from "octokit";
+import { writeFile } from "../shared/writeFile";
 
 export async function buildProjects() {
 	const projectsFile = path.join(
@@ -42,10 +43,7 @@ export async function buildProjects() {
 		}
 	}
 
-	await fs.writeFile(
-		projectsFile,
-		prettier.format(JSON.stringify(projectsData), { parser: "json" })
-	);
+	await writeFile(projectsFile, JSON.stringify(projectsData), "json");
 
 	return projectsData;
 }
