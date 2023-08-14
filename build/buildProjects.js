@@ -1,11 +1,9 @@
-import fs from "node:fs/promises";
 import path from "node:path";
 import url from "node:url";
 
 import * as emoji from "node-emoji";
-import prettier from "prettier";
 import { Octokit } from "octokit";
-import { writeFile } from "../shared/writeFile";
+import { writeFile } from "../shared/writeFile.js";
 
 export async function buildProjects() {
 	const projectsFile = path.join(
