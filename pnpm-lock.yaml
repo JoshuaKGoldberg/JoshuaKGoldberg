@@ -71,6 +71,9 @@ devDependencies:
   eslint-plugin-yml:
     specifier: ^1.7.0
     version: 1.7.0(eslint@8.40.0)
+  github-sponsors-to-markdown:
+    specifier: ^0.0.7
+    version: 0.0.7
   husky:
     specifier: ^8.0.3
     version: 8.0.3
@@ -3896,6 +3899,16 @@ packages:
     resolution: {integrity: sha512-5FvPJP/70WkIprlUZ33bm4UAaFdjcLkJLpWft1BeZKqwR0uhhNGoKwlUaPtVb4LxCSQ++erHapRak9kWGj+FCA==}
     dependencies:
       git-up: 7.0.0
+    dev: true
+
+  /github-sponsors-to-markdown@0.0.7:
+    resolution: {integrity: sha512-kCwbk6iZYOq6TMkyHvOHtL2Y8z5Zb3Pxw8LXMdciARft1ZOTyg9cwsUOTamy07Z8WaciG2/RQFQRnqVjGtHVTw==}
+    engines: {node: '>=18'}
+    hasBin: true
+    dependencies:
+      '@octokit/graphql': 5.0.6
+    transitivePeerDependencies:
+      - encoding
     dev: true
 
   /glob-parent@5.1.2:
