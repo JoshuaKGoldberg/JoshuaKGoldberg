@@ -14,7 +14,7 @@ export function generateProjectsTable({
 	return `
 ### ${title}
 
-${description.replaceAll(". ", "\n")}
+${description.replaceAll(". ", ".\n")}
 
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">

@@ -169,7 +169,7 @@ If you work with TypeScript, you may have used one of the open source projects I
 
 ### Emojis
 
-I also have an interest in making web apps more delightful
+I also have an interest in making web apps more delightful.
 These projects will help you add emoji delighters to your page quickly.
 
 <!-- markdownlint-disable sentences-per-line -->
