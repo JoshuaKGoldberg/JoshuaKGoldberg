@@ -11,6 +11,9 @@ dependencies:
   node-emoji:
     specifier: ^2.1.0
     version: 2.1.0
+  prettier:
+    specifier: ^3.0.1
+    version: 3.0.1
 
 devDependencies:
   '@types/eslint':
@@ -106,9 +109,6 @@ devDependencies:
   octokit:
     specifier: ^3.1.0
     version: 3.1.0
-  prettier:
-    specifier: ^3.0.1
-    version: 3.0.1
   prettier-plugin-curly:
     specifier: ^0.1.2
     version: 0.1.2(prettier@3.0.1)
@@ -5986,7 +5986,6 @@ packages:
     resolution: {integrity: sha512-fcOWSnnpCrovBsmFZIGIy9UqK2FaI7Hqax+DIO0A9UxeVoY4iweyaFjS5TavZN97Hfehph0nhsZnjlVKzEQSrQ==}
     engines: {node: '>=14'}
     hasBin: true
-    dev: true
 
   /pretty-format@29.6.1:
     resolution: {integrity: sha512-7jRj+yXO0W7e4/tSJKoR7HRIHLPPjtNaUGG2xxKQnGvPNRkgWcQ0AZX6P4KBRJN4FcTBWb3sa7DVUJmocYuoog==}
