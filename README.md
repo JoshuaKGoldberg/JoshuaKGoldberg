@@ -170,6 +170,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 	</thead>
 	<tbody>
 		<tr>
+			<th span="row"><a href="https://github.com/dmnd/dedent">dedent</a></th>
+			<td>⬅️ ES6 string tag that strips indentation from multi-line strings.</td>
+			<td>Adoptive maintainer</td>
+			<td><img alt="Stars: dedent" src="https://img.shields.io/github/stars/dmnd/dedent" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
 			<td>A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.</td>
 			<td>Creator & maintainer</td>
@@ -230,6 +236,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
+			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
 			<td>Checks whether a semantic release should be run for a commit.</td>
 			<td>Creator & maintainer</td>
@@ -252,6 +264,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Generates an allcontributors list for an existing repository. 👪</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
+			<td>Find your npm packages eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>

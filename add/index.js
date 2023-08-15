@@ -28,19 +28,23 @@ const newRepos = repos.filter((repo) => {
 	return true;
 });
 
-await writeFile(
-	"./projects.json",
-	JSON.stringify({
-		...existingFile,
-		[existingKey]: {
-			...existingFile[existingKey],
-			projects: [
-				...existingProjects,
-				...newRepos.map((repo) => ({ owner, repo })),
-			],
-		},
-	}),
-	"json"
-);
+if (!newRepos.length) {
+	console.log(chalk.green("Nothing to update. Bailing."));
+} else {
+	await writeFile(
+		"./projects.json",
+		JSON.stringify({
+			...existingFile,
+			[existingKey]: {
+				...existingFile[existingKey],
+				projects: [
+					...existingProjects,
+					...newRepos.map((repo) => ({ owner, repo })),
+				],
+			},
+		}),
+		"json"
+	);
 
-await import("../build/index.js");
+	await import("../build/index.js");
+}

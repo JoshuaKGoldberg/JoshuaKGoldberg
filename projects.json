@@ -21,6 +21,13 @@
 		"description": "I work on assorted projects in the JavaScript/TypeScript ecosystem that make it easier to write high quality applications.",
 		"projects": [
 			{
+				"owner": "dmnd",
+				"repo": "dedent",
+				"role": "Adoptive maintainer",
+				"description": "⬅️ ES6 string tag that strips indentation from multi-line strings.",
+				"stars": 745
+			},
+			{
 				"description": "A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
 				"owner": "JoshuaKGoldberg",
 				"repo": "template-typescript-node-package",
@@ -82,6 +89,12 @@
 				"stars": 7
 			},
 			{
+				"owner": "JoshuaKGoldberg",
+				"repo": "tidelift-me-up",
+				"description": "Finds your npm packages that are eligible for Tidelift funding. 💸",
+				"stars": 6
+			},
+			{
 				"description": "Checks whether a semantic release should be run for a commit.",
 				"owner": "JoshuaKGoldberg",
 				"repo": "should-semantic-release",
@@ -103,6 +116,12 @@
 				"owner": "JoshuaKGoldberg",
 				"repo": "all-contributors-for-repository",
 				"description": "Generates an allcontributors list for an existing repository. 👪",
+				"stars": 3
+			},
+			{
+				"owner": "JoshuaKGoldberg",
+				"repo": "tidelift-me-up-site",
+				"description": "Find your npm packages eligible for Tidelift funding. 💸",
 				"stars": 3
 			},
 			{
