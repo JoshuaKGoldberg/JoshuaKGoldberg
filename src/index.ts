@@ -2,12 +2,6 @@ import { projectCategories } from "./projects.js";
 
 export { projectCategories };
 
+export { add } from "./add/index.js";
+export { generate } from "./generate/index.js";
 export type * from "./types.js";
-
-export async function add() {
-	await import("./add/index.js");
-}
-
-export async function build() {
-	await import("./add/index.js");
-}

@@ -30,6 +30,8 @@
 		"lint:packages": "pnpm dedupe --check",
 		"lint:spelling": "cspell \"**\" \".github/**/*\"",
 		"prepare": "husky install",
+		"projects:add": "tsx src/add/index.ts",
+		"projects:generate": "tsx src/generate/cli.ts",
 		"should-semantic-release": "should-semantic-release --verbose",
 		"test": "vitest"
 	},
@@ -77,6 +79,7 @@
 		"sentences-per-line": "^0.2.1",
 		"should-semantic-release": "^0.1.1",
 		"tsup": "^7.2.0",
+		"tsx": "^3.12.7",
 		"typescript": "^5.0.4",
 		"vitest": "^0.34.0",
 		"yaml-eslint-parser": "^1.2.2"

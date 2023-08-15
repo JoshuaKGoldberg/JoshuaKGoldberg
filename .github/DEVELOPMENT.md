@@ -1,5 +1,10 @@
 # Development
 
+This repository serves two purposes:
+
+- Populating the README seen on github.com/JoshuaKGoldberg
+- Publishing an npm package that exports a `projectCategories` object with associated types
+
 After [forking the repo from GitHub](https://help.github.com/articles/fork-a-repo) and [installing pnpm](https://pnpm.io/installation):
 
 ```shell
@@ -10,6 +15,13 @@ pnpm install
 
 > This repository includes a list of suggested VS Code extensions.
 > It's a good idea to use [VS Code](https://code.visualstudio.com) and accept its suggestion to install them, as they'll help with development.
+
+Then, you can run:
+
+- `GH_TOKEN=$(gh auth token) pnpm run projects:generate`
+- `GH_TOKEN=$(gh auth token) pnpm run projects:add any-number of-repository-names`
+
+> You may need to run `gh auth refresh --scopes read:user` to give your auth token enough scopes.
 
 ## Building
 
@@ -86,32 +98,3 @@ Add `--watch` to keep the type checker running in a watch mode that updates the 
 ```shell
 pnpm tsc --watch
 ```
-
-## The Hydration Script
-
-This template's "hydration" script is located in `src/hydrate/`.
-It needs to be [built](#building) before it can be run.
-
-Be warned that running the hydration script in a repository -including this one- will modify that repository.
-To test out the script, you may want to create a new test repository to run on:
-
-```shell
-cd ..
-mkdir temp
-cd temp
-echo node_modules > .gitignore
-git init
-npm init --yes
-```
-
-Then, in that directory, you can directly call the hydration script:
-
-```shell
-node ../JoshuaKGoldberg/lib/hydrate/index.js -- description "Hooray, trying things out locally."
-```
-
-Along with the hydration script itself, end-to-end tests are removed on package setup.
-
-## The Setup Script
-
-This template's "setup" script is located in `script/`.

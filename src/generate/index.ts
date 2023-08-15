@@ -1,8 +1,11 @@
-import { writeFile } from "../shared/writeFile.js";
-import { buildProjectsTables } from "./buildProjectsTables.js";
-import { buildSponsorsTable } from "./buildSponsorsTable.js";
+import fs from "node:fs/promises";
 
-const content = `
+import { writeFile } from "../shared/writeFile.js";
+import { generateProjectsTables } from "./generateProjectsTables.js";
+import { buildSponsorsTable } from "./generateSponsorsTable.js";
+
+export async function generate() {
+	const content = `
 ## Hi, I'm Josh! 💖
 
 <!--
@@ -34,7 +37,9 @@ Also cats. 🐱
 Because I'm independent, I rely on sponsors to fund my work.
 They deserve our sincere appreciation and gratitude.
 
+<!-- markdownlint-disable sentences-per-line -->
 ${await buildSponsorsTable()}
+<!-- markdownlint-enable sentences-per-line -->
 
 > 💚 Motivated to support my work, or just want your image here?
 > See my [GitHub Sponsors profile](https://github.com/sponsors/JoshuaKGoldberg).
@@ -42,7 +47,11 @@ ${await buildSponsorsTable()}
 
 ## What I'm Working On
 
-${await buildProjectsTables()}
+${await generateProjectsTables()}
+
+## Development
+${(await fs.readFile("./README.md")).toString().split("## Development")[1]}
 `.trimStart();
 
-await writeFile("./README.md", content, "markdown");
+	await writeFile("./README.md", content, "markdown");
+}

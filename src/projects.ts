@@ -1,3 +1,4 @@
+/* cspell:disable */
 import { ProjectCategory } from "./types.js";
 
 export const projectCategories: Record<string, ProjectCategory> = {
@@ -15,7 +16,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 13741,
+				stars: 13742,
 			},
 			{
 				description:

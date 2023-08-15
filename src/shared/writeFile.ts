@@ -8,7 +8,7 @@ export async function writeFile(
 	contents: string,
 	parser: string,
 ) {
-	config ??= await prettier.resolveConfig("./projects.json");
+	config ??= await prettier.resolveConfig(filePath);
 
 	await fs.writeFile(
 		filePath,

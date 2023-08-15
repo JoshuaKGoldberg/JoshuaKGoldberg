@@ -6,15 +6,19 @@
 		"CHANGELOG.md",
 		"lib",
 		"node_modules",
-		"pnpm-lock.yaml"
+		"pnpm-lock.yaml",
+		"README.md"
 	],
 	"words": [
+		"Bluesky",
 		"Codecov",
 		"codespace",
 		"commitlint",
 		"contributorsrc",
 		"conventionalcommits",
+		"emojify",
 		"execa",
+		"joshuakgoldberg",
 		"knip",
 		"lcov",
 		"markdownlintignore",

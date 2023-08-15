@@ -1,10 +1,10 @@
 import { expect, test } from "vitest";
 
-import { buildProjectsTable } from "./buildProjectsTable.js";
+import { generateProjectsTable } from "./generateProjectsTable.js";
 
-test("buildProjectsTable", () => {
+test("generateProjectsTable", () => {
 	expect(
-		buildProjectsTable({
+		generateProjectsTable({
 			description: "Test description.",
 			projects: [
 				{
@@ -21,6 +21,7 @@ test("buildProjectsTable", () => {
 
 		Test description.
 
+		<!-- markdownlint-disable sentences-per-line -->
 		<table width=\\"100%\\">
 			<thead>
 				<th span=\\"col\\">Project ⚙️</th>
@@ -37,6 +38,7 @@ test("buildProjectsTable", () => {
 				</tr>
 			</tbody>
 		</table>
+		<!-- markdownlint-enable sentences-per-line -->
 		"
 	`);
 });

@@ -1,13 +1,11 @@
-import path from "node:path";
-import url from "node:url";
 import * as emoji from "node-emoji";
 import { Octokit } from "octokit";
 
 import { projectCategories } from "../projects.js";
+import { writeProjects } from "../shared/writeProjects.js";
 import { Project } from "../types.js";
-import { writeFile } from "../shared/writeFile.js";
 
-export async function buildProjects() {
+export async function generateProjects() {
 	const { GH_TOKEN: auth } = process.env;
 	if (!auth) {
 		throw new Error("No auth token specified by process.env.GH_TOKEN.");
@@ -41,11 +39,7 @@ export async function buildProjects() {
 		}
 	}
 
-	await writeFile(
-		path.join(url.fileURLToPath(import.meta.url), "../../projects.json"),
-		JSON.stringify(projectCategories),
-		"json",
-	);
+	await writeProjects(projectCategories);
 
 	return projectCategories;
 }
