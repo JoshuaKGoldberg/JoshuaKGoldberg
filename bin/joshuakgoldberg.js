@@ -15,7 +15,7 @@ const socialRows = [
 	["#6441a5", "💬", "Twitch  ", "https://twitch.tv/JoshuaKGoldberg", 3],
 	["#00acee", "🐦", "Twitter ", "https://twitter.com/JoshuaKGoldberg", 2],
 	["#FF0000", "🎥", "YouTube ", "https://youtube.com/@JoshuaKGoldberg", 0],
-	["#1170d0", "🌐", "www     ", "https://youtube.com/@JoshuaKGoldberg", 3],
+	["#1170d0", "🌐", "www     ", "https://joshuakgoldberg.com", 3],
 ];
 
 const longestLink = socialRows.reduce(
