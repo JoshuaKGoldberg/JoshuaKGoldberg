@@ -27,7 +27,7 @@ drawTable({
 	footer: chalk.green(
 		"💚 I'd greatly appreciate it if you could sponsor me on GitHub. 💚",
 	),
-	header: chalk.whiteBright("👋 Hi! I'm Josh. 👋"),
+	header: "👋 Hi! I'm Josh. 👋",
 	rows: [
 		"🙂 I'm an open source maintainer in the TypeScript ecosystem. 🙂",
 		"",
@@ -41,8 +41,8 @@ drawTable({
 		"international conference speaker, a mentor, and a live code streamer.",
 		"",
 		{
-			extra: chalk.whiteBright(" ").length - 1,
-			text: chalk.whiteBright("Find me on:"),
+			extra: " ".length - 1,
+			text: "Find me on:",
 		},
 		"",
 		...socialRows.map(([color, emoji, label, link, extra]) => ({
@@ -63,40 +63,54 @@ drawTable({
 });
 
 function drawTable({ footer, header, rows, width }) {
+	let totalLines = rows.length + 12;
+	let drawnLines = 0;
+
 	rows = rows.map((line) =>
 		typeof line === "string" ? { extra: 0, text: line } : line,
 	);
 
-	drawOverlay(`┌`, header, `┐`);
-
-	console.log(chalk.gray(`│${" ".repeat(width)}│`));
+	drawOverlay(`┌`, `┐`, header);
+	drawLine("│", "│", " ", width, "");
 
 	for (const { extra, text } of rows) {
 		const padding = width - text.length + extra - 3;
-		console.log(
-			[
-				chalk.gray(`│ `),
-				" ".repeat(Math.ceil(padding / 2)),
-				chalk.reset(text),
-				" ".repeat(Math.floor(padding / 2)),
-				chalk.gray(`  │`),
-			].join(""),
-		);
+		drawLine(`│ `, `  │`, " ", padding, text);
 	}
 
-	console.log(chalk.gray(`│${" ".repeat(width)}│`));
+	drawLine("│", "│", " ", width, "");
+	drawOverlay(`└`, `┘`, footer, 10);
 
-	drawOverlay(`└`, footer, `┘`);
+	function hexPercentage(value) {
+		return Math.max(Math.min(value, 0.95), 0)
+			.toString(16)
+			.replace(/^.+\./, "")
+			.repeat(2)
+			.slice(0, 2);
+	}
 
-	function drawOverlay(before, text, after) {
-		const extra = (width - text.length + 7) / 2;
+	function drawLine(before, after, horizontal, padding, text = "") {
+		const colorize = chalk.hex(
+			[
+				"#",
+				hexPercentage(Math.min((totalLines - drawnLines) / totalLines, 0.5)),
+				hexPercentage((totalLines - drawnLines) ** 1.5 / totalLines),
+				hexPercentage(Math.max((totalLines - drawnLines) / totalLines, 0.65)),
+			].join(""),
+		);
 
 		console.log(
 			[
-				chalk.gray(`${before}${"─".repeat(Math.ceil(extra))} `),
-				text,
-				chalk.reset.gray(` ${"─".repeat(Math.floor(extra))}─${after}`),
+				colorize(before + horizontal.repeat(Math.ceil(padding / 2))),
+				colorize(text),
+				colorize(horizontal.repeat(Math.floor(padding / 2)) + after),
 			].join(""),
 		);
+
+		drawnLines += 1;
+	}
+
+	function drawOverlay(before, after, text, extra = 0) {
+		drawLine(before, after, "─", width - text.length + extra - 2, ` ${text} `);
 	}
 }
