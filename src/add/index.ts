@@ -5,7 +5,7 @@ import { projectCategories } from "../projects.js";
 import { writeProjects } from "../shared/writeProjects.js";
 
 export async function add(repos: string[]) {
-	const categoryKey = "Developer Tooling";
+	const categoryKey = "Tooling";
 
 	if (!repos.length) {
 		throw new Error("No repositories provided.");

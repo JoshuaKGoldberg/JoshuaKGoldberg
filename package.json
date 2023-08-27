@@ -32,7 +32,7 @@
 		"lint:packages": "pnpm dedupe --check",
 		"lint:spelling": "cspell \"**\" \".github/**/*\"",
 		"prepare": "husky install",
-		"projects:add": "tsx src/add/index.ts",
+		"projects:add": "tsx src/add/cli.ts",
 		"projects:generate": "tsx src/generate/cli.ts",
 		"should-semantic-release": "should-semantic-release --verbose",
 		"test": "vitest"
