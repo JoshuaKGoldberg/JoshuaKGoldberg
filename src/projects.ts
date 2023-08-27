@@ -16,7 +16,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 13742,
+				stars: 13788,
 			},
 			{
 				description:
@@ -24,14 +24,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/typestat.png",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 958,
+				stars: 1595,
 			},
 			{
 				description:
 					"Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
 				owner: "JoshuaKGoldberg",
 				repo: "template-typescript-node-package",
-				stars: 316,
+				stars: 334,
 			},
 		],
 	},
@@ -44,7 +44,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1224,
+				stars: 1228,
 			},
 			{
 				description:
@@ -54,7 +54,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 82,
+				stars: 86,
 			},
 			{
 				description:
@@ -106,14 +106,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 69,
+				stars: 70,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 65,
+				stars: 67,
 			},
 			{
 				description:
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 745,
+				stars: 754,
 			},
 			{
 				description:
@@ -202,7 +202,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Gently fails test runs if the console was used during them. ✋",
+					"Gently fails test runs if the console was used during them.",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
 				stars: 10,
@@ -233,13 +233,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Checks whether a semantic release should be run for a commit.",
 				owner: "JoshuaKGoldberg",
 				repo: "should-semantic-release",
-				stars: 5,
-			},
-			{
-				description: "Contributed markdownlint rule for one sentence per line.",
-				owner: "JoshuaKGoldberg",
-				repo: "sentences-per-line",
-				stars: 5,
+				stars: 6,
 			},
 			{
 				description:
@@ -265,10 +259,22 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
+				description: "Contributed markdownlint rule for one sentence per line.",
+				owner: "JoshuaKGoldberg",
+				repo: "sentences-per-line",
+				stars: 2,
+			},
+			{
 				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test.",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
+				stars: 1,
+			},
+			{
+				owner: "JoshuaKGoldberg",
+				repo: "cached-factory",
+				description: "Creates and caches values under keys. 🏭",
 				stars: 1,
 			},
 		],

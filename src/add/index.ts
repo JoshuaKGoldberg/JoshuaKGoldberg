@@ -37,16 +37,15 @@ export async function add(repos: string[]) {
 				projects: [
 					...projectCategories[categoryKey].projects,
 					...newRepos.map((repo) => ({
+						description: "",
 						owner: "JoshuaKGoldberg",
 						repo,
-						// Placeholder data that will be filled in by generate()
-						description: "",
 						stars: -1,
 					})),
 				],
 			},
 		});
 
-		await generate();
+		console.log(chalk.green("Now run the generate command."));
 	}
 }
