@@ -30,7 +30,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description:
 					"Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
 				owner: "JoshuaKGoldberg",
-				repo: "template-typescript-node-package",
+				repo: "create-typescript-app",
 				stars: 334,
 			},
 		],
@@ -272,9 +272,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 1,
 			},
 			{
+				description: "Creates and caches values under keys. 🏭",
 				owner: "JoshuaKGoldberg",
 				repo: "cached-factory",
-				description: "Creates and caches values under keys. 🏭",
 				stars: 1,
 			},
 		],

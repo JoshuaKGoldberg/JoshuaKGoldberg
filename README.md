@@ -158,10 +158,10 @@ If you work with TypeScript, you may have used one of the open source projects I
 			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
 			<td>Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: template-typescript-node-package" src="https://img.shields.io/github/stars/JoshuaKGoldberg/template-typescript-node-package" /></td>
+			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -424,4 +424,4 @@ Thanks! 💖
 
 <!-- You can remove this notice if you don't want it 🙂 no worries! -->
 
-> 💙 This package is based on [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)'s [template-typescript-node-package](https://github.com/JoshuaKGoldberg/template-typescript-node-package).
+> 💙 This package is based on [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)'s [create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app).
