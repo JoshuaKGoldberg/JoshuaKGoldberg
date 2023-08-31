@@ -1,6 +1,5 @@
 import chalk from "chalk";
 
-import { generate } from "../generate/index.js";
 import { projectCategories } from "../projects.js";
 import { writeProjects } from "../shared/writeProjects.js";
 
