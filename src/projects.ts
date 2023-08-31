@@ -21,7 +21,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
-				image: "https://www.joshuakgoldberg.com/img/typestat.png",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
 				stars: 1595,
@@ -29,6 +28,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
+				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
 				stars: 334,
