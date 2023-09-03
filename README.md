@@ -44,13 +44,22 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/beyang">
 					<img alt="Beyang Liu" src="https://github.com/beyang.png?size=100" />
 				</a>
+				<a href="https://github.com/constituentvoice">
+					<img alt="Constituent Voice" src="https://github.com/constituentvoice.png?size=100" />
+				</a>
 				<a href="https://github.com/Loops-so">
 					<img alt="Loops" src="https://github.com/Loops-so.png?size=100" />
+				</a>
+				<a href="https://github.com/webpro">
+					<img alt="Lars Kappert" src="https://github.com/webpro.png?size=100" />
 				</a>
 			</td>
 			<td >
 				<a href="https://github.com/AkiraBrand">
 					<img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
+				</a>
+				<a href="https://github.com/ElianCodes">
+					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
 				</a>
 				<a href="https://github.com/eps1lon">
 					<img alt="Sebastian Silbermann" src="https://github.com/eps1lon.png?size=50" />
@@ -79,8 +88,8 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/kitsonk">
 					<img alt="Kitson Kelly" src="https://github.com/kitsonk.png?size=50" />
 				</a>
-				<a href="https://github.com/nickytonline">
-					<img alt="Nick Taylor" src="https://github.com/nickytonline.png?size=50" />
+				<a href="https://github.com/rtbenfield">
+					<img alt="Tyler Benfield" src="https://github.com/rtbenfield.png?size=50" />
 				</a>
 				<a href="https://github.com/rwaskiewicz">
 					<img alt="Ryan Waskiewicz" src="https://github.com/rwaskiewicz.png?size=50" />
@@ -96,9 +105,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/danfry1">
 					<img alt="Daniel Fry" src="https://github.com/danfry1.png?size=50" />
 				</a>
-				<a href="https://github.com/ElianCodes">
-					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
-				</a>
 				<a href="https://github.com/johnnyreilly">
 					<img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=50" />
 				</a>
@@ -107,6 +113,9 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/kevinctofel">
 					<img alt="Kevin C. Tofel" src="https://github.com/kevinctofel.png?size=50" />
+				</a>
+				<a href="https://github.com/nickytonline">
+					<img alt="Nick Taylor" src="https://github.com/nickytonline.png?size=50" />
 				</a>
 				<a href="https://github.com/santoshyadavdev">
 					<img alt="Santosh Yadav" src="https://github.com/santoshyadavdev.png?size=50" />
@@ -119,6 +128,9 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/usmangenx">
 					<img alt="Muhammad Usman Javed" src="https://github.com/usmangenx.png?size=50" />
+				</a>
+				<a href="https://github.com/xavdid">
+					<img alt="David Brownman" src="https://github.com/xavdid.png?size=50" />
 				</a>
 			</td>
 		</tr>
@@ -159,7 +171,7 @@ If you work with TypeScript, you may have used one of the open source projects I
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
-			<td>Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.</td>
+			<td>Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
@@ -207,7 +219,7 @@ These projects will help you add emoji delighters to your page quickly.
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/astro-konamimojisplosion">astro-konamimojisplosion</a></th>
-			<td>Astro integration to quickly integrate konamimojisplosion into your site. 🎉 ✨ 🎆</td>
+			<td>Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: astro-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/astro-konamimojisplosion" /></td>
 		</tr>
@@ -294,6 +306,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
+			<td>Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
 			<td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
 			<td>Creator & maintainer</td>
@@ -312,14 +330,14 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
-			<td>Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
+			<td>Creates and caches values under keys. 🏭</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-			<td>Gently fails test runs if the console was used during them. ✋</td>
+			<td>Gently fails test runs if the console was used during them.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
@@ -331,21 +349,21 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
-			<td>Checks whether a documentation description introduces any new information.</td>
+			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
-			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
 			<td>Checks whether a semantic release should be run for a commit.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
+			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
@@ -355,7 +373,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
-			<td>Generates an allcontributors list for an existing repository. 👪</td>
+			<td>Generates an allcontributors list for an existing repository. 🤝</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
 		</tr>
@@ -376,12 +394,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
-			<td>Creates and caches values under keys. 🏭</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 	</tbody>
 </table>

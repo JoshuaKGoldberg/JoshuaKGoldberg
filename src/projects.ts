@@ -16,22 +16,22 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 13788,
+				stars: 13813,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1595,
+				stars: 1661,
 			},
 			{
 				description:
-					"Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.",
+					"A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨",
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 334,
+				stars: 352,
 			},
 		],
 	},
@@ -44,7 +44,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1228,
+				stars: 1230,
 			},
 			{
 				description:
@@ -54,7 +54,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 86,
+				stars: 88,
 			},
 			{
 				description:
@@ -72,7 +72,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Astro integration to quickly integrate konamimojisplosion into your site. 🎉 ✨ 🎆",
+					"Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "astro-konamimojisplosion",
 				stars: 1,
@@ -91,7 +91,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2993,
+				stars: 2994,
 			},
 			{
 				description:
@@ -113,7 +113,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 67,
+				stars: 68,
 			},
 			{
 				description:
@@ -141,7 +141,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				],
 				owner: "budgielang",
 				repo: "Budgie",
-				stars: 59,
+				stars: 58,
 			},
 		],
 	},
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 754,
+				stars: 755,
 			},
 			{
 				description:
@@ -170,14 +170,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prettier plugin to enforce consistent brace style for all control statements.",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 31,
+				stars: 32,
+			},
+			{
+				description:
+					"Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
+				owner: "JoshuaKGoldberg",
+				repo: "ts-api-utils",
+				stars: 21,
 			},
 			{
 				description:
 					"A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
-				stars: 21,
+				stars: 20,
 			},
 			{
 				description:
@@ -194,11 +201,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 20,
 			},
 			{
-				description:
-					"Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
+				description: "Creates and caches values under keys. 🏭",
 				owner: "JoshuaKGoldberg",
-				repo: "ts-api-utils",
-				stars: 15,
+				repo: "cached-factory",
+				stars: 13,
 			},
 			{
 				description:
@@ -216,9 +222,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a documentation description introduces any new information.",
+					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
+				stars: 7,
+			},
+			{
+				description:
+					"Checks whether a semantic release should be run for a commit.",
+				owner: "JoshuaKGoldberg",
+				repo: "should-semantic-release",
 				stars: 7,
 			},
 			{
@@ -230,13 +243,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a semantic release should be run for a commit.",
-				owner: "JoshuaKGoldberg",
-				repo: "should-semantic-release",
-				stars: 6,
-			},
-			{
-				description:
 					"Creates a Markdown table summarizing your GitHub sponsors.",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
@@ -244,7 +250,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Generates an allcontributors list for an existing repository. 👪",
+					"Generates an allcontributors list for an existing repository. 🤝",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-for-repository",
 				stars: 3,
@@ -269,12 +275,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test.",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
-				stars: 1,
-			},
-			{
-				description: "Creates and caches values under keys. 🏭",
-				owner: "JoshuaKGoldberg",
-				repo: "cached-factory",
 				stars: 1,
 			},
 		],
