@@ -29,6 +29,7 @@ Also cats. 🐱
 Because I'm independent, I rely on sponsors to fund my work.
 They deserve our sincere appreciation and gratitude.
 
+<!-- spell-checker: disable -->
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
@@ -170,10 +171,10 @@ If you work with TypeScript, you may have used one of the open source projects I
 			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg">JoshuaKGoldberg</a></th>
 			<td>Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
+			<td><img alt="Stars: JoshuaKGoldberg" src="https://img.shields.io/github/stars/JoshuaKGoldberg/JoshuaKGoldberg" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -398,6 +399,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
+<!-- spell-checker: enable -->
 
 ## Development
 
@@ -413,17 +415,7 @@ Thanks! 💖
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.joshuakgoldberg.com"><img src="https://avatars.githubusercontent.com/u/3335181?v=4?s=100" width="100px;" alt="Josh Goldberg"/><br /><sub><b>Josh Goldberg</b></sub></a><br />
-      <a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues?q=author%3AJoshuaKGoldberg" title="Bug reports">🐛</a> 
-      <a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commits?author=JoshuaKGoldberg" title="Code">💻</a> 
-      <a href="#maintenance-JoshuaKGoldberg" title="Maintenance">🚧</a> 
-      <a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/pulls?q=is%3Apr+reviewed-by%3AJoshuaKGoldberg" title="Reviewed Pull Requests">👀</a> 
-      <a href="#tool-JoshuaKGoldberg" title="Tools">🔧</a> 
-      <a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commits?author=JoshuaKGoldberg" title="Documentation">📖</a> 
-      <a href="#infra-JoshuaKGoldberg" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> 
-      <a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commits?author=JoshuaKGoldberg" title="Tests">⚠️</a> 
-      <a href="#content-JoshuaKGoldberg" title="Content">🖋</a> 
-      <a href="#ideas-JoshuaKGoldberg" title="Ideas, Planning, & Feedback">🤔</a>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.joshuakgoldberg.com"><img src="https://avatars.githubusercontent.com/u/3335181?v=4?s=100" width="100px;" alt="Josh Goldberg"/><br /><sub><b>Josh Goldberg</b></sub></a><br /><a href="#maintenance-JoshuaKGoldberg" title="Maintenance">🚧</a> <a href="#tool-JoshuaKGoldberg" title="Tools">🔧</a></td>
     </tr>
   </tbody>
 </table>
@@ -436,4 +428,4 @@ Thanks! 💖
 
 <!-- You can remove this notice if you don't want it 🙂 no worries! -->
 
-> 💙 This package is based on [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)'s [create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app).
+> 💙 This package is based on [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)'s [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg).

@@ -35,6 +35,7 @@ jobs:
         run: |
           if pnpm run should-semantic-release ; then
             pnpm release-it --verbose
+            gh workflow run post-release.yml
           fi
       - if: always()
         name: Recreate branch protection on main
@@ -58,19 +59,19 @@ jobs:
                 required_linear_history: false,
                 required_pull_request_reviews: null,
                 required_status_checks: {
-                  checks: [
-                    { context: "build" },
-                    { context: "compliance" },
-                    { context: "lint" },
-                    { context: "lint_knip" },
-                    { context: "lint_markdown" },
-                    { context: "lint_package" },
-                    { context: "lint_packages" },
-                    { context: "lint_spelling" },
-                    { context: "prettier" },
-                    { context: "test" },
-                  ],
-                  strict: false,
+                checks: [
+                  { context: "build" },
+                  { context: "compliance" },
+                  { context: "lint" },
+                  { context: "lint_knip" },
+                  { context: "lint_markdown" },
+                  { context: "lint_package" },
+                  { context: "lint_packages" },
+                  { context: "lint_spelling" },
+                  { context: "prettier" },
+                  { context: "test" },
+                ],
+                strict: false,
                 },
                 restrictions: null,
               }
