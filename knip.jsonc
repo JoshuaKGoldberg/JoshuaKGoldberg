@@ -1,15 +1,11 @@
 {
-	"$schema": "https://unpkg.com/knip@next/schema.json",
-	"entry": ["src/index.ts!", "src/add/cli.ts", "src/generate/cli.ts"],
-	"ignoreBinaries": ["dedupe", "gh"],
-	"ignoreDependencies": [
-		// TODO: investigate if these are still flagged, and file issues if not
-		"all-contributors-cli",
-		"c8"
+	"$schema": "https://unpkg.com/knip@latest/schema.json",
+	"entry": [
+		"bin/*.js!",
+		"src/add/cli.ts!",
+		"src/generate/cli.ts!",
+		"src/index.ts!"
 	],
-	"ignoreExportsUsedInFile": {
-		"interface": true,
-		"type": true
-	},
-	"project": "src/**/*.ts!"
+	"ignoreExportsUsedInFile": { "interface": true, "type": true },
+	"project": ["src/**/*.ts!"]
 }
