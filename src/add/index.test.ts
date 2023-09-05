@@ -1,3 +1,4 @@
+import chalk from "chalk";
 import { SpyInstance, beforeEach, describe, expect, it, vi } from "vitest";
 
 import { add } from "./index.js";
@@ -50,68 +51,44 @@ describe("add", () => {
 	it("does not call writeProjects when all repos are up to date", async () => {
 		await add([existingProject.repo]);
 
-		expect(mockConsoleInfo.mock.calls).toMatchInlineSnapshot("[]");
-		expect(mockConsoleLog.mock.calls).toMatchInlineSnapshot(`
-			[
-			  [
-			    "[32mNothing to update. Bailing.[39m",
-			  ],
-			]
-		`);
-		expect(mockConsoleWarn.mock.calls).toMatchInlineSnapshot(`
-			[
-			  [
-			    "[33mRepo existing-repo already exists...[39m",
-			  ],
-			]
-		`);
-		expect(mockWriteProjects.mock.calls).toMatchInlineSnapshot("[]");
+		expect(mockConsoleInfo).not.toHaveBeenCalled();
+		expect(mockConsoleLog).toHaveBeenCalledWith(
+			chalk.green("Nothing to update. Bailing."),
+		);
+		expect(mockConsoleWarn).toHaveBeenCalledWith(
+			chalk.yellow(`Repo ${existingProject.repo} already exists...`),
+		);
+		expect(mockWriteProjects).not.toHaveBeenCalled();
 	});
 
 	it("does call writeProjects when a repo needs to be updated", async () => {
-		await add([existingProject.repo, "new-repo"]);
+		const repo = "new-repo";
 
-		expect(mockConsoleInfo.mock.calls).toMatchInlineSnapshot(`
-			[
-			  [
-			    "[34mRepo new-repo does not already exist.[39m",
-			  ],
-			]
-		`);
-		expect(mockConsoleLog.mock.calls).toMatchInlineSnapshot(`
-			[
-			  [
-			    "[32mNow run the generate command.[39m",
-			  ],
-			]
-		`);
-		expect(mockConsoleWarn.mock.calls).toMatchInlineSnapshot(`
-			[
-			  [
-			    "[33mRepo existing-repo already exists...[39m",
-			  ],
-			]
-		`);
-		expect(mockWriteProjects.mock.calls).toMatchInlineSnapshot(`
-			[
-			  [
-			    {
-			      "Tooling": {
-			        "projects": [
-			          {
-			            "repo": "existing-repo",
-			          },
-			          {
-			            "description": "",
-			            "owner": "JoshuaKGoldberg",
-			            "repo": "new-repo",
-			            "stars": -1,
-			          },
-			        ],
-			      },
-			    },
-			  ],
-			]
-		`);
+		await add([existingProject.repo, repo]);
+
+		expect(mockConsoleInfo).toHaveBeenCalledWith(
+			chalk.blue(`Repo ${repo} does not already exist.`),
+		);
+		expect(mockConsoleLog).toHaveBeenCalledWith(
+			chalk.green("Now run the generate command."),
+		);
+		expect(mockConsoleWarn).toHaveBeenCalledWith(
+			chalk.yellow(`Repo ${existingProject.repo} already exists...`),
+		);
+		expect(mockWriteProjects).toHaveBeenCalledWith({
+			Tooling: {
+				projects: [
+					{
+						repo: "existing-repo",
+					},
+					{
+						description: "",
+						owner: "JoshuaKGoldberg",
+						repo: "new-repo",
+						stars: -1,
+					},
+				],
+			},
+		});
 	});
 });
