@@ -428,4 +428,4 @@ Thanks! 💖
 
 <!-- You can remove this notice if you don't want it 🙂 no worries! -->
 
-> 💙 This package is based on [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)'s [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg).
+> 💙 This package is based on [@JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)'s [create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app).
