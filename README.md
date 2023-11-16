@@ -171,10 +171,10 @@ If you work with TypeScript, you may have used one of the open source projects I
 			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/JoshuaKGoldberg">JoshuaKGoldberg</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
 			<td>Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: JoshuaKGoldberg" src="https://img.shields.io/github/stars/JoshuaKGoldberg/JoshuaKGoldberg" /></td>
+			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
 	</tbody>
 </table>
