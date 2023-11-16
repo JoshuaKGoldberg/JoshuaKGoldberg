@@ -16,22 +16,22 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 13813,
+				stars: 14024,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1661,
+				stars: 1774,
 			},
 			{
 				description:
-					"Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨",
+					"Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝",
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 352,
+				stars: 493,
 			},
 		],
 	},
@@ -44,7 +44,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1230,
+				stars: 1246,
 			},
 			{
 				description:
@@ -54,28 +54,28 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 88,
+				stars: 117,
 			},
 			{
 				description:
 					"Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "Konamimojisplosion",
-				stars: 9,
+				stars: 10,
 			},
 			{
 				description:
 					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "typedoc-plugin-konamimojisplosion",
-				stars: 3,
+				stars: 4,
 			},
 			{
 				description:
 					"Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "astro-konamimojisplosion",
-				stars: 1,
+				stars: 2,
 			},
 		],
 	},
@@ -91,7 +91,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2994,
+				stars: 2993,
 			},
 			{
 				description:
@@ -99,21 +99,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 205,
+				stars: 207,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 70,
+				stars: 69,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 68,
+				stars: 67,
 			},
 			{
 				description:
@@ -141,7 +141,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				],
 				owner: "budgielang",
 				repo: "Budgie",
-				stars: 58,
+				stars: 59,
 			},
 		],
 	},
@@ -155,84 +155,84 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 755,
+				stars: 770,
 			},
 			{
 				description:
-					"ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions",
+					"ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 64,
+				stars: 71,
 			},
 			{
 				description:
-					"Prettier plugin to enforce consistent brace style for all control statements.",
+					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 32,
+				stars: 38,
 			},
 			{
 				description:
-					"Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.",
+					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 21,
+				stars: 27,
 			},
 			{
 				description:
-					"A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.",
+					"Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
-				stars: 20,
-			},
-			{
-				description:
-					"🎭 Mocks out Redux actions and selectors for clean React Jest tests.",
-				owner: "JoshuaKGoldberg",
-				repo: "mock-react-redux",
-				stars: 20,
+				stars: 27,
 			},
 			{
 				description:
 					"TypeScript transformation that inlines calls to small functions. ⚡️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-function-inliner",
+				stars: 21,
+			},
+			{
+				description:
+					"Mocks out Redux actions and selectors for clean React Jest tests. 🎭",
+				owner: "JoshuaKGoldberg",
+				repo: "mock-react-redux",
 				stars: 20,
 			},
 			{
 				description: "Creates and caches values under keys. 🏭",
 				owner: "JoshuaKGoldberg",
 				repo: "cached-factory",
-				stars: 13,
+				stars: 12,
 			},
 			{
 				description:
-					"Gently fails test runs if the console was used during them.",
+					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 10,
+				stars: 12,
 			},
 			{
 				description:
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 9,
+				stars: 10,
+			},
+			{
+				description:
+					"Checks whether a semantic release should be run for a commit. 💂",
+				owner: "JoshuaKGoldberg",
+				repo: "should-semantic-release",
+				stars: 7,
 			},
 			{
 				description:
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
-				stars: 7,
-			},
-			{
-				description:
-					"Checks whether a semantic release should be run for a commit.",
-				owner: "JoshuaKGoldberg",
-				repo: "should-semantic-release",
-				stars: 7,
+				stars: 6,
 			},
 			{
 				description:
@@ -243,9 +243,26 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Creates a Markdown table summarizing your GitHub sponsors.",
+					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
+				stars: 4,
+			},
+			{
+				description:
+					"Web app to find your npm packages eligible for Tidelift funding. 💸",
+				links: {
+					Site: "https://tidelift-me-up-site.vercel.app/",
+				},
+				owner: "JoshuaKGoldberg",
+				repo: "tidelift-me-up-site",
+				stars: 4,
+			},
+			{
+				description:
+					"Contributed markdownlint rule for limiting sentences per line. 📐",
+				owner: "JoshuaKGoldberg",
+				repo: "sentences-per-line",
 				stars: 4,
 			},
 			{
@@ -256,23 +273,8 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
-				description: "Find your npm packages eligible for Tidelift funding. 💸",
-				links: {
-					Site: "https://tidelift-me-up-site.vercel.app/",
-				},
-				owner: "JoshuaKGoldberg",
-				repo: "tidelift-me-up-site",
-				stars: 3,
-			},
-			{
-				description: "Contributed markdownlint rule for one sentence per line.",
-				owner: "JoshuaKGoldberg",
-				repo: "sentences-per-line",
-				stars: 2,
-			},
-			{
 				description:
-					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test.",
+					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
 				stars: 1,

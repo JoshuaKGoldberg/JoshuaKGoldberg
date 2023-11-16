@@ -12,12 +12,12 @@ export async function buildSponsorsTable() {
 			Gold: {
 				label: "Gold Sponsors (&gt;=$25/mo)",
 				minimum: 25,
-				size: 100,
+				size: 75,
 			},
 			Platinum: {
 				label: "Platinum Sponsors (&gt;=$100/mo)",
 				minimum: 100,
-				size: 150,
+				size: 100,
 			},
 			Silver: {
 				label: "Silver Sponsors (&gt;=$10/mo)",

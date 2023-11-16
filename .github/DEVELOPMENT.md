@@ -25,6 +25,16 @@ Add `--watch` to run the builder in a watch mode that continuously cleans and re
 pnpm build --watch
 ```
 
+### Building README.md
+
+Once source files are built, you can then build the README.md with:
+
+```shell
+GH_TOKEN=$(gh auth token) pnpm projects:generate
+```
+
+Doing so will update `src/projects.ts` with their latest data, then re-write the README.md tables with that data.
+
 ## Formatting
 
 [Prettier](https://prettier.io) is used to format code.

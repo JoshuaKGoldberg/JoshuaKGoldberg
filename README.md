@@ -43,16 +43,19 @@ They deserve our sincere appreciation and gratitude.
 		<tr align="center">
 			<td >
 				<a href="https://github.com/beyang">
-					<img alt="Beyang Liu" src="https://github.com/beyang.png?size=100" />
+					<img alt="Beyang Liu" src="https://github.com/beyang.png?size=75" />
 				</a>
 				<a href="https://github.com/constituentvoice">
-					<img alt="Constituent Voice" src="https://github.com/constituentvoice.png?size=100" />
+					<img alt="Constituent Voice" src="https://github.com/constituentvoice.png?size=75" />
+				</a>
+				<a href="https://github.com/estevezluis">
+					<img alt="Luis Estevez" src="https://github.com/estevezluis.png?size=75" />
 				</a>
 				<a href="https://github.com/Loops-so">
-					<img alt="Loops" src="https://github.com/Loops-so.png?size=100" />
+					<img alt="Loops" src="https://github.com/Loops-so.png?size=75" />
 				</a>
 				<a href="https://github.com/webpro">
-					<img alt="Lars Kappert" src="https://github.com/webpro.png?size=100" />
+					<img alt="Lars Kappert" src="https://github.com/webpro.png?size=75" />
 				</a>
 			</td>
 			<td >
@@ -60,10 +63,7 @@ They deserve our sincere appreciation and gratitude.
 					<img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
 				</a>
 				<a href="https://github.com/ElianCodes">
-					<img alt="Elian ☕️" src="https://github.com/ElianCodes.png?size=50" />
-				</a>
-				<a href="https://github.com/eps1lon">
-					<img alt="Sebastian Silbermann" src="https://github.com/eps1lon.png?size=50" />
+					<img alt="Elian" src="https://github.com/ElianCodes.png?size=50" />
 				</a>
 				<a href="https://github.com/FarazPatankar">
 					<img alt="Faraz Patankar" src="https://github.com/FarazPatankar.png?size=50" />
@@ -71,14 +71,14 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/IanVS">
 					<img alt="Ian VanSchooten" src="https://github.com/IanVS.png?size=50" />
 				</a>
-				<a href="https://github.com/indeedeng">
-					<img alt="Indeed Engineering" src="https://github.com/indeedeng.png?size=50" />
-				</a>
 				<a href="https://github.com/jennjunod">
 					<img alt="Jenn Junod" src="https://github.com/jennjunod.png?size=50" />
 				</a>
 				<a href="https://github.com/Jolg42">
 					<img alt="Joël Galeran" src="https://github.com/Jolg42.png?size=50" />
+				</a>
+				<a href="https://github.com/Kamalnrf">
+					<img alt="Kamal" src="https://github.com/Kamalnrf.png?size=50" />
 				</a>
 				<a href="https://github.com/KernelGamut32">
 					<img alt="Allen Sanders" src="https://github.com/KernelGamut32.png?size=50" />
@@ -95,25 +95,25 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/rwaskiewicz">
 					<img alt="Ryan Waskiewicz" src="https://github.com/rwaskiewicz.png?size=50" />
 				</a>
-				<a href="https://github.com/thomasballinger">
-					<img alt="Tom Ballinger" src="https://github.com/thomasballinger.png?size=50" />
-				</a>
 			</td>
 			<td >
+				<a href="https://github.com/antfu">
+					<img alt="Anthony Fu" src="https://github.com/antfu.png?size=50" />
+				</a>
 				<a href="https://github.com/bmish">
 					<img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
 				</a>
 				<a href="https://github.com/danfry1">
 					<img alt="Daniel Fry" src="https://github.com/danfry1.png?size=50" />
 				</a>
+				<a href="https://github.com/DarrenBaldwin07">
+					<img alt="Darren Baldwin" src="https://github.com/DarrenBaldwin07.png?size=50" />
+				</a>
 				<a href="https://github.com/johnnyreilly">
 					<img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=50" />
 				</a>
 				<a href="https://github.com/jram930">
 					<img alt="Jared Ramsey" src="https://github.com/jram930.png?size=50" />
-				</a>
-				<a href="https://github.com/kevinctofel">
-					<img alt="Kevin C. Tofel" src="https://github.com/kevinctofel.png?size=50" />
 				</a>
 				<a href="https://github.com/nickytonline">
 					<img alt="Nick Taylor" src="https://github.com/nickytonline.png?size=50" />
@@ -138,6 +138,7 @@ They deserve our sincere appreciation and gratitude.
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
+<!-- spell-checker: enable -->
 
 > 💚 Motivated to support my work, or just want your image here?
 > See my [GitHub Sponsors profile](https://github.com/sponsors/JoshuaKGoldberg).
@@ -172,7 +173,7 @@ If you work with TypeScript, you may have used one of the open source projects I
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
-			<td>Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨</td>
+			<td>Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
@@ -296,39 +297,39 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
-			<td>ESLint plugin with $ExpectType, $ExpectError, and $ExpectTypeSnapshot type assertions</td>
+			<td>ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩</td>
 			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
-			<td>Prettier plugin to enforce consistent brace style for all control statements.</td>
+			<td>Prettier plugin to enforce consistent brace style for all control statements. 🥌</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
-			<td>Utility functions for working with TypeScript's API. Successor to the wonderful ajafff/tsutils.</td>
+			<td>Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
-			<td>A Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml.</td>
+			<td>Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
-			<td>🎭 Mocks out Redux actions and selectors for clean React Jest tests.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
 			<td>TypeScript transformation that inlines calls to small functions. ⚡️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
+			<td>Mocks out Redux actions and selectors for clean React Jest tests. 🎭</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
@@ -338,7 +339,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-			<td>Gently fails test runs if the console was used during them.</td>
+			<td>Gently fails test runs if the console was used during them. 📢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
@@ -349,16 +350,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
+			<td>Checks whether a semantic release should be run for a commit. 💂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
 			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
-			<td>Checks whether a semantic release should be run for a commit.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
@@ -368,9 +369,21 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-			<td>Creates a Markdown table summarizing your GitHub sponsors.</td>
+			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
+			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
+			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
@@ -379,27 +392,14 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
-			<td>Find your npm packages eligible for Tidelift funding. 💸</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
-			<td>Contributed markdownlint rule for one sentence per line.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
-			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test.</td>
+			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
-<!-- spell-checker: enable -->
 
 ## Development
 
