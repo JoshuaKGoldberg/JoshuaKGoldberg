@@ -1,6 +1,6 @@
 {
 	"name": "joshuakgoldberg",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"description": "Packaged projects and personal GitHub README for JoshuaKGoldberg. 👋",
 	"repository": {
 		"type": "git",
@@ -67,7 +67,7 @@
 		"github-sponsors-to-markdown": "^0.1.1",
 		"husky": "^8.0.3",
 		"jsonc-eslint-parser": "^2.3.0",
-		"knip": "2.41.1",
+		"knip": "2.41.2",
 		"lint-staged": "^15.0.0",
 		"markdownlint": "^0.31.1",
 		"markdownlint-cli": "^0.37.0",
