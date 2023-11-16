@@ -397,6 +397,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
+			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->

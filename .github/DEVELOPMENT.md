@@ -35,6 +35,16 @@ GH_TOKEN=$(gh auth token) pnpm projects:generate
 
 Doing so will update `src/projects.ts` with their latest data, then re-write the README.md tables with that data.
 
+### Building New Projects
+
+To add a new project to the list in `src/projects.ts`, run:
+
+```shell
+pnpm projects:add any-number-of-repo-names
+```
+
+Then re-run `projects:generate` to populate data and re-write README.md tables.
+
 ## Formatting
 
 [Prettier](https://prettier.io) is used to format code.

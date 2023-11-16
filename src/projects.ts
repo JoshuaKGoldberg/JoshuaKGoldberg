@@ -279,6 +279,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "sinon-timers-repeatable",
 				stars: 1,
 			},
+			{
+				description:
+					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+				owner: "JoshuaKGoldberg",
+				repo: "release-it-action",
+				stars: 3,
+			},
 		],
 	},
 };
