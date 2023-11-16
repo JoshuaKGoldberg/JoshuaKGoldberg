@@ -1,3 +1,10 @@
+## [0.3.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.3.0...0.3.2) (2023-11-16)
+
+### Bug Fixes
+
+- add bin entry back ([f356dad](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/f356dad56fb9485a76bc42955219390435e39ccc))
+- sync create-typescript-app data and table entry ([ab3ef7c](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/ab3ef7c0f7ff8c916f90e393631465fc72eea0e2))
+
 # [0.3.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.2.2...0.3.0) (2023-11-05)
 
 ### Bug Fixes
