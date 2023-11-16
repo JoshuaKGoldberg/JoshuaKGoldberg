@@ -1,3 +1,9 @@
+# [0.4.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.3.2...0.4.0) (2023-11-16)
+
+### Features
+
+- added release-it-action and documented how ([1ddbf6a](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/1ddbf6ad535c863348ed906cbd435f2c13258a0c))
+
 ## [0.3.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.3.0...0.3.2) (2023-11-16)
 
 ### Bug Fixes
