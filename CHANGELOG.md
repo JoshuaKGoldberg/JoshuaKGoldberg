@@ -1,3 +1,9 @@
+# [0.5.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.4.0...0.5.0) (2023-12-07)
+
+### Features
+
+- added eslint-plugin-never-disable ([74142ca](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/74142cad3a319f099a1fa29b926bc49709898aaf))
+
 # [0.4.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.3.2...0.4.0) (2023-11-16)
 
 ### Features
