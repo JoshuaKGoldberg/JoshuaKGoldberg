@@ -62,6 +62,9 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/AkiraBrand">
 					<img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
 				</a>
+				<a href="https://github.com/bdav">
+					<img alt="Beau Davenport" src="https://github.com/bdav.png?size=50" />
+				</a>
 				<a href="https://github.com/ElianCodes">
 					<img alt="Elian" src="https://github.com/ElianCodes.png?size=50" />
 				</a>
@@ -197,7 +200,7 @@ These projects will help you add emoji delighters to your page quickly.
 	<tbody>
 		<tr>
 			<th span="row"><a href="https://github.com/omnidan/node-emoji">node-emoji</a></th>
-			<td>😏 simple emoji support for node.js projects</td>
+			<td>💖 simple emoji support for node.js projects</td>
 			<td>Junior maintainer</td>
 			<td><img alt="Stars: node-emoji" src="https://img.shields.io/github/stars/omnidan/node-emoji" /></td>
 		</tr>
@@ -392,16 +395,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
+			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
-			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-never-disable">eslint-plugin-never-disable</a></th>
+			<td>ESLint plugin to completely ban disabling specific rules. 🙅</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+			<td><img alt="Stars: eslint-plugin-never-disable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-never-disable" /></td>
 		</tr>
 	</tbody>
 </table>

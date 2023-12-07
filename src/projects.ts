@@ -16,14 +16,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14024,
+				stars: 14067,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1774,
+				stars: 1780,
 			},
 			{
 				description:
@@ -31,7 +31,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 493,
+				stars: 508,
 			},
 		],
 	},
@@ -40,11 +40,11 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			"I also have an interest in making web apps more delightful. These projects will help you add emoji delighters to your page quickly.",
 		projects: [
 			{
-				description: "😏 simple emoji support for node.js projects",
+				description: "💖 simple emoji support for node.js projects",
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1246,
+				stars: 1255,
 			},
 			{
 				description:
@@ -54,7 +54,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 117,
+				stars: 119,
 			},
 			{
 				description:
@@ -99,7 +99,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 207,
+				stars: 208,
 			},
 			{
 				description:
@@ -113,7 +113,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 67,
+				stars: 68,
 			},
 			{
 				description:
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 770,
+				stars: 780,
 			},
 			{
 				description:
@@ -170,7 +170,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 38,
+				stars: 42,
 			},
 			{
 				description:
@@ -218,7 +218,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 10,
+				stars: 11,
 			},
 			{
 				description:
@@ -274,6 +274,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+				owner: "JoshuaKGoldberg",
+				repo: "release-it-action",
+				stars: 3,
+			},
+			{
+				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
@@ -281,10 +288,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+					"ESLint plugin to completely ban disabling specific rules. 🙅",
 				owner: "JoshuaKGoldberg",
-				repo: "release-it-action",
-				stars: 3,
+				repo: "eslint-plugin-never-disable",
+				stars: 1,
 			},
 		],
 	},
