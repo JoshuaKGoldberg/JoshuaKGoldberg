@@ -288,7 +288,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"ESLint plugin to complete ban disabling specific rules. 🙅",
+					"ESLint plugin to completely ban disabling specific rules. 🙅",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-never-disable",
 				stars: 7,
