@@ -16,14 +16,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14067,
+				stars: 14123,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1780,
+				stars: 1786,
 			},
 			{
 				description:
@@ -31,7 +31,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 508,
+				stars: 509,
 			},
 		],
 	},
@@ -44,7 +44,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1255,
+				stars: 1263,
 			},
 			{
 				description:
@@ -54,14 +54,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 119,
+				stars: 120,
 			},
 			{
 				description:
 					"Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "Konamimojisplosion",
-				stars: 10,
+				stars: 12,
 			},
 			{
 				description:
@@ -99,14 +99,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 208,
+				stars: 210,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 69,
+				stars: 72,
 			},
 			{
 				description:
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 780,
+				stars: 787,
 			},
 			{
 				description:
@@ -163,7 +163,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 71,
+				stars: 75,
 			},
 			{
 				description:
@@ -177,7 +177,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 27,
+				stars: 30,
 			},
 			{
 				description:
@@ -222,10 +222,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a semantic release should be run for a commit. 💂",
+					"Checks whether a semantic release should be run for a repository. 💂",
 				owner: "JoshuaKGoldberg",
 				repo: "should-semantic-release",
-				stars: 7,
+				stars: 9,
 			},
 			{
 				description:
@@ -291,7 +291,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to completely ban disabling specific rules. 🙅",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-never-disable",
-				stars: 1,
+				stars: 7,
 			},
 		],
 	},

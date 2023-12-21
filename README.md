@@ -43,98 +43,101 @@ They deserve our sincere appreciation and gratitude.
 		<tr align="center">
 			<td >
 				<a href="https://github.com/beyang">
-					<img alt="Beyang Liu" src="https://github.com/beyang.png?size=75" />
+					<img alt="Beyang Liu" height="75px" src="https://github.com/beyang.png?size=75" width="75px" />
 				</a>
 				<a href="https://github.com/constituentvoice">
-					<img alt="Constituent Voice" src="https://github.com/constituentvoice.png?size=75" />
+					<img alt="Constituent Voice" height="75px" src="https://github.com/constituentvoice.png?size=75" width="75px" />
 				</a>
 				<a href="https://github.com/estevezluis">
-					<img alt="Luis Estevez" src="https://github.com/estevezluis.png?size=75" />
+					<img alt="Luis Estevez" height="75px" src="https://github.com/estevezluis.png?size=75" width="75px" />
 				</a>
 				<a href="https://github.com/Loops-so">
-					<img alt="Loops" src="https://github.com/Loops-so.png?size=75" />
+					<img alt="Loops" height="75px" src="https://github.com/Loops-so.png?size=75" width="75px" />
 				</a>
 				<a href="https://github.com/webpro">
-					<img alt="Lars Kappert" src="https://github.com/webpro.png?size=75" />
+					<img alt="Lars Kappert" height="75px" src="https://github.com/webpro.png?size=75" width="75px" />
 				</a>
 			</td>
 			<td >
 				<a href="https://github.com/AkiraBrand">
-					<img alt="Akira " src="https://github.com/AkiraBrand.png?size=50" />
+					<img alt="Akira " height="50px" src="https://github.com/AkiraBrand.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/bdav">
-					<img alt="Beau Davenport" src="https://github.com/bdav.png?size=50" />
+					<img alt="Beau Davenport" height="50px" src="https://github.com/bdav.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/ElianCodes">
-					<img alt="Elian" src="https://github.com/ElianCodes.png?size=50" />
+					<img alt="Elian" height="50px" src="https://github.com/ElianCodes.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/FarazPatankar">
-					<img alt="Faraz Patankar" src="https://github.com/FarazPatankar.png?size=50" />
+					<img alt="Faraz Patankar" height="50px" src="https://github.com/FarazPatankar.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/IanVS">
-					<img alt="Ian VanSchooten" src="https://github.com/IanVS.png?size=50" />
+					<img alt="Ian VanSchooten" height="50px" src="https://github.com/IanVS.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/jennjunod">
-					<img alt="Jenn Junod" src="https://github.com/jennjunod.png?size=50" />
+					<img alt="Jenn Junod" height="50px" src="https://github.com/jennjunod.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/Jolg42">
-					<img alt="Joël Galeran" src="https://github.com/Jolg42.png?size=50" />
+					<img alt="Joël Galeran" height="50px" src="https://github.com/Jolg42.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/Kamalnrf">
-					<img alt="Kamal" src="https://github.com/Kamalnrf.png?size=50" />
+					<img alt="Kamal" height="50px" src="https://github.com/Kamalnrf.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/KernelGamut32">
-					<img alt="Allen Sanders" src="https://github.com/KernelGamut32.png?size=50" />
+					<img alt="Allen Sanders" height="50px" src="https://github.com/KernelGamut32.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/kienankb">
-					<img alt="kienan" src="https://github.com/kienankb.png?size=50" />
+					<img alt="kienan" height="50px" src="https://github.com/kienankb.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/kitsonk">
-					<img alt="Kitson Kelly" src="https://github.com/kitsonk.png?size=50" />
+					<img alt="Kitson Kelly" height="50px" src="https://github.com/kitsonk.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/rtbenfield">
-					<img alt="Tyler Benfield" src="https://github.com/rtbenfield.png?size=50" />
+					<img alt="Tyler Benfield" height="50px" src="https://github.com/rtbenfield.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/rwaskiewicz">
-					<img alt="Ryan Waskiewicz" src="https://github.com/rwaskiewicz.png?size=50" />
+					<img alt="Ryan Waskiewicz" height="50px" src="https://github.com/rwaskiewicz.png?size=50" width="50px" />
 				</a>
 			</td>
 			<td >
 				<a href="https://github.com/antfu">
-					<img alt="Anthony Fu" src="https://github.com/antfu.png?size=50" />
+					<img alt="Anthony Fu" height="50px" src="https://github.com/antfu.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/bmish">
-					<img alt="Bryan Mishkin" src="https://github.com/bmish.png?size=50" />
+					<img alt="Bryan Mishkin" height="50px" src="https://github.com/bmish.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/danfry1">
-					<img alt="Daniel Fry" src="https://github.com/danfry1.png?size=50" />
+					<img alt="Daniel Fry" height="50px" src="https://github.com/danfry1.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/DarrenBaldwin07">
-					<img alt="Darren Baldwin" src="https://github.com/DarrenBaldwin07.png?size=50" />
+					<img alt="Darren Baldwin" height="50px" src="https://github.com/DarrenBaldwin07.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/johnnyreilly">
-					<img alt="John Reilly" src="https://github.com/johnnyreilly.png?size=50" />
+					<img alt="John Reilly" height="50px" src="https://github.com/johnnyreilly.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/jram930">
-					<img alt="Jared Ramsey" src="https://github.com/jram930.png?size=50" />
+					<img alt="Jared Ramsey" height="50px" src="https://github.com/jram930.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/nickytonline">
-					<img alt="Nick Taylor" src="https://github.com/nickytonline.png?size=50" />
+					<img alt="Nick Taylor" height="50px" src="https://github.com/nickytonline.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/santoshyadavdev">
-					<img alt="Santosh Yadav" src="https://github.com/santoshyadavdev.png?size=50" />
+					<img alt="Santosh Yadav" height="50px" src="https://github.com/santoshyadavdev.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/seveibar">
-					<img alt="Severin Ibarluzea" src="https://github.com/seveibar.png?size=50" />
+					<img alt="Severin Ibarluzea" height="50px" src="https://github.com/seveibar.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/sindresorhus">
-					<img alt="Sindre Sorhus" src="https://github.com/sindresorhus.png?size=50" />
+					<img alt="Sindre Sorhus" height="50px" src="https://github.com/sindresorhus.png?size=50" width="50px" />
+				</a>
+				<a href="https://github.com/thengstermanndev">
+					<img alt="Thees Hengstermann" height="50px" src="https://github.com/thengstermanndev.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/usmangenx">
-					<img alt="Muhammad Usman Javed" src="https://github.com/usmangenx.png?size=50" />
+					<img alt="Muhammad Usman Javed" height="50px" src="https://github.com/usmangenx.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/xavdid">
-					<img alt="David Brownman" src="https://github.com/xavdid.png?size=50" />
+					<img alt="David Brownman" height="50px" src="https://github.com/xavdid.png?size=50" width="50px" />
 				</a>
 			</td>
 		</tr>
@@ -354,7 +357,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
-			<td>Checks whether a semantic release should be run for a commit. 💂</td>
+			<td>Checks whether a semantic release should be run for a repository. 💂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>

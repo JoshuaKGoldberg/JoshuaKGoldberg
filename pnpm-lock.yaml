@@ -71,8 +71,8 @@ devDependencies:
     specifier: ^1.11.0
     version: 1.11.0(eslint@8.56.0)
   github-sponsors-to-markdown:
-    specifier: ^0.1.1
-    version: 0.1.1
+    specifier: ^0.2.1
+    version: 0.2.1
   husky:
     specifier: ^8.0.3
     version: 8.0.3
@@ -3872,8 +3872,8 @@ packages:
       git-up: 7.0.0
     dev: true
 
-  /github-sponsors-to-markdown@0.1.1:
-    resolution: {integrity: sha512-iPyOFszPcBDB2IvulQ0OIgMdgrlnjmJCw5SmphridotFWixN1ZV4nkRwi0MJb0cyaPm2tnfijS6oS8QYh64MTg==}
+  /github-sponsors-to-markdown@0.2.1:
+    resolution: {integrity: sha512-U0kLbKHmrztmVR6Kn3+i0A2GaPvfIigUecOdV0ouJzhJDz35fFLe/SwhGF19lkuKsgR6sUd94jP0dk+vgQf9bw==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
