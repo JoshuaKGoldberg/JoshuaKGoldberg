@@ -9,7 +9,8 @@
         "maintenance",
         "tool",
         "infra",
-        "code"
+        "code",
+        "doc"
       ],
       "login": "JoshuaKGoldberg",
       "name": "Josh Goldberg",
