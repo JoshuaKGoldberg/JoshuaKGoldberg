@@ -64,7 +64,7 @@
 		"eslint-plugin-regexp": "^2.1.2",
 		"eslint-plugin-vitest": "^0.3.18",
 		"eslint-plugin-yml": "^1.11.0",
-		"github-sponsors-to-markdown": "^0.1.1",
+		"github-sponsors-to-markdown": "^0.2.1",
 		"husky": "^8.0.3",
 		"jsonc-eslint-parser": "^2.4.0",
 		"knip": "3.8.4",
