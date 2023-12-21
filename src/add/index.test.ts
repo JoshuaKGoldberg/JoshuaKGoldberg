@@ -1,11 +1,11 @@
 import chalk from "chalk";
-import { SpyInstance, beforeEach, describe, expect, it, vi } from "vitest";
+import { MockInstance, beforeEach, describe, expect, it, vi } from "vitest";
 
 import { add } from "./index.js";
 
-let mockConsoleInfo: SpyInstance;
-let mockConsoleLog: SpyInstance;
-let mockConsoleWarn: SpyInstance;
+let mockConsoleInfo: MockInstance;
+let mockConsoleLog: MockInstance;
+let mockConsoleWarn: MockInstance;
 
 const mockWriteProjects = vi.fn();
 

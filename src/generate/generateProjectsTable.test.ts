@@ -22,19 +22,19 @@ test("generateProjectsTable", () => {
 		Test description.
 
 		<!-- markdownlint-disable sentences-per-line -->
-		<table width=\\"100%\\">
+		<table width="100%">
 			<thead>
-				<th span=\\"col\\">Project ⚙️</th>
-				<th span=\\"col\\">Description 📝</th>
-				<th span=\\"col\\">Role 🧑‍🏭</th>
-				<th span=\\"col\\">Stars ⭐</th>
+				<th span="col">Project ⚙️</th>
+				<th span="col">Description 📝</th>
+				<th span="col">Role 🧑‍🏭</th>
+				<th span="col">Stars ⭐</th>
 			</thead>
 			<tbody>
 				<tr>
-					<th span=\\"row\\"><a href=\\"https://github.com/TestOwner/test-repo\\">test-repo</a></th>
+					<th span="row"><a href="https://github.com/TestOwner/test-repo">test-repo</a></th>
 					<td>Test project description.</td>
 					<td>Creator & maintainer</td>
-					<td><img alt=\\"Stars: test-repo\\" src=\\"https://img.shields.io/github/stars/TestOwner/test-repo\\" /></td>
+					<td><img alt="Stars: test-repo" src="https://img.shields.io/github/stars/TestOwner/test-repo" /></td>
 				</tr>
 			</tbody>
 		</table>
