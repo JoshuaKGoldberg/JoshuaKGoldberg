@@ -16,7 +16,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14123,
+				stars: 14129,
 			},
 			{
 				description:
@@ -54,7 +54,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 120,
+				stars: 121,
 			},
 			{
 				description:
@@ -229,6 +229,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"ESLint plugin to completely ban disabling specific rules. 🙅",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-never-disable",
+				stars: 7,
+			},
+			{
+				description:
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
@@ -285,13 +292,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
 				stars: 1,
-			},
-			{
-				description:
-					"ESLint plugin to completely ban disabling specific rules. 🙅",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-plugin-never-disable",
-				stars: 7,
 			},
 		],
 	},
