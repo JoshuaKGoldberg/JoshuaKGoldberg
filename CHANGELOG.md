@@ -1,3 +1,9 @@
+# [0.6.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.5.0...0.6.0) (2023-12-22)
+
+### Features
+
+- added commit-to-co-authors, co-author-to-username ([7db887a](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/7db887a98eef1f830e8245a26d2bc3dbdca03f62))
+
 # [0.5.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.4.0...0.5.0) (2023-12-07)
 
 ### Features
