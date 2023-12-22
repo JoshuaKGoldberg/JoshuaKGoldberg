@@ -288,6 +288,20 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
+				owner: "JoshuaKGoldberg",
+				repo: "commit-to-co-authors",
+				stars: 3,
+			},
+			{
+				description:
+					"Fetches the GitHub username for a co-author, if possible. 📇",
+				owner: "JoshuaKGoldberg",
+				repo: "co-author-to-username",
+				stars: 2,
+			},
+			{
+				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",

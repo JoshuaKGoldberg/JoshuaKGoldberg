@@ -410,6 +410,18 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
+			<td>Parses co-authors from Git/GitHub-style commit messages. ✍️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: commit-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/commit-to-co-authors" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/co-author-to-username">co-author-to-username</a></th>
+			<td>Fetches the GitHub username for a co-author, if possible. 📇</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: co-author-to-username" src="https://img.shields.io/github/stars/JoshuaKGoldberg/co-author-to-username" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
