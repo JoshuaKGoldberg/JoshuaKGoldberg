@@ -1,5 +1,6 @@
 import chalk from "chalk";
 
+import { byStars } from "../generate/byStars.js";
 import { projectCategories } from "../projects.js";
 import { writeProjects } from "../shared/writeProjects.js";
 
@@ -41,7 +42,7 @@ export async function add(repos: string[]) {
 						repo,
 						stars: -1,
 					})),
-				],
+				].sort(byStars),
 			},
 		});
 
