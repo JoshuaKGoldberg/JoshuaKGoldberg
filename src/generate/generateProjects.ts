@@ -4,6 +4,7 @@ import { Octokit } from "octokit";
 import { projectCategories } from "../projects.js";
 import { writeProjects } from "../shared/writeProjects.js";
 import { Project } from "../types.js";
+import { byStars } from "./byStars.js";
 
 export async function generateProjects() {
 	const { GH_TOKEN: auth } = process.env;
@@ -18,7 +19,7 @@ export async function generateProjects() {
 	}
 
 	async function processProjects(projects: Project[]) {
-		projects.sort((a, b) => b.stars - a.stars);
+		projects.sort(byStars);
 
 		for (const project of projects) {
 			await processProject(project);
