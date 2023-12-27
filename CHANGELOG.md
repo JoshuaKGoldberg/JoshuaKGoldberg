@@ -1,3 +1,9 @@
+# [0.7.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.6.0...0.7.0) (2023-12-27)
+
+### Features
+
+- add github-usernae-to-emails(-site), disposable-discord-client ([6033f42](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/6033f42316817ac608492ef324bbdf070d5cb992))
+
 # [0.6.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.5.0...0.6.0) (2023-12-22)
 
 ### Features
