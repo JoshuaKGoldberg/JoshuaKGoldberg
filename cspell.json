@@ -10,15 +10,22 @@
 	],
 	"words": [
 		"allcontributors",
+		"astro",
 		"Bluesky",
 		"Codecov",
 		"codespace",
 		"commitlint",
 		"contributorsrc",
 		"conventionalcommits",
+		"delighters",
+		"EightBittr",
 		"emojify",
+		"Emojisplosion",
+		"inlines",
 		"joshuakgoldberg",
 		"knip",
+		"konami",
+		"Konamimojisplosion",
 		"lcov",
 		"markdownlintignore",
 		"npmpackagejsonlintrc",
@@ -26,6 +33,7 @@
 		"packagejson",
 		"quickstart",
 		"tsup",
+		"Twoslash",
 		"wontfix"
 	]
 }

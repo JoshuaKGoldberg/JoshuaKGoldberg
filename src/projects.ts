@@ -16,7 +16,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14129,
+				stars: 14139,
 			},
 			{
 				description:
@@ -31,7 +31,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 509,
+				stars: 510,
 			},
 		],
 	},
@@ -44,7 +44,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1263,
+				stars: 1262,
 			},
 			{
 				description:
@@ -54,7 +54,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 121,
+				stars: 125,
 			},
 			{
 				description:
@@ -91,7 +91,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2993,
+				stars: 2991,
 			},
 			{
 				description:
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 787,
+				stars: 788,
 			},
 			{
 				description:
@@ -163,7 +163,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 75,
+				stars: 76,
 			},
 			{
 				description:
@@ -201,6 +201,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 20,
 			},
 			{
+				description:
+					"Fetches any public emails associated with a GitHub username. 📧",
+				owner: "JoshuaKGoldberg",
+				repo: "github-username-to-emails",
+				stars: 15,
+			},
+			{
 				description: "Creates and caches values under keys. 🏭",
 				owner: "JoshuaKGoldberg",
 				repo: "cached-factory",
@@ -236,16 +243,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a documentation description introduces any new information. ℹ️",
-				owner: "JoshuaKGoldberg",
-				repo: "are-docs-informative",
-				stars: 6,
-			},
-			{
-				description:
 					"Finds your npm packages that are eligible for Tidelift funding. 💸",
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up",
+				stars: 7,
+			},
+			{
+				description:
+					"Checks whether a documentation description introduces any new information. ℹ️",
+				owner: "JoshuaKGoldberg",
+				repo: "are-docs-informative",
 				stars: 6,
 			},
 			{
@@ -295,6 +302,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Web app to fetch any public emails associated with a GitHub username. 📧",
+				owner: "JoshuaKGoldberg",
+				repo: "github-username-to-emails-site",
+				stars: 3,
+			},
+			{
+				description:
 					"Fetches the GitHub username for a co-author, if possible. 📇",
 				owner: "JoshuaKGoldberg",
 				repo: "co-author-to-username",
@@ -305,6 +319,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
+				stars: 1,
+			},
+			{
+				description:
+					"An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮",
+				owner: "JoshuaKGoldberg",
+				repo: "disposable-discord-client",
 				stars: 1,
 			},
 		],
