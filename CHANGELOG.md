@@ -1,3 +1,13 @@
+# [0.8.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.7.0...0.8.0) (2024-01-13)
+
+### Bug Fixes
+
+- sort projects by stars in add too ([4755b5f](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/4755b5f9feed655bf3c8814b42a60bf85bb36e94))
+
+### Features
+
+- added eslint-plugin-package-json, typedoc-plugin-konamimojisplosion, eslint-plugin-package-json ([b99b7f2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b99b7f27c3d03bc4858dccdee12026095213dea5))
+
 # [0.7.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.6.0...0.7.0) (2023-12-27)
 
 ### Features
