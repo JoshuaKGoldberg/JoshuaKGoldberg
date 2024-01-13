@@ -16,14 +16,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14139,
+				stars: 14179,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1786,
+				stars: 1798,
 			},
 			{
 				description:
@@ -31,7 +31,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 510,
+				stars: 521,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "Konamimojisplosion",
-				stars: 12,
+				stars: 13,
 			},
 			{
 				description:
@@ -141,7 +141,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				],
 				owner: "budgielang",
 				repo: "Budgie",
-				stars: 59,
+				stars: 58,
 			},
 		],
 	},
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 788,
+				stars: 792,
 			},
 			{
 				description:
@@ -163,7 +163,15 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 76,
+				stars: 78,
+			},
+			{
+				description:
+					"Rules for consistent, readable, and valid package.json files. 🗂️",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-package-json",
+				role: "Adoptive maintainer",
+				stars: 60,
 			},
 			{
 				description:
@@ -177,7 +185,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 30,
+				stars: 33,
 			},
 			{
 				description:
@@ -239,7 +247,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to completely ban disabling specific rules. 🙅",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-never-disable",
-				stars: 7,
+				stars: 8,
+			},
+			{
+				description:
+					"Checks whether a documentation description introduces any new information. ℹ️",
+				owner: "JoshuaKGoldberg",
+				repo: "are-docs-informative",
+				stars: 8,
 			},
 			{
 				description:
@@ -250,17 +265,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a documentation description introduces any new information. ℹ️",
-				owner: "JoshuaKGoldberg",
-				repo: "are-docs-informative",
-				stars: 6,
-			},
-			{
-				description:
 					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
-				stars: 4,
+				stars: 5,
 			},
 			{
 				description:
@@ -277,6 +285,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
+				stars: 4,
+			},
+			{
+				description:
+					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
+				owner: "JoshuaKGoldberg",
+				repo: "typedoc-plugin-konamimojisplosion",
 				stars: 4,
 			},
 			{

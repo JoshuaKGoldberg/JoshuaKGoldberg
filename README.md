@@ -308,6 +308,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
+			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
+			<td>Adoptive maintainer</td>
+			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-package-json" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
 			<td>Prettier plugin to enforce consistent brace style for all control statements. 🥌</td>
 			<td>Creator & maintainer</td>
@@ -374,16 +380,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-never-disable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-never-disable" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
-			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
 			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
+			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
@@ -402,6 +408,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
+			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
