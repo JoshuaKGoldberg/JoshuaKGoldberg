@@ -16,14 +16,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14179,
+				stars: 14205,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1798,
+				stars: 1801,
 			},
 			{
 				description:
@@ -31,7 +31,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 521,
+				stars: 527,
 			},
 		],
 	},
@@ -44,7 +44,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1262,
+				stars: 1265,
 			},
 			{
 				description:
@@ -54,7 +54,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 125,
+				stars: 126,
 			},
 			{
 				description:
@@ -99,7 +99,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 210,
+				stars: 211,
 			},
 			{
 				description:
@@ -141,7 +141,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				],
 				owner: "budgielang",
 				repo: "Budgie",
-				stars: 58,
+				stars: 59,
 			},
 		],
 	},
@@ -155,7 +155,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 792,
+				stars: 798,
 			},
 			{
 				description:
@@ -163,7 +163,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 78,
+				stars: 79,
 			},
 			{
 				description:
@@ -171,7 +171,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 60,
+				stars: 61,
 			},
 			{
 				description:
@@ -192,7 +192,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
-				stars: 27,
+				stars: 28,
 			},
 			{
 				description:
@@ -233,7 +233,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 11,
+				stars: 12,
 			},
 			{
 				description:
@@ -247,7 +247,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to completely ban disabling specific rules. 🙅",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-never-disable",
-				stars: 8,
+				stars: 9,
 			},
 			{
 				description:
@@ -278,14 +278,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up-site",
-				stars: 4,
+				stars: 5,
 			},
 			{
 				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 4,
+				stars: 5,
 			},
 			{
 				description:
@@ -342,6 +342,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
+			},
+			{
+				description: "Fetches any packages associated with an npm username. 📨",
+				owner: "JoshuaKGoldberg",
+				repo: "npm-username-to-packages",
+				stars: 2,
 			},
 		],
 	},

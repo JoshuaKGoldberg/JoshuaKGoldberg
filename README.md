@@ -457,6 +457,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/npm-username-to-packages">npm-username-to-packages</a></th>
+			<td>Fetches any packages associated with an npm username. 📨</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: npm-username-to-packages" src="https://img.shields.io/github/stars/JoshuaKGoldberg/npm-username-to-packages" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
