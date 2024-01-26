@@ -1,3 +1,9 @@
+# [0.9.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.8.0...0.9.0) (2024-01-26)
+
+### Features
+
+- add eslint and mocha projects ([dd55cb5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/dd55cb56764031e1bf954aa56dd81a2bbd125e77))
+
 # [0.8.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.7.0...0.8.0) (2024-01-13)
 
 ### Bug Fixes
