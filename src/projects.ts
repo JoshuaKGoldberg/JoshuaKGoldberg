@@ -8,6 +8,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 		projects: [
 			{
 				description: "Find and fix problems in your JavaScript code.",
+				image: "https://www.joshuakgoldberg.com/img/eslint.svg",
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
@@ -16,6 +17,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"☕️ simple, flexible, fun javascript test framework for node.js & the browser",
+				image: "https://www.joshuakgoldberg.com/img/mocha.svg",
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
