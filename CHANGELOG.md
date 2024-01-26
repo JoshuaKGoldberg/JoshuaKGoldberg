@@ -1,3 +1,9 @@
+## [0.9.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.0...0.9.1) (2024-01-26)
+
+### Bug Fixes
+
+- add images to eslint and mocha ([4f3e118](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/4f3e118974fcff5a20a36164eb7228eac8412d20))
+
 # [0.9.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.8.0...0.9.0) (2024-01-26)
 
 ### Features
