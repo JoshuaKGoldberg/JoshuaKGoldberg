@@ -154,7 +154,7 @@ They deserve our sincere appreciation and gratitude.
 
 ### Biggest Projects
 
-If you work with TypeScript, you may have used one of the open source projects I support:
+If you work with JavaScript or TypeScript, you may have used one of the open source projects I support:
 
 <!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
@@ -165,6 +165,18 @@ If you work with TypeScript, you may have used one of the open source projects I
 		<th span="col">Stars ⭐</th>
 	</thead>
 	<tbody>
+		<tr>
+			<th span="row"><a href="https://github.com/eslint/eslint">eslint</a></th>
+			<td>Find and fix problems in your JavaScript code.</td>
+			<td>Committer</td>
+			<td><img alt="Stars: eslint" src="https://img.shields.io/github/stars/eslint/eslint" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/mochajs/mocha">mocha</a></th>
+			<td>☕️ simple, flexible, fun javascript test framework for node.js & the browser</td>
+			<td>Maintainer</td>
+			<td><img alt="Stars: mocha" src="https://img.shields.io/github/stars/mochajs/mocha" /></td>
+		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/typescript-eslint/typescript-eslint">typescript-eslint</a></th>
 			<td>✨ Monorepo for all the tooling which enables ESLint to support TypeScript</td>
@@ -440,6 +452,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/npm-username-to-packages">npm-username-to-packages</a></th>
+			<td>Fetches any packages associated with an npm username. 📨</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: npm-username-to-packages" src="https://img.shields.io/github/stars/JoshuaKGoldberg/npm-username-to-packages" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/co-author-to-username">co-author-to-username</a></th>
 			<td>Fetches the GitHub username for a co-author, if possible. 📇</td>
 			<td>Creator & maintainer</td>
@@ -456,12 +474,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/npm-username-to-packages">npm-username-to-packages</a></th>
-			<td>Fetches any packages associated with an npm username. 📨</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: npm-username-to-packages" src="https://img.shields.io/github/stars/JoshuaKGoldberg/npm-username-to-packages" /></td>
 		</tr>
 	</tbody>
 </table>

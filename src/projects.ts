@@ -4,8 +4,23 @@ import { ProjectCategory } from "./types.js";
 export const projectCategories: Record<string, ProjectCategory> = {
 	"Biggest Projects": {
 		description:
-			"If you work with TypeScript, you may have used one of the open source projects I support:",
+			"If you work with JavaScript or TypeScript, you may have used one of the open source projects I support:",
 		projects: [
+			{
+				description: "Find and fix problems in your JavaScript code.",
+				owner: "eslint",
+				repo: "eslint",
+				role: "Committer",
+				stars: 23889,
+			},
+			{
+				description:
+					"☕️ simple, flexible, fun javascript test framework for node.js & the browser",
+				owner: "mochajs",
+				repo: "mocha",
+				role: "Maintainer",
+				stars: 22364,
+			},
 			{
 				description:
 					"✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
@@ -16,14 +31,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14205,
+				stars: 14212,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1801,
+				stars: 1802,
 			},
 			{
 				description:
@@ -31,7 +46,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 527,
+				stars: 531,
 			},
 		],
 	},
@@ -44,7 +59,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1265,
+				stars: 1264,
 			},
 			{
 				description:
@@ -91,7 +106,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2991,
+				stars: 2990,
 			},
 			{
 				description:
@@ -155,7 +170,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 798,
+				stars: 799,
 			},
 			{
 				description:
@@ -323,6 +338,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
+				description: "Fetches any packages associated with an npm username. 📨",
+				owner: "JoshuaKGoldberg",
+				repo: "npm-username-to-packages",
+				stars: 3,
+			},
+			{
 				description:
 					"Fetches the GitHub username for a co-author, if possible. 📇",
 				owner: "JoshuaKGoldberg",
@@ -342,12 +363,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
-			},
-			{
-				description: "Fetches any packages associated with an npm username. 📨",
-				owner: "JoshuaKGoldberg",
-				repo: "npm-username-to-packages",
-				stars: 2,
 			},
 		],
 	},
