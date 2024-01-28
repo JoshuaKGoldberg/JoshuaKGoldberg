@@ -1,3 +1,9 @@
+## [0.9.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.1...0.9.2) (2024-01-28)
+
+### Bug Fixes
+
+- remove eslint-plugin-never-disable ([5192f45](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/5192f45c2cacb2ba15eeb3c14129ccc3c361c62b))
+
 ## [0.9.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.0...0.9.1) (2024-01-26)
 
 ### Bug Fixes
