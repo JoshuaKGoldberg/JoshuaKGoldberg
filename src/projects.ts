@@ -261,13 +261,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"ESLint plugin to completely ban disabling specific rules. 🙅",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-plugin-never-disable",
-				stars: 9,
-			},
-			{
-				description:
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",

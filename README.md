@@ -386,12 +386,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-never-disable">eslint-plugin-never-disable</a></th>
-			<td>ESLint plugin to completely ban disabling specific rules. 🙅</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: eslint-plugin-never-disable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-never-disable" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
 			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
