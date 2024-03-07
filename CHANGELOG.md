@@ -1,3 +1,9 @@
+## [0.9.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.2...0.9.3) (2024-03-07)
+
+### Bug Fixes
+
+- add prune-github-notifications ([84a5dc8](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/84a5dc83a830008d0479e52f988b1003c4b5f582))
+
 ## [0.9.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.1...0.9.2) (2024-01-28)
 
 ### Bug Fixes
