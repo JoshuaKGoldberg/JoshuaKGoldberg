@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24001,
+				stars: 24000,
 			},
 			{
 				description:
@@ -275,6 +275,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Contributed markdownlint rule for limiting sentences per line. 📐",
+				owner: "JoshuaKGoldberg",
+				repo: "sentences-per-line",
+				stars: 7,
+			},
+			{
+				description:
 					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
@@ -292,10 +299,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Contributed markdownlint rule for limiting sentences per line. 📐",
+					"Web app to fetch any public emails associated with a GitHub username. 📧",
 				owner: "JoshuaKGoldberg",
-				repo: "sentences-per-line",
-				stars: 7,
+				repo: "github-username-to-emails-site",
+				stars: 5,
 			},
 			{
 				description:
@@ -303,13 +310,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "typedoc-plugin-konamimojisplosion",
 				stars: 4,
-			},
-			{
-				description:
-					"Generates an allcontributors list for an existing repository. 🤝",
-				owner: "JoshuaKGoldberg",
-				repo: "all-contributors-for-repository",
-				stars: 3,
 			},
 			{
 				description:
@@ -327,10 +327,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Web app to fetch any public emails associated with a GitHub username. 📧",
+					"Generates an allcontributors list for an existing repository. 🤝",
 				owner: "JoshuaKGoldberg",
-				repo: "github-username-to-emails-site",
-				stars: 5,
+				repo: "all-contributors-for-repository",
+				stars: 3,
 			},
 			{
 				description: "Fetches any packages associated with an npm username. 📨",
@@ -358,6 +358,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
+			},
+			{
+				description:
+					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
+				owner: "JoshuaKGoldberg",
+				repo: "prune-github-notifications",
+				stars: 4,
 			},
 		],
 	},
