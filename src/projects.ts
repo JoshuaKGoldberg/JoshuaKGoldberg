@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 23889,
+				stars: 24001,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22364,
+				stars: 22387,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14212,
+				stars: 14389,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1802,
+				stars: 1820,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 531,
+				stars: 566,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1264,
+				stars: 1267,
 			},
 			{
 				description:
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 126,
+				stars: 132,
 			},
 			{
 				description:
@@ -108,7 +108,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2990,
+				stars: 2987,
 			},
 			{
 				description:
@@ -116,7 +116,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 211,
+				stars: 212,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 799,
+				stars: 810,
 			},
 			{
 				description:
@@ -180,7 +180,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 79,
+				stars: 81,
 			},
 			{
 				description:
@@ -188,21 +188,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 61,
+				stars: 76,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 42,
+				stars: 45,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 33,
+				stars: 38,
 			},
 			{
 				description:
@@ -230,7 +230,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fetches any public emails associated with a GitHub username. 📧",
 				owner: "JoshuaKGoldberg",
 				repo: "github-username-to-emails",
-				stars: 15,
+				stars: 16,
 			},
 			{
 				description: "Creates and caches values under keys. 🏭",
@@ -257,7 +257,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Checks whether a semantic release should be run for a repository. 💂",
 				owner: "JoshuaKGoldberg",
 				repo: "should-semantic-release",
-				stars: 9,
+				stars: 10,
 			},
 			{
 				description:
@@ -295,7 +295,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 5,
+				stars: 7,
 			},
 			{
 				description:
@@ -316,21 +316,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 3,
+				stars: 4,
 			},
 			{
 				description:
 					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
 				owner: "JoshuaKGoldberg",
 				repo: "commit-to-co-authors",
-				stars: 3,
+				stars: 4,
 			},
 			{
 				description:
 					"Web app to fetch any public emails associated with a GitHub username. 📧",
 				owner: "JoshuaKGoldberg",
 				repo: "github-username-to-emails-site",
-				stars: 3,
+				stars: 5,
 			},
 			{
 				description: "Fetches any packages associated with an npm username. 📨",
@@ -343,7 +343,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fetches the GitHub username for a co-author, if possible. 📇",
 				owner: "JoshuaKGoldberg",
 				repo: "co-author-to-username",
-				stars: 2,
+				stars: 3,
 			},
 			{
 				description:

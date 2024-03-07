@@ -130,9 +130,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/sindresorhus">
 					<img alt="Sindre Sorhus" height="50px" src="https://github.com/sindresorhus.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/thengstermanndev">
-					<img alt="Thees Hengstermann" height="50px" src="https://github.com/thengstermanndev.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/usmangenx">
 					<img alt="Muhammad Usman Javed" height="50px" src="https://github.com/usmangenx.png?size=50" width="50px" />
 				</a>
