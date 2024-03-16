@@ -437,6 +437,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: commit-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/commit-to-co-authors" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
+			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
 			<td>Generates an allcontributors list for an existing repository. 🤝</td>
 			<td>Creator & maintainer</td>
@@ -465,12 +471,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
-			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
 		</tr>
 	</tbody>
 </table>
