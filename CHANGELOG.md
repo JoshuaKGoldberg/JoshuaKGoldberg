@@ -1,3 +1,9 @@
+## [0.9.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.3...0.9.4) (2024-03-16)
+
+### Bug Fixes
+
+- updated numbers for March 16th 2024 ([f6f429e](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/f6f429e301b40c041a473fcde90a078765172568))
+
 ## [0.9.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.2...0.9.3) (2024-03-07)
 
 ### Bug Fixes
