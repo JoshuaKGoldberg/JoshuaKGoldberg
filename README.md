@@ -461,6 +461,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: co-author-to-username" src="https://img.shields.io/github/stars/JoshuaKGoldberg/co-author-to-username" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
+			<td>An unofficial static export of emoji technical information from Emojipedia. 📙</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>

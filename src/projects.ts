@@ -89,6 +89,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"An unofficial static export of emoji technical information from Emojipedia. 📙",
+				owner: "JoshuaKGoldberg",
+				repo: "emojipedia",
+				stars: 3,
+			},
+			{
+				description:
 					"Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "astro-konamimojisplosion",
