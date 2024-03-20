@@ -229,16 +229,22 @@ These projects will help you add emoji delighters to your page quickly.
 			<td><img alt="Stars: Konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Konamimojisplosion" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
+			<td>Unofficial static export of emoji technical information from Emojipedia. 📙</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
 			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
-			<td>Unofficial static export of emoji technical information from Emojipedia. 📙</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emoji-platform-data">emoji-platform-data</a></th>
+			<td>Static export of platform-specific metadata for unicode emojis. 🗝️</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
+			<td><img alt="Stars: emoji-platform-data" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emoji-platform-data" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/astro-konamimojisplosion">astro-konamimojisplosion</a></th>

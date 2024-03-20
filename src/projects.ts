@@ -82,6 +82,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Unofficial static export of emoji technical information from Emojipedia. 📙",
+				owner: "JoshuaKGoldberg",
+				repo: "emojipedia",
+				stars: 11,
+			},
+			{
+				description:
 					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "typedoc-plugin-konamimojisplosion",
@@ -89,10 +96,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Unofficial static export of emoji technical information from Emojipedia. 📙",
+					"Static export of platform-specific metadata for unicode emojis. 🗝️",
 				owner: "JoshuaKGoldberg",
-				repo: "emojipedia",
-				stars: 11,
+				repo: "emoji-platform-data",
+				stars: 3,
 			},
 			{
 				description:
