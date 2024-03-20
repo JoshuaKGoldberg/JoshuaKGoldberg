@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24028,
+				stars: 24044,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22395,
+				stars: 22401,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14426,
+				stars: 14445,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1824,
+				stars: 1826,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 568,
+				stars: 574,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1270,
+				stars: 1272,
 			},
 			{
 				description:
@@ -89,10 +89,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"An unofficial static export of emoji technical information from Emojipedia. 📙",
+					"Unofficial static export of emoji technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
-				stars: 3,
+				stars: 11,
 			},
 			{
 				description:
@@ -123,14 +123,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 212,
+				stars: 213,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 72,
+				stars: 74,
 			},
 			{
 				description:
@@ -179,7 +179,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 811,
+				stars: 813,
 			},
 			{
 				description:
@@ -187,7 +187,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 82,
+				stars: 83,
 			},
 			{
 				description:

@@ -236,7 +236,7 @@ These projects will help you add emoji delighters to your page quickly.
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
-			<td>An unofficial static export of emoji technical information from Emojipedia. 📙</td>
+			<td>Unofficial static export of emoji technical information from Emojipedia. 📙</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
 		</tr>
