@@ -1,3 +1,13 @@
+# [0.10.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.4...0.10.0) (2024-03-20)
+
+### Bug Fixes
+
+- add emojipedia project ([7259d54](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/7259d540fe25889081046fd6f0cd0832c7e2a57b))
+
+### Features
+
+- add emoji-platform-data project ([2421846](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/2421846d06d675d767f5ecd2f133d0af78434ceb))
+
 ## [0.9.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.3...0.9.4) (2024-03-16)
 
 ### Bug Fixes
