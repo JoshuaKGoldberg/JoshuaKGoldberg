@@ -15,7 +15,6 @@ See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
 
 [![Follow on Bluesky](https://img.shields.io/badge/Follow-Bluesky-3B82F6.svg)](https://bsky.app/profile/joshuakgoldberg.com)
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
-[![Follow on Twitch](https://img.shields.io/badge/Follow-Twitch-9147FF.svg)](https://twitch.tv/JoshuaKGoldberg)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000.svg)](https://youtube.com/@JoshuaKGoldberg)
 

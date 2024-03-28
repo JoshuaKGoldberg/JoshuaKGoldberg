@@ -11,7 +11,6 @@ const socialRows = [
 	],
 	["#6cc644", "🐙", "GitHub  ", "https://github.com/JoshuaKGoldberg", 3],
 	["#6364ff", "🐘", "Mastodon", "https://fosstodon.org/@JoshuaKGoldberg", 3],
-	["#6441a5", "💬", "Twitch  ", "https://twitch.tv/JoshuaKGoldberg", 3],
 	["#00acee", "🐦", "Twitter ", "https://twitter.com/JoshuaKGoldberg", 2],
 	["#FF0000", "🎥", "YouTube ", "https://youtube.com/@JoshuaKGoldberg", 0],
 	["#1170d0", "🌐", "www     ", "https://joshuakgoldberg.com", 3],
