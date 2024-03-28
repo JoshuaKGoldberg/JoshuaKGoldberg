@@ -1,3 +1,9 @@
+# [0.11.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.10.0...0.11.0) (2024-03-28)
+
+### Features
+
+- remove 'twitch' entry ([25f6c63](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/25f6c63312ef8b3bd84766a13b6bfc4c97f800b7))
+
 # [0.10.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.4...0.10.0) (2024-03-20)
 
 ### Bug Fixes
