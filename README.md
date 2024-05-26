@@ -216,28 +216,28 @@ These projects will help you add emoji delighters to your page quickly.
 			<td><img alt="Stars: Emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Emojisplosion" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Konamimojisplosion">Konamimojisplosion</a></th>
-			<td>Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: Konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Konamimojisplosion" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
 			<td>Unofficial static export of emoji technical information from Emojipedia. 📙</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
-			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Konamimojisplosion">Konamimojisplosion</a></th>
+			<td>Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
+			<td><img alt="Stars: Konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Konamimojisplosion" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emoji-platform-data">emoji-platform-data</a></th>
 			<td>Static export of platform-specific metadata for unicode emojis. 🗝️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: emoji-platform-data" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emoji-platform-data" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
+			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/astro-konamimojisplosion">astro-konamimojisplosion</a></th>
@@ -316,16 +316,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: dedent" src="https://img.shields.io/github/stars/dmnd/dedent" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
-			<td>ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩</td>
-			<td>Adoptive maintainer</td>
-			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
 			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
 			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-package-json" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
+			<td>ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩</td>
+			<td>Adoptive maintainer</td>
+			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
@@ -364,16 +364,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
-			<td>Creates and caches values under keys. 🏭</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
 			<td>Gently fails test runs if the console was used during them. 📢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
+			<td>Creates and caches values under keys. 🏭</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
@@ -394,16 +394,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
-			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
+			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
@@ -424,16 +424,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
-			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
 			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
+			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
+			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
@@ -442,10 +448,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: commit-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/commit-to-co-authors" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
-			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
+			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
+			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
@@ -476,12 +482,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
-			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 	</tbody>
 </table>

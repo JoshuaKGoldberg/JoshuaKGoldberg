@@ -14,7 +14,7 @@ importers:
     devDependencies:
       '@release-it/conventional-changelog':
         specifier: ^8.0.1
-        version: 8.0.1(release-it@17.1.1)
+        version: 8.0.1(release-it@17.1.1(typescript@5.4.2))
       '@types/eslint':
         specifier: ^8.56.0
         version: 8.56.5
@@ -23,13 +23,13 @@ importers:
         version: 20.11.27
       '@typescript-eslint/eslint-plugin':
         specifier: ^7.0.0
-        version: 7.2.0(@typescript-eslint/parser@7.2.0)(eslint@8.57.0)(typescript@5.4.2)
+        version: 7.2.0(@typescript-eslint/parser@7.2.0(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2)
       '@typescript-eslint/parser':
         specifier: ^7.0.0
         version: 7.2.0(eslint@8.57.0)(typescript@5.4.2)
       '@vitest/coverage-v8':
         specifier: ^1.1.0
-        version: 1.3.1(vitest@1.3.1)
+        version: 1.3.1(vitest@1.3.1(@types/node@20.11.27))
       console-fail-test:
         specifier: ^0.2.3
         version: 0.2.3
@@ -68,10 +68,13 @@ importers:
         version: 2.3.0(eslint@8.57.0)
       eslint-plugin-vitest:
         specifier: ^0.3.18
-        version: 0.3.26(@typescript-eslint/eslint-plugin@7.2.0)(eslint@8.57.0)(typescript@5.4.2)(vitest@1.3.1)
+        version: 0.3.26(@typescript-eslint/eslint-plugin@7.2.0(@typescript-eslint/parser@7.2.0(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2)(vitest@1.3.1(@types/node@20.11.27))
       eslint-plugin-yml:
         specifier: ^1.11.0
         version: 1.12.2(eslint@8.57.0)
+      get-github-auth-token:
+        specifier: ^0.1.0
+        version: 0.1.0
       github-sponsors-to-markdown:
         specifier: ^0.2.1
         version: 0.2.1
@@ -101,7 +104,7 @@ importers:
         version: 7.1.0(typescript@5.4.2)
       npm-package-json-lint-config-default:
         specifier: ^6.0.0
-        version: 6.0.0(npm-package-json-lint@7.1.0)
+        version: 6.0.0(npm-package-json-lint@7.1.0(typescript@5.4.2))
       octokit:
         specifier: ^3.1.2
         version: 3.1.2
@@ -125,7 +128,7 @@ importers:
         version: 0.3.0
       tsup:
         specifier: ^8.0.1
-        version: 8.0.2(typescript@5.4.2)
+        version: 8.0.2(postcss@8.4.35)(typescript@5.4.2)
       tsx:
         specifier: ^4.7.0
         version: 4.7.1
@@ -2123,6 +2126,10 @@ packages:
 
   get-func-name@2.0.2:
     resolution: {integrity: sha512-8vXOvuE167CtIc3OyItco7N/dpRtBbYOsPsXCz7X/PMnlGjYjSGuZJgM1Y7mmew7BKf9BqvLX2tnOVy1BBUsxQ==}
+
+  get-github-auth-token@0.1.0:
+    resolution: {integrity: sha512-ENm+A39AV0X4+Ls1jiCvmqx+C8hSYTv4d5hV9Ks+EL+gx9a0P9pYYpRE1k2ExwRT3EFQabGXF1Rkdp5FIsLkiw==}
+    engines: {node: '>=18'}
 
   get-intrinsic@1.2.4:
     resolution: {integrity: sha512-5uYhsJH8VJBTv7oslg4BznJYhDoRI6waYCxMmCdnTrcCrHA/fCFKoTFz2JKKE0HdDFUF7/oQuhzumXJK7paBRQ==}
@@ -5100,7 +5107,7 @@ snapshots:
       - '@pnpm/logger'
       - domexception
 
-  '@release-it/conventional-changelog@8.0.1(release-it@17.1.1)':
+  '@release-it/conventional-changelog@8.0.1(release-it@17.1.1(typescript@5.4.2))':
     dependencies:
       concat-stream: 2.0.0
       conventional-changelog: 5.1.0
@@ -5206,7 +5213,7 @@ snapshots:
 
   '@types/unist@2.0.6': {}
 
-  '@typescript-eslint/eslint-plugin@7.2.0(@typescript-eslint/parser@7.2.0)(eslint@8.57.0)(typescript@5.4.2)':
+  '@typescript-eslint/eslint-plugin@7.2.0(@typescript-eslint/parser@7.2.0(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2)':
     dependencies:
       '@eslint-community/regexpp': 4.10.0
       '@typescript-eslint/parser': 7.2.0(eslint@8.57.0)(typescript@5.4.2)
@@ -5221,6 +5228,7 @@ snapshots:
       natural-compare: 1.4.0
       semver: 7.6.0
       ts-api-utils: 1.3.0(typescript@5.4.2)
+    optionalDependencies:
       typescript: 5.4.2
     transitivePeerDependencies:
       - supports-color
@@ -5233,6 +5241,7 @@ snapshots:
       '@typescript-eslint/visitor-keys': 7.2.0
       debug: 4.3.4
       eslint: 8.57.0
+    optionalDependencies:
       typescript: 5.4.2
     transitivePeerDependencies:
       - supports-color
@@ -5254,6 +5263,7 @@ snapshots:
       debug: 4.3.4
       eslint: 8.57.0
       ts-api-utils: 1.3.0(typescript@5.4.2)
+    optionalDependencies:
       typescript: 5.4.2
     transitivePeerDependencies:
       - supports-color
@@ -5272,6 +5282,7 @@ snapshots:
       minimatch: 9.0.3
       semver: 7.6.0
       ts-api-utils: 1.3.0(typescript@5.4.2)
+    optionalDependencies:
       typescript: 5.4.2
     transitivePeerDependencies:
       - supports-color
@@ -5286,6 +5297,7 @@ snapshots:
       minimatch: 9.0.3
       semver: 7.6.0
       ts-api-utils: 1.3.0(typescript@5.4.2)
+    optionalDependencies:
       typescript: 5.4.2
     transitivePeerDependencies:
       - supports-color
@@ -5330,7 +5342,7 @@ snapshots:
 
   '@ungap/structured-clone@1.2.0': {}
 
-  '@vitest/coverage-v8@1.3.1(vitest@1.3.1)':
+  '@vitest/coverage-v8@1.3.1(vitest@1.3.1(@types/node@20.11.27))':
     dependencies:
       '@ampproject/remapping': 2.2.1
       '@bcoe/v8-coverage': 0.2.3
@@ -5861,6 +5873,7 @@ snapshots:
       js-yaml: 4.1.0
       parse-json: 5.2.0
       path-type: 4.0.0
+    optionalDependencies:
       typescript: 5.4.2
 
   cosmiconfig@9.0.0(typescript@5.4.2):
@@ -5869,6 +5882,7 @@ snapshots:
       import-fresh: 3.3.0
       js-yaml: 4.1.0
       parse-json: 5.2.0
+    optionalDependencies:
       typescript: 5.4.2
 
   cross-spawn@7.0.3:
@@ -6311,11 +6325,12 @@ snapshots:
       regexp-ast-analysis: 0.7.1
       scslre: 0.3.0
 
-  eslint-plugin-vitest@0.3.26(@typescript-eslint/eslint-plugin@7.2.0)(eslint@8.57.0)(typescript@5.4.2)(vitest@1.3.1):
+  eslint-plugin-vitest@0.3.26(@typescript-eslint/eslint-plugin@7.2.0(@typescript-eslint/parser@7.2.0(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2)(vitest@1.3.1(@types/node@20.11.27)):
     dependencies:
-      '@typescript-eslint/eslint-plugin': 7.2.0(@typescript-eslint/parser@7.2.0)(eslint@8.57.0)(typescript@5.4.2)
       '@typescript-eslint/utils': 7.2.0(eslint@8.57.0)(typescript@5.4.2)
       eslint: 8.57.0
+    optionalDependencies:
+      '@typescript-eslint/eslint-plugin': 7.2.0(@typescript-eslint/parser@7.2.0(eslint@8.57.0)(typescript@5.4.2))(eslint@8.57.0)(typescript@5.4.2)
       vitest: 1.3.1(@types/node@20.11.27)
     transitivePeerDependencies:
       - supports-color
@@ -6565,6 +6580,8 @@ snapshots:
   get-east-asian-width@1.2.0: {}
 
   get-func-name@2.0.2: {}
+
+  get-github-auth-token@0.1.0: {}
 
   get-intrinsic@1.2.4:
     dependencies:
@@ -7583,7 +7600,7 @@ snapshots:
       semver: 7.6.0
       validate-npm-package-name: 5.0.0
 
-  npm-package-json-lint-config-default@6.0.0(npm-package-json-lint@7.1.0):
+  npm-package-json-lint-config-default@6.0.0(npm-package-json-lint@7.1.0(typescript@5.4.2)):
     dependencies:
       npm-package-json-lint: 7.1.0(typescript@5.4.2)
 
@@ -7879,10 +7896,12 @@ snapshots:
 
   possible-typed-array-names@1.0.0: {}
 
-  postcss-load-config@4.0.2:
+  postcss-load-config@4.0.2(postcss@8.4.35):
     dependencies:
       lilconfig: 3.1.1
       yaml: 2.4.1
+    optionalDependencies:
+      postcss: 8.4.35
 
   postcss@8.4.35:
     dependencies:
@@ -7902,9 +7921,10 @@ snapshots:
 
   prettier-plugin-packagejson@2.4.12(prettier@3.2.5):
     dependencies:
-      prettier: 3.2.5
       sort-package-json: 2.8.0
       synckit: 0.9.0
+    optionalDependencies:
+      prettier: 3.2.5
 
   prettier@3.2.5: {}
 
@@ -8530,7 +8550,7 @@ snapshots:
 
   tslib@2.6.2: {}
 
-  tsup@8.0.2(typescript@5.4.2):
+  tsup@8.0.2(postcss@8.4.35)(typescript@5.4.2):
     dependencies:
       bundle-require: 4.0.2(esbuild@0.19.12)
       cac: 6.7.14
@@ -8540,12 +8560,14 @@ snapshots:
       execa: 5.1.1
       globby: 11.1.0
       joycon: 3.1.1
-      postcss-load-config: 4.0.2
+      postcss-load-config: 4.0.2(postcss@8.4.35)
       resolve-from: 5.0.0
       rollup: 4.12.0
       source-map: 0.8.0-beta.0
       sucrase: 3.35.0
       tree-kill: 1.2.2
+    optionalDependencies:
+      postcss: 8.4.35
       typescript: 5.4.2
     transitivePeerDependencies:
       - supports-color
@@ -8739,16 +8761,15 @@ snapshots:
 
   vite@5.1.4(@types/node@20.11.27):
     dependencies:
-      '@types/node': 20.11.27
       esbuild: 0.19.12
       postcss: 8.4.35
       rollup: 4.12.0
     optionalDependencies:
+      '@types/node': 20.11.27
       fsevents: 2.3.3
 
   vitest@1.3.1(@types/node@20.11.27):
     dependencies:
-      '@types/node': 20.11.27
       '@vitest/expect': 1.3.1
       '@vitest/runner': 1.3.1
       '@vitest/snapshot': 1.3.1
@@ -8769,6 +8790,8 @@ snapshots:
       vite: 5.1.4(@types/node@20.11.27)
       vite-node: 1.3.1(@types/node@20.11.27)
       why-is-node-running: 2.2.2
+    optionalDependencies:
+      '@types/node': 20.11.27
     transitivePeerDependencies:
       - less
       - lightningcss

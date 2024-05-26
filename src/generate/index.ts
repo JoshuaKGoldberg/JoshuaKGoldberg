@@ -1,3 +1,4 @@
+import { getGitHubAuthToken } from "get-github-auth-token";
 import fs from "node:fs/promises";
 
 import { writeFile } from "../shared/writeFile.js";
@@ -5,6 +6,12 @@ import { generateProjectsTables } from "./generateProjectsTables.js";
 import { buildSponsorsTable } from "./generateSponsorsTable.js";
 
 export async function generate() {
+	const auth = await getGitHubAuthToken();
+
+	if (!auth.succeeded) {
+		throw new Error(auth.error);
+	}
+
 	const content = `
 ## Hi, I'm Josh! 💖
 
@@ -38,7 +45,7 @@ They deserve our sincere appreciation and gratitude.
 
 <!-- spell-checker: disable -->
 <!-- markdownlint-disable sentences-per-line -->
-${await buildSponsorsTable()}
+${await buildSponsorsTable(auth.token)}
 <!-- markdownlint-enable sentences-per-line -->
 <!-- spell-checker: enable -->
 

@@ -1,3 +1,4 @@
+import { getGitHubAuthToken } from "get-github-auth-token";
 import * as emoji from "node-emoji";
 import { Octokit } from "octokit";
 
@@ -7,12 +8,12 @@ import { Project } from "../types.js";
 import { byStars } from "./byStars.js";
 
 export async function generateProjects() {
-	const { GH_TOKEN: auth } = process.env;
-	if (!auth) {
-		throw new Error("No auth token specified by process.env.GH_TOKEN.");
+	const auth = await getGitHubAuthToken();
+	if (!auth.succeeded) {
+		throw new Error(auth.error);
 	}
 
-	const octokit = new Octokit({ auth });
+	const octokit = new Octokit({ auth: auth.token });
 
 	for (const { projects } of Object.values(projectCategories)) {
 		await processProjects(projects);

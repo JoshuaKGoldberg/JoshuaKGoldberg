@@ -30,7 +30,7 @@ pnpm build --watch
 Once source files are built, you can then build the README.md with:
 
 ```shell
-GH_TOKEN=$(gh auth token) pnpm projects:generate
+pnpm projects:generate
 ```
 
 Doing so will update `src/projects.ts` with their latest data, then re-write the README.md tables with that data.

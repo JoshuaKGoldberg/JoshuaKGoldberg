@@ -1,7 +1,8 @@
 import { githubSponsorsToMarkdown } from "github-sponsors-to-markdown";
 
-export async function buildSponsorsTable() {
+export async function buildSponsorsTable(auth: string) {
 	return await githubSponsorsToMarkdown({
+		auth,
 		login: "JoshuaKGoldberg",
 		tiers: {
 			Bronze: {

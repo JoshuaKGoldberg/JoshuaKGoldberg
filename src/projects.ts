@@ -74,13 +74,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
-				owner: "JoshuaKGoldberg",
-				repo: "Konamimojisplosion",
-				stars: 13,
-			},
-			{
-				description:
 					"Unofficial static export of emoji technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
@@ -88,10 +81,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
+					"Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
-				repo: "typedoc-plugin-konamimojisplosion",
-				stars: 4,
+				repo: "Konamimojisplosion",
+				stars: 13,
 			},
 			{
 				description:
@@ -99,6 +92,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-platform-data",
 				stars: 8,
+			},
+			{
+				description:
+					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
+				owner: "JoshuaKGoldberg",
+				repo: "typedoc-plugin-konamimojisplosion",
+				stars: 4,
 			},
 			{
 				description:
@@ -189,19 +189,19 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-plugin-expect-type",
-				role: "Adoptive maintainer",
-				stars: 88,
-			},
-			{
-				description:
 					"Rules for consistent, readable, and valid package.json files. 🗂️",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
 				stars: 90,
+			},
+			{
+				description:
+					"ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-expect-type",
+				role: "Adoptive maintainer",
+				stars: 88,
 			},
 			{
 				description:
@@ -246,17 +246,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 16,
 			},
 			{
-				description: "Creates and caches values under keys. 🏭",
-				owner: "JoshuaKGoldberg",
-				repo: "cached-factory",
-				stars: 12,
-			},
-			{
 				description:
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
 				stars: 13,
+			},
+			{
+				description: "Creates and caches values under keys. 🏭",
+				owner: "JoshuaKGoldberg",
+				repo: "cached-factory",
+				stars: 12,
 			},
 			{
 				description:
@@ -281,17 +281,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Finds your npm packages that are eligible for Tidelift funding. 💸",
-				owner: "JoshuaKGoldberg",
-				repo: "tidelift-me-up",
-				stars: 7,
-			},
-			{
-				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
 				stars: 8,
+			},
+			{
+				description:
+					"Finds your npm packages that are eligible for Tidelift funding. 💸",
+				owner: "JoshuaKGoldberg",
+				repo: "tidelift-me-up",
+				stars: 7,
 			},
 			{
 				description:
@@ -319,13 +319,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
-				owner: "JoshuaKGoldberg",
-				repo: "typedoc-plugin-konamimojisplosion",
-				stars: 4,
-			},
-			{
-				description:
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
@@ -333,17 +326,24 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
-				owner: "JoshuaKGoldberg",
-				repo: "commit-to-co-authors",
-				stars: 4,
-			},
-			{
-				description:
 					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
 				owner: "JoshuaKGoldberg",
 				repo: "prune-github-notifications",
 				stars: 5,
+			},
+			{
+				description:
+					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
+				owner: "JoshuaKGoldberg",
+				repo: "typedoc-plugin-konamimojisplosion",
+				stars: 4,
+			},
+			{
+				description:
+					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
+				owner: "JoshuaKGoldberg",
+				repo: "commit-to-co-authors",
+				stars: 4,
 			},
 			{
 				description:

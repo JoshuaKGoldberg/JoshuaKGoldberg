@@ -64,6 +64,7 @@
 		"eslint-plugin-regexp": "^2.1.2",
 		"eslint-plugin-vitest": "^0.3.18",
 		"eslint-plugin-yml": "^1.11.0",
+		"get-github-auth-token": "^0.1.0",
 		"github-sponsors-to-markdown": "^0.2.1",
 		"husky": "^9.0.0",
 		"jsonc-eslint-parser": "^2.4.0",
