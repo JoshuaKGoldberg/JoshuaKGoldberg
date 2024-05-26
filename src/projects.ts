@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24044,
+				stars: 24404,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22401,
+				stars: 22462,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14445,
+				stars: 14684,
 			},
 			{
 				description:
-					"Converts JavaScript to TypeScript and TypeScript to better TypeScript.",
+					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1826,
+				stars: 1959,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 574,
+				stars: 616,
 			},
 		],
 	},
@@ -61,17 +61,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1272,
+				stars: 1288,
 			},
 			{
-				description:
-					"💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍",
+				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
 				links: {
 					Site: "https://emojisplosion.dev",
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Emojisplosion",
-				stars: 133,
+				stars: 203,
 			},
 			{
 				description:
@@ -85,7 +84,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Unofficial static export of emoji technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
-				stars: 11,
+				stars: 14,
 			},
 			{
 				description:
@@ -99,14 +98,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Static export of platform-specific metadata for unicode emojis. 🗝️",
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-platform-data",
-				stars: 3,
+				stars: 8,
 			},
 			{
 				description:
 					"Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆",
 				owner: "JoshuaKGoldberg",
 				repo: "astro-konamimojisplosion",
-				stars: 2,
+				stars: 3,
 			},
 		],
 	},
@@ -122,7 +121,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2989,
+				stars: 2987,
 			},
 			{
 				description:
@@ -130,21 +129,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 213,
+				stars: 211,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 74,
+				stars: 75,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 68,
+				stars: 67,
 			},
 			{
 				description:
@@ -186,7 +185,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 813,
+				stars: 888,
 			},
 			{
 				description:
@@ -194,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 83,
+				stars: 88,
 			},
 			{
 				description:
@@ -202,21 +201,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 77,
+				stars: 90,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 45,
+				stars: 46,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 39,
+				stars: 46,
 			},
 			{
 				description:
@@ -257,7 +256,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 12,
+				stars: 13,
 			},
 			{
 				description:
@@ -271,7 +270,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Checks whether a semantic release should be run for a repository. 💂",
 				owner: "JoshuaKGoldberg",
 				repo: "should-semantic-release",
-				stars: 10,
+				stars: 12,
 			},
 			{
 				description:
@@ -292,7 +291,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 7,
+				stars: 8,
 			},
 			{
 				description:
@@ -330,7 +329,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 4,
+				stars: 5,
 			},
 			{
 				description:
@@ -344,6 +343,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
 				owner: "JoshuaKGoldberg",
 				repo: "prune-github-notifications",
+				stars: 5,
+			},
+			{
+				description:
+					"Retrieves the running user's GitHub authentication token. 🪙",
+				owner: "JoshuaKGoldberg",
+				repo: "get-github-auth-token",
 				stars: 4,
 			},
 			{

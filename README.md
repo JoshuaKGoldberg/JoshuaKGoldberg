@@ -33,13 +33,19 @@ They deserve our sincere appreciation and gratitude.
 <table width="100%">
 	<thead>
 		<tr>
-			<th width="33%">Gold Sponsors (&gt;=$25/mo)</th>
-			<th width="33%">Silver Sponsors (&gt;=$10/mo)</th>
-			<th width="33%">Bronze Sponsors (&gt;=$5/mo)</th>
+			<th width="25%">Platinum Sponsors (&gt;=$100/mo)</th>
+			<th width="25%">Gold Sponsors (&gt;=$25/mo)</th>
+			<th width="25%">Silver Sponsors (&gt;=$10/mo)</th>
+			<th width="25%">Bronze Sponsors (&gt;=$5/mo)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr align="center">
+			<td >
+				<a href="https://github.com/infosupport">
+					<img alt="Info Support" height="100px" src="https://github.com/infosupport.png?size=100" width="100px" />
+				</a>
+			</td>
 			<td >
 				<a href="https://github.com/beyang">
 					<img alt="Beyang Liu" height="75px" src="https://github.com/beyang.png?size=75" width="75px" />
@@ -47,14 +53,8 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/constituentvoice">
 					<img alt="Constituent Voice" height="75px" src="https://github.com/constituentvoice.png?size=75" width="75px" />
 				</a>
-				<a href="https://github.com/estevezluis">
-					<img alt="Luis Estevez" height="75px" src="https://github.com/estevezluis.png?size=75" width="75px" />
-				</a>
 				<a href="https://github.com/Loops-so">
 					<img alt="Loops" height="75px" src="https://github.com/Loops-so.png?size=75" width="75px" />
-				</a>
-				<a href="https://github.com/webpro">
-					<img alt="Lars Kappert" height="75px" src="https://github.com/webpro.png?size=75" width="75px" />
 				</a>
 			</td>
 			<td >
@@ -99,9 +99,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 			</td>
 			<td >
-				<a href="https://github.com/antfu">
-					<img alt="Anthony Fu" height="50px" src="https://github.com/antfu.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/bmish">
 					<img alt="Bryan Mishkin" height="50px" src="https://github.com/bmish.png?size=50" width="50px" />
 				</a>
@@ -122,9 +119,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/santoshyadavdev">
 					<img alt="Santosh Yadav" height="50px" src="https://github.com/santoshyadavdev.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/seveibar">
-					<img alt="Severin Ibarluzea" height="50px" src="https://github.com/seveibar.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/sindresorhus">
 					<img alt="Sindre Sorhus" height="50px" src="https://github.com/sindresorhus.png?size=50" width="50px" />
@@ -181,7 +175,7 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/TypeStat">TypeStat</a></th>
-			<td>Converts JavaScript to TypeScript and TypeScript to better TypeScript.</td>
+			<td>Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: TypeStat" src="https://img.shields.io/github/stars/JoshuaKGoldberg/TypeStat" /></td>
 		</tr>
@@ -217,7 +211,7 @@ These projects will help you add emoji delighters to your page quickly.
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Emojisplosion">Emojisplosion</a></th>
-			<td>💥 Blasts 😄 emoji 😊 like 🎆 fireworks 🎇 all up in your 💻 HTML 📄 page. 😍</td>
+			<td>Blasts emoji like fireworks all up in your HTML page. 🎆</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: Emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Emojisplosion" /></td>
 		</tr>
@@ -482,6 +476,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
+			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 	</tbody>
 </table>
