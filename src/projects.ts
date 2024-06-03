@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24404,
+				stars: 24436,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22462,
+				stars: 22472,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14684,
+				stars: 14704,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1959,
+				stars: 1961,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 616,
+				stars: 618,
 			},
 		],
 	},
@@ -66,11 +66,11 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
 				links: {
-					Site: "https://emojisplosion.dev",
+					Site: "https://emojiblast.dev",
 				},
 				owner: "JoshuaKGoldberg",
-				repo: "Emojisplosion",
-				stars: 203,
+				repo: "emoji-blast",
+				stars: 205,
 			},
 			{
 				description:
@@ -81,31 +81,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆",
-				owner: "JoshuaKGoldberg",
-				repo: "Konamimojisplosion",
-				stars: 13,
-			},
-			{
-				description:
 					"Static export of platform-specific metadata for unicode emojis. 🗝️",
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-platform-data",
 				stars: 8,
-			},
-			{
-				description:
-					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
-				owner: "JoshuaKGoldberg",
-				repo: "typedoc-plugin-konamimojisplosion",
-				stars: 4,
-			},
-			{
-				description:
-					"Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆",
-				owner: "JoshuaKGoldberg",
-				repo: "astro-konamimojisplosion",
-				stars: 3,
 			},
 		],
 	},
@@ -121,7 +100,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2987,
+				stars: 2986,
 			},
 			{
 				description:
@@ -129,21 +108,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 211,
+				stars: 212,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 75,
+				stars: 76,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 67,
+				stars: 68,
 			},
 			{
 				description:
@@ -185,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 888,
+				stars: 889,
 			},
 			{
 				description:
@@ -193,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 90,
+				stars: 91,
 			},
 			{
 				description:
@@ -222,7 +201,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
-				stars: 28,
+				stars: 29,
 			},
 			{
 				description:
@@ -270,7 +249,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Checks whether a semantic release should be run for a repository. 💂",
 				owner: "JoshuaKGoldberg",
 				repo: "should-semantic-release",
-				stars: 12,
+				stars: 13,
 			},
 			{
 				description:
@@ -308,7 +287,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up-site",
-				stars: 5,
+				stars: 7,
 			},
 			{
 				description:
@@ -333,13 +312,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆",
-				owner: "JoshuaKGoldberg",
-				repo: "typedoc-plugin-konamimojisplosion",
-				stars: 4,
-			},
-			{
-				description:
 					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
 				owner: "JoshuaKGoldberg",
 				repo: "commit-to-co-authors",
@@ -350,7 +322,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Retrieves the running user's GitHub authentication token. 🪙",
 				owner: "JoshuaKGoldberg",
 				repo: "get-github-auth-token",
-				stars: 4,
+				stars: 5,
 			},
 			{
 				description:

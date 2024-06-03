@@ -210,10 +210,10 @@ These projects will help you add emoji delighters to your page quickly.
 			<td><img alt="Stars: node-emoji" src="https://img.shields.io/github/stars/omnidan/node-emoji" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Emojisplosion">Emojisplosion</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emoji-blast">emoji-blast</a></th>
 			<td>Blasts emoji like fireworks all up in your HTML page. 🎆</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: Emojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Emojisplosion" /></td>
+			<td><img alt="Stars: emoji-blast" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emoji-blast" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
@@ -222,28 +222,10 @@ These projects will help you add emoji delighters to your page quickly.
 			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Konamimojisplosion">Konamimojisplosion</a></th>
-			<td>Connects konami-code-js to emojisplosion for a glorious easter egg. 🎉 ✨ 🎆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: Konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Konamimojisplosion" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emoji-platform-data">emoji-platform-data</a></th>
 			<td>Static export of platform-specific metadata for unicode emojis. 🗝️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: emoji-platform-data" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emoji-platform-data" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
-			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/astro-konamimojisplosion">astro-konamimojisplosion</a></th>
-			<td>Astro integration to quickly load konamimojisplosion into your site. 🎉 ✨ 🎆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: astro-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/astro-konamimojisplosion" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -434,12 +416,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion">typedoc-plugin-konamimojisplosion</a></th>
-			<td>TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: typedoc-plugin-konamimojisplosion" src="https://img.shields.io/github/stars/JoshuaKGoldberg/typedoc-plugin-konamimojisplosion" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
