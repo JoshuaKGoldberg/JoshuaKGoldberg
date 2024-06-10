@@ -1,3 +1,15 @@
+# [0.13.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.11.0...0.13.0) (2024-06-10)
+
+### Bug Fixes
+
+- blank commit to trigger release ([e683ca4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e683ca4e8d27aff8de4c324cc55d05202b1b0e46))
+- correct package.son version ([8c9e017](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/8c9e017dd45e413295037fd6e6ab4d27bcffa94a))
+- rename emojisplosion to emoji-blast ([2cb8326](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/2cb8326e8083c7c740c92937642f232b96a06e2f))
+
+### Features
+
+- add get-github-auth-token ([128d79d](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/128d79d3a6a773ca95b1e4fec4ab875803376ebc))
+
 # [0.11.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.10.0...0.11.0) (2024-03-28)
 
 ### Features
