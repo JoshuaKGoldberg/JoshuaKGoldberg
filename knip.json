@@ -6,7 +6,6 @@
 		"src/generate/cli.ts!",
 		"src/index.ts!"
 	],
-	"ignoreDependencies": ["tsx"],
 	"ignoreExportsUsedInFile": { "interface": true, "type": true },
 	"project": ["src/**/*.ts!"]
 }
