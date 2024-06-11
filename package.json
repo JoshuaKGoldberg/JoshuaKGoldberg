@@ -75,7 +75,7 @@
 		"node-emoji": "^2.1.3",
 		"npm-package-json-lint": "^7.1.0",
 		"npm-package-json-lint-config-default": "^6.0.0",
-		"octokit": "^3.1.2",
+		"octokit": "^4.0.0",
 		"prettier": "^3.1.1",
 		"prettier-plugin-curly": "^0.2.0",
 		"prettier-plugin-packagejson": "^2.4.7",
