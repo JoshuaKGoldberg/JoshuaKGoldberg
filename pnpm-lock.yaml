@@ -100,11 +100,11 @@ importers:
         specifier: ^2.1.3
         version: 2.1.3
       npm-package-json-lint:
-        specifier: ^7.1.0
-        version: 7.1.0(typescript@5.4.5)
+        specifier: ^8.0.0
+        version: 8.0.0(typescript@5.4.5)
       npm-package-json-lint-config-default:
         specifier: ^7.0.0
-        version: 7.0.0(npm-package-json-lint@7.1.0(typescript@5.4.5))
+        version: 7.0.0(npm-package-json-lint@8.0.0(typescript@5.4.5))
       octokit:
         specifier: ^4.0.0
         version: 4.0.2
@@ -3132,9 +3132,9 @@ packages:
     peerDependencies:
       npm-package-json-lint: ^7.1.0
 
-  npm-package-json-lint@7.1.0:
-    resolution: {integrity: sha512-ypcMpag32TCP89zzLSS+7vjeR2QY613WzmO2upcJgKNWlcswDz8cdb80urbBNHkhSPI40ex3nsKrRDH/WhMYOg==}
-    engines: {node: '>=16.0.0', npm: '>=8.0.0'}
+  npm-package-json-lint@8.0.0:
+    resolution: {integrity: sha512-44xqAKoV0nXnBYYLGUhMItGZb5tW3cLoW3UZxcsaCOX/YAkECrzOQA5F48oAA51vVE5CqAnsJB2CFvtolzMA3Q==}
+    engines: {node: '>=18.0.0', npm: '>=9.0.0'}
     hasBin: true
 
   npm-run-path@4.0.1:
@@ -7452,11 +7452,11 @@ snapshots:
 
   normalize-url@8.0.1: {}
 
-  npm-package-json-lint-config-default@7.0.0(npm-package-json-lint@7.1.0(typescript@5.4.5)):
+  npm-package-json-lint-config-default@7.0.0(npm-package-json-lint@8.0.0(typescript@5.4.5)):
     dependencies:
-      npm-package-json-lint: 7.1.0(typescript@5.4.5)
+      npm-package-json-lint: 8.0.0(typescript@5.4.5)
 
-  npm-package-json-lint@7.1.0(typescript@5.4.5):
+  npm-package-json-lint@8.0.0(typescript@5.4.5):
     dependencies:
       ajv: 6.12.6
       ajv-errors: 1.0.1(ajv@6.12.6)
