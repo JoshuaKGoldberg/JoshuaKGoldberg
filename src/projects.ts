@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24436,
+				stars: 24612,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22472,
+				stars: 22508,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14704,
+				stars: 14915,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 1961,
+				stars: 2003,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 618,
+				stars: 623,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1288,
+				stars: 1294,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 205,
+				stars: 215,
 			},
 			{
 				description:
@@ -84,7 +84,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Static export of platform-specific metadata for unicode emojis. 🗝️",
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-platform-data",
-				stars: 8,
+				stars: 10,
 			},
 		],
 	},
@@ -108,21 +108,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 212,
+				stars: 213,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 76,
+				stars: 77,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 68,
+				stars: 69,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 889,
+				stars: 900,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 91,
+				stars: 98,
 			},
 			{
 				description:
@@ -180,7 +180,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 88,
+				stars: 89,
 			},
 			{
 				description:
@@ -194,7 +194,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 46,
+				stars: 47,
 			},
 			{
 				description:
@@ -232,6 +232,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 13,
 			},
 			{
+				description:
+					"Checks whether a semantic release should be run for a repository. 💂",
+				owner: "JoshuaKGoldberg",
+				repo: "should-semantic-release",
+				stars: 13,
+			},
+			{
 				description: "Creates and caches values under keys. 🏭",
 				owner: "JoshuaKGoldberg",
 				repo: "cached-factory",
@@ -246,13 +253,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a semantic release should be run for a repository. 💂",
-				owner: "JoshuaKGoldberg",
-				repo: "should-semantic-release",
-				stars: 13,
-			},
-			{
-				description:
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
@@ -263,7 +263,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 8,
+				stars: 9,
 			},
 			{
 				description:
@@ -274,20 +274,20 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
-				owner: "JoshuaKGoldberg",
-				repo: "github-sponsors-to-markdown",
-				stars: 5,
-			},
-			{
-				description:
 					"Web app to find your npm packages eligible for Tidelift funding. 💸",
 				links: {
 					Site: "https://tidelift-me-up-site.vercel.app/",
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up-site",
-				stars: 7,
+				stars: 8,
+			},
+			{
+				description:
+					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
+				owner: "JoshuaKGoldberg",
+				repo: "github-sponsors-to-markdown",
+				stars: 5,
 			},
 			{
 				description:
@@ -301,7 +301,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 5,
+				stars: 6,
 			},
 			{
 				description:
@@ -312,17 +312,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Retrieves the running user's GitHub authentication token. 🪙",
+				owner: "JoshuaKGoldberg",
+				repo: "get-github-auth-token",
+				stars: 6,
+			},
+			{
+				description:
 					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
 				owner: "JoshuaKGoldberg",
 				repo: "commit-to-co-authors",
 				stars: 4,
-			},
-			{
-				description:
-					"Retrieves the running user's GitHub authentication token. 🪙",
-				owner: "JoshuaKGoldberg",
-				repo: "get-github-auth-token",
-				stars: 5,
 			},
 			{
 				description:
@@ -357,6 +357,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
+			},
+			{
+				description: "Tools to validate package.json files",
+				owner: "JoshuaKGoldberg",
+				repo: "package.json-validator",
+				stars: 107,
 			},
 		],
 	},

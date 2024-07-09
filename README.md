@@ -58,9 +58,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 			</td>
 			<td >
-				<a href="https://github.com/AkiraBrand">
-					<img alt="Akira " height="50px" src="https://github.com/AkiraBrand.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/bdav">
 					<img alt="Beau Davenport" height="50px" src="https://github.com/bdav.png?size=50" width="50px" />
 				</a>
@@ -75,9 +72,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/jennjunod">
 					<img alt="Jenn Junod" height="50px" src="https://github.com/jennjunod.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/Jolg42">
-					<img alt="Joël Galeran" height="50px" src="https://github.com/Jolg42.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/Kamalnrf">
 					<img alt="Kamal" height="50px" src="https://github.com/Kamalnrf.png?size=50" width="50px" />
@@ -352,6 +346,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
+			<td>Checks whether a semantic release should be run for a repository. 💂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
 			<td>Creates and caches values under keys. 🏭</td>
 			<td>Creator & maintainer</td>
@@ -362,12 +362,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Fills in missing allcontributors entries for a repository. 👪</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
-			<td>Checks whether a semantic release should be run for a repository. 💂</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
@@ -388,16 +382,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
 			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
+			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails-site">github-username-to-emails-site</a></th>
@@ -418,16 +412,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
-			<td>Parses co-authors from Git/GitHub-style commit messages. ✍️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: commit-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/commit-to-co-authors" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
 			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
+			<td>Parses co-authors from Git/GitHub-style commit messages. ✍️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: commit-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/commit-to-co-authors" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
@@ -458,6 +452,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
+			<td>Tools to validate package.json files</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
 		</tr>
 	</tbody>
 </table>
