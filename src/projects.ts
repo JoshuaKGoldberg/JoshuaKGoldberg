@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24612,
+				stars: 24637,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22508,
+				stars: 22514,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14915,
+				stars: 14944,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2003,
+				stars: 2008,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 623,
+				stars: 624,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1294,
+				stars: 1297,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 215,
+				stars: 217,
 			},
 			{
 				description:
@@ -100,7 +100,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2986,
+				stars: 2984,
 			},
 			{
 				description:
@@ -167,12 +167,18 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 900,
 			},
 			{
+				description: "Tools to validate package.json files",
+				owner: "JoshuaKGoldberg",
+				repo: "package.json-validator",
+				stars: 107,
+			},
+			{
 				description:
 					"Rules for consistent, readable, and valid package.json files. 🗂️",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 98,
+				stars: 99,
 			},
 			{
 				description:
@@ -184,17 +190,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
-				owner: "JoshuaKGoldberg",
-				repo: "prettier-plugin-curly",
-				stars: 46,
-			},
-			{
-				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
 				stars: 47,
+			},
+			{
+				description:
+					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
+				owner: "JoshuaKGoldberg",
+				repo: "prettier-plugin-curly",
+				stars: 46,
 			},
 			{
 				description:
@@ -229,7 +235,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 13,
+				stars: 14,
 			},
 			{
 				description:
@@ -253,6 +259,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Contributed markdownlint rule for limiting sentences per line. 📐",
+				owner: "JoshuaKGoldberg",
+				repo: "sentences-per-line",
+				stars: 9,
+			},
+			{
+				description:
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
@@ -260,9 +273,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Contributed markdownlint rule for limiting sentences per line. 📐",
+					"Web app to find your npm packages eligible for Tidelift funding. 💸",
+				links: {
+					Site: "https://tidelift-me-up-site.vercel.app/",
+				},
 				owner: "JoshuaKGoldberg",
-				repo: "sentences-per-line",
+				repo: "tidelift-me-up-site",
 				stars: 9,
 			},
 			{
@@ -274,13 +290,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Web app to find your npm packages eligible for Tidelift funding. 💸",
-				links: {
-					Site: "https://tidelift-me-up-site.vercel.app/",
-				},
+					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
-				repo: "tidelift-me-up-site",
-				stars: 8,
+				repo: "release-it-action",
+				stars: 6,
+			},
+			{
+				description:
+					"Retrieves the running user's GitHub authentication token. 🪙",
+				owner: "JoshuaKGoldberg",
+				repo: "get-github-auth-token",
+				stars: 6,
 			},
 			{
 				description:
@@ -298,24 +318,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
-				owner: "JoshuaKGoldberg",
-				repo: "release-it-action",
-				stars: 6,
-			},
-			{
-				description:
 					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
 				owner: "JoshuaKGoldberg",
 				repo: "prune-github-notifications",
 				stars: 5,
-			},
-			{
-				description:
-					"Retrieves the running user's GitHub authentication token. 🪙",
-				owner: "JoshuaKGoldberg",
-				repo: "get-github-auth-token",
-				stars: 6,
 			},
 			{
 				description:
@@ -359,10 +365,11 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 1,
 			},
 			{
-				description: "Tools to validate package.json files",
+				description:
+					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
 				owner: "JoshuaKGoldberg",
-				repo: "package.json-validator",
-				stars: 107,
+				repo: "console-table-without-index",
+				stars: 3,
 			},
 		],
 	},

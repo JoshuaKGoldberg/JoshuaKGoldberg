@@ -292,6 +292,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: dedent" src="https://img.shields.io/github/stars/dmnd/dedent" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
+			<td>Tools to validate package.json files</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
 			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
 			<td>Adoptive maintainer</td>
@@ -304,16 +310,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
-			<td>Prettier plugin to enforce consistent brace style for all control statements. 🥌</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
 			<td>Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
+			<td>Prettier plugin to enforce consistent brace style for all control statements. 🥌</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
@@ -364,16 +370,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
+			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
 			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
-			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
+			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
@@ -382,10 +394,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
-			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
+			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
+			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
+			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
@@ -400,22 +418,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
-			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
 			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
-			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
@@ -454,10 +460,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
-			<td>Tools to validate package.json files</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
+			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
+			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
 		</tr>
 	</tbody>
 </table>
