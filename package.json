@@ -30,7 +30,7 @@
 		"lint:package-json": "npmPkgJsonLint .",
 		"lint:packages": "pnpm dedupe --check",
 		"lint:spelling": "cspell \"**\" \".github/**/*\"",
-		"prepare": "husky install",
+		"prepare": "husky",
 		"projects:add": "tsx src/add/cli.ts",
 		"projects:generate": "tsx src/generate/cli.ts",
 		"should-semantic-release": "should-semantic-release --verbose",
