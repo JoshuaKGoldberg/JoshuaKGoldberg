@@ -325,6 +325,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
+				owner: "JoshuaKGoldberg",
+				repo: "console-table-without-index",
+				stars: 5,
+			},
+			{
+				description:
 					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
 				owner: "JoshuaKGoldberg",
 				repo: "commit-to-co-authors",
@@ -352,13 +359,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
-				owner: "JoshuaKGoldberg",
-				repo: "console-table-without-index",
-				stars: 5,
-			},
-			{
-				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
@@ -370,6 +370,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
+			},
+			{
+				description:
+					"Generates borderless text table strings suitable for printing to stdout. Fast. 🏁",
+				owner: "JoshuaKGoldberg",
+				repo: "text-table-fast",
+				stars: 2,
 			},
 		],
 	},
