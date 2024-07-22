@@ -376,16 +376,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
-			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
 			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
+			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
@@ -448,6 +448,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: co-author-to-username" src="https://img.shields.io/github/stars/JoshuaKGoldberg/co-author-to-username" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
+			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
@@ -458,12 +464,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
-			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
 		</tr>
 	</tbody>
 </table>

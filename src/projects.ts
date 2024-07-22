@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24637,
+				stars: 24664,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22514,
+				stars: 22509,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14944,
+				stars: 14974,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2008,
+				stars: 2016,
 			},
 			{
 				description:
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1297,
+				stars: 1300,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -108,7 +108,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 213,
+				stars: 214,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 900,
+				stars: 902,
 			},
 			{
 				description: "Tools to validate package.json files",
@@ -178,7 +178,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 99,
+				stars: 100,
 			},
 			{
 				description:
@@ -186,21 +186,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 89,
+				stars: 90,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 47,
+				stars: 51,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 46,
+				stars: 47,
 			},
 			{
 				description:
@@ -266,13 +266,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a documentation description introduces any new information. ℹ️",
-				owner: "JoshuaKGoldberg",
-				repo: "are-docs-informative",
-				stars: 8,
-			},
-			{
-				description:
 					"Web app to find your npm packages eligible for Tidelift funding. 💸",
 				links: {
 					Site: "https://tidelift-me-up-site.vercel.app/",
@@ -280,6 +273,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up-site",
 				stars: 9,
+			},
+			{
+				description:
+					"Checks whether a documentation description introduces any new information. ℹ️",
+				owner: "JoshuaKGoldberg",
+				repo: "are-docs-informative",
+				stars: 8,
 			},
 			{
 				description:
@@ -352,6 +352,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
+				owner: "JoshuaKGoldberg",
+				repo: "console-table-without-index",
+				stars: 5,
+			},
+			{
+				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
@@ -363,13 +370,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
-			},
-			{
-				description:
-					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
-				owner: "JoshuaKGoldberg",
-				repo: "console-table-without-index",
-				stars: 3,
 			},
 		],
 	},
