@@ -334,7 +334,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description:
 					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
 				owner: "JoshuaKGoldberg",
-				repo: "commit-to-co-authors",
+				repo: "description-to-co-authors",
 				stars: 4,
 			},
 			{

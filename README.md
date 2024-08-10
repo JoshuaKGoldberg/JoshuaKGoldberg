@@ -430,10 +430,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/commit-to-co-authors">commit-to-co-authors</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
 			<td>Parses co-authors from Git/GitHub-style commit messages. ✍️</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: commit-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/commit-to-co-authors" /></td>
+			<td><img alt="Stars: description-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/description-to-co-authors" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-for-repository">all-contributors-for-repository</a></th>
