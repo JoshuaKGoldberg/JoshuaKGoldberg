@@ -454,6 +454,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: co-author-to-username" src="https://img.shields.io/github/stars/JoshuaKGoldberg/co-author-to-username" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/text-table-fast">text-table-fast</a></th>
+			<td>Generates borderless text table strings suitable for printing to stdout. Fast. 🏁</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: text-table-fast" src="https://img.shields.io/github/stars/JoshuaKGoldberg/text-table-fast" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
@@ -464,12 +470,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: disposable-discord-client" src="https://img.shields.io/github/stars/JoshuaKGoldberg/disposable-discord-client" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/text-table-fast">text-table-fast</a></th>
-			<td>Generates borderless text table strings suitable for printing to stdout. Fast. 🏁</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: text-table-fast" src="https://img.shields.io/github/stars/JoshuaKGoldberg/text-table-fast" /></td>
 		</tr>
 	</tbody>
 </table>

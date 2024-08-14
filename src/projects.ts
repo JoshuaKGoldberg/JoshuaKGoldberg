@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24664,
+				stars: 24754,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22509,
+				stars: 22513,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 14974,
+				stars: 15051,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2016,
+				stars: 2036,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 624,
+				stars: 682,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1300,
+				stars: 1303,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 217,
+				stars: 230,
 			},
 			{
 				description:
@@ -100,7 +100,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2984,
+				stars: 2983,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 902,
+				stars: 905,
 			},
 			{
 				description: "Tools to validate package.json files",
@@ -178,7 +178,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 100,
+				stars: 104,
 			},
 			{
 				description:
@@ -200,7 +200,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 47,
+				stars: 50,
 			},
 			{
 				description:
@@ -293,7 +293,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 6,
+				stars: 7,
 			},
 			{
 				description:
@@ -359,6 +359,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Generates borderless text table strings suitable for printing to stdout. Fast. 🏁",
+				owner: "JoshuaKGoldberg",
+				repo: "text-table-fast",
+				stars: 4,
+			},
+			{
+				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
@@ -370,13 +377,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "disposable-discord-client",
 				stars: 1,
-			},
-			{
-				description:
-					"Generates borderless text table strings suitable for printing to stdout. Fast. 🏁",
-				owner: "JoshuaKGoldberg",
-				repo: "text-table-fast",
-				stars: 2,
 			},
 		],
 	},
