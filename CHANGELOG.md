@@ -1,3 +1,15 @@
+# [0.14.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.13.0...0.14.0) (2024-08-14)
+
+### Bug Fixes
+
+- regenerate projects with text-table-fast ([1115c5d](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/1115c5d0e58237a29b843550f40aee792f041c51))
+- remove deprecated disposable-discord-client ([b124e23](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b124e23ac7a0a36fe38478c7b29cc7a7a6752604))
+- rename commit-to-co-authors to description-to-co-authors ([b456dbe](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b456dbe39865fceca4bb5761c6620dd3d6bea3ef))
+
+### Features
+
+- add notion-rich-text-to-markdown ([5deb8d4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/5deb8d43eb324da117704f408a96e1454dbe7c11))
+
 # [0.13.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.11.0...0.13.0) (2024-06-10)
 
 ### Bug Fixes
