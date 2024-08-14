@@ -371,6 +371,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "sinon-timers-repeatable",
 				stars: 1,
 			},
+			{
+				description: "Converts Notion's rich text strings to Markdown. 🪢",
+				owner: "JoshuaKGoldberg",
+				repo: "notion-rich-text-to-markdown",
+				stars: 2,
+			},
 		],
 	},
 };

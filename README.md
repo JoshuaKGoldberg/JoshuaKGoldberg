@@ -465,6 +465,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
+			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
