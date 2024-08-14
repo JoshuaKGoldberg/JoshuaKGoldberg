@@ -339,6 +339,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Generates borderless text table strings suitable for printing to stdout. Fast. 🏁",
+				owner: "JoshuaKGoldberg",
+				repo: "text-table-fast",
+				stars: 4,
+			},
+			{
+				description:
 					"Generates an allcontributors list for an existing repository. 🤝",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-for-repository",
@@ -359,23 +366,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Generates borderless text table strings suitable for printing to stdout. Fast. 🏁",
-				owner: "JoshuaKGoldberg",
-				repo: "text-table-fast",
-				stars: 4,
-			},
-			{
-				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
-				stars: 1,
-			},
-			{
-				description:
-					"An extension to the discord.js `Client` class with `[Symbol.asyncDispose]` added. 🚮",
-				owner: "JoshuaKGoldberg",
-				repo: "disposable-discord-client",
 				stars: 1,
 			},
 		],
