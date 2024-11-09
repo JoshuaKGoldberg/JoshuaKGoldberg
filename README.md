@@ -61,9 +61,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/bdav">
 					<img alt="Beau Davenport" height="50px" src="https://github.com/bdav.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/ElianCodes">
-					<img alt="Elian" height="50px" src="https://github.com/ElianCodes.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/FarazPatankar">
 					<img alt="Faraz Patankar" height="50px" src="https://github.com/FarazPatankar.png?size=50" width="50px" />
 				</a>
@@ -72,6 +69,9 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/jennjunod">
 					<img alt="Jenn Junod" height="50px" src="https://github.com/jennjunod.png?size=50" width="50px" />
+				</a>
+				<a href="https://github.com/JohannesKonings">
+					<img alt="Johannes Konings" height="50px" src="https://github.com/JohannesKonings.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/Kamalnrf">
 					<img alt="Kamal" height="50px" src="https://github.com/Kamalnrf.png?size=50" width="50px" />
@@ -99,9 +99,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/danfry1">
 					<img alt="Daniel Fry" height="50px" src="https://github.com/danfry1.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/DarrenBaldwin07">
-					<img alt="Darren Baldwin" height="50px" src="https://github.com/DarrenBaldwin07.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/johnnyreilly">
 					<img alt="John Reilly" height="50px" src="https://github.com/johnnyreilly.png?size=50" width="50px" />
 				</a>
@@ -110,6 +107,9 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/nickytonline">
 					<img alt="Nick Taylor" height="50px" src="https://github.com/nickytonline.png?size=50" width="50px" />
+				</a>
+				<a href="https://github.com/roboflow">
+					<img alt="Roboflow" height="50px" src="https://github.com/roboflow.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/santoshyadavdev">
 					<img alt="Santosh Yadav" height="50px" src="https://github.com/santoshyadavdev.png?size=50" width="50px" />
@@ -460,16 +460,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: co-author-to-username" src="https://img.shields.io/github/stars/JoshuaKGoldberg/co-author-to-username" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
-			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
 			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
+			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 	</tbody>
 </table>

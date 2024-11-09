@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 24754,
+				stars: 25089,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22513,
+				stars: 22602,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15051,
+				stars: 15265,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2036,
+				stars: 2072,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 682,
+				stars: 1193,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1303,
+				stars: 1313,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,14 +70,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 230,
+				stars: 253,
 			},
 			{
 				description:
 					"Unofficial static export of emoji technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
-				stars: 14,
+				stars: 15,
 			},
 			{
 				description:
@@ -108,21 +108,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 214,
+				stars: 216,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 77,
+				stars: 78,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 69,
+				stars: 70,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 905,
+				stars: 926,
 			},
 			{
 				description: "Tools to validate package.json files",
@@ -178,7 +178,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 104,
+				stars: 122,
 			},
 			{
 				description:
@@ -186,21 +186,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 90,
+				stars: 110,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 51,
+				stars: 59,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 50,
+				stars: 52,
 			},
 			{
 				description:
@@ -214,7 +214,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"TypeScript transformation that inlines calls to small functions. ⚡️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-function-inliner",
-				stars: 21,
+				stars: 22,
 			},
 			{
 				description:
@@ -235,7 +235,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 14,
+				stars: 16,
 			},
 			{
 				description:
@@ -255,7 +255,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 12,
+				stars: 13,
 			},
 			{
 				description:
@@ -293,7 +293,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 7,
+				stars: 8,
 			},
 			{
 				description:
@@ -314,7 +314,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Web app to fetch any public emails associated with a GitHub username. 📧",
 				owner: "JoshuaKGoldberg",
 				repo: "github-username-to-emails-site",
-				stars: 5,
+				stars: 6,
 			},
 			{
 				description:
@@ -328,7 +328,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
 				owner: "JoshuaKGoldberg",
 				repo: "console-table-without-index",
-				stars: 5,
+				stars: 6,
 			},
 			{
 				description:
@@ -349,7 +349,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Generates an allcontributors list for an existing repository. 🤝",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-for-repository",
-				stars: 3,
+				stars: 4,
 			},
 			{
 				description: "Fetches any packages associated with an npm username. 📨",
@@ -365,17 +365,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
+				description: "Converts Notion's rich text strings to Markdown. 🪢",
+				owner: "JoshuaKGoldberg",
+				repo: "notion-rich-text-to-markdown",
+				stars: 3,
+			},
+			{
 				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
 				stars: 1,
-			},
-			{
-				description: "Converts Notion's rich text strings to Markdown. 🪢",
-				owner: "JoshuaKGoldberg",
-				repo: "notion-rich-text-to-markdown",
-				stars: 2,
 			},
 		],
 	},
