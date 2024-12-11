@@ -1,3 +1,9 @@
+# [0.15.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.14.0...0.15.0) (2024-12-11)
+
+### Features
+
+- added cspell-populate-words, object-strings-deep ([cf71afe](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/cf71afe0d35ca06ede4d5bb00d18558ded86945f))
+
 # [0.14.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.13.0...0.14.0) (2024-08-14)
 
 ### Bug Fixes
