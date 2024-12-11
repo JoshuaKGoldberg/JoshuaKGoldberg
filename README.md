@@ -117,9 +117,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/sindresorhus">
 					<img alt="Sindre Sorhus" height="50px" src="https://github.com/sindresorhus.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/usmangenx">
-					<img alt="Muhammad Usman Javed" height="50px" src="https://github.com/usmangenx.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/xavdid">
 					<img alt="David Brownman" height="50px" src="https://github.com/xavdid.png?size=50" width="50px" />
 				</a>
@@ -292,12 +289,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: dedent" src="https://img.shields.io/github/stars/dmnd/dedent" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
-			<td>Tools to validate package.json files</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
 			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
 			<td>Adoptive maintainer</td>
@@ -308,6 +299,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩</td>
 			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
+			<td>Tools to validate package.json files</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
@@ -358,16 +355,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
-			<td>Creates and caches values under keys. 🏭</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
 			<td>Fills in missing allcontributors entries for a repository. 👪</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
+			<td>Creates and caches values under keys. 🏭</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
@@ -388,16 +385,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
-			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
 			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
+			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
@@ -406,28 +403,28 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails-site">github-username-to-emails-site</a></th>
 			<td>Web app to fetch any public emails associated with a GitHub username. 📧</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
-			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
 			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
+			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
+			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
@@ -470,6 +467,18 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
+			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/object-strings-deep">object-strings-deep</a></th>
+			<td>Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
 		</tr>
 	</tbody>
 </table>

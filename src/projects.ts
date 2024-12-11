@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25089,
+				stars: 25221,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22602,
+				stars: 22640,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15265,
+				stars: 15357,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2072,
+				stars: 2081,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1193,
+				stars: 1220,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1313,
+				stars: 1317,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 253,
+				stars: 271,
 			},
 			{
 				description:
@@ -100,7 +100,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2983,
+				stars: 2985,
 			},
 			{
 				description:
@@ -108,7 +108,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 216,
+				stars: 218,
 			},
 			{
 				description:
@@ -150,7 +150,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				],
 				owner: "budgielang",
 				repo: "Budgie",
-				stars: 59,
+				stars: 60,
 			},
 		],
 	},
@@ -164,7 +164,23 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 926,
+				stars: 935,
+			},
+			{
+				description:
+					"Rules for consistent, readable, and valid package.json files. 🗂️",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-package-json",
+				role: "Adoptive maintainer",
+				stars: 127,
+			},
+			{
+				description:
+					"ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-expect-type",
+				role: "Adoptive maintainer",
+				stars: 112,
 			},
 			{
 				description: "Tools to validate package.json files",
@@ -174,33 +190,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Rules for consistent, readable, and valid package.json files. 🗂️",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-plugin-package-json",
-				role: "Adoptive maintainer",
-				stars: 122,
-			},
-			{
-				description:
-					"ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-plugin-expect-type",
-				role: "Adoptive maintainer",
-				stars: 110,
-			},
-			{
-				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 59,
+				stars: 63,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 52,
+				stars: 55,
 			},
 			{
 				description:
@@ -245,17 +245,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 13,
 			},
 			{
-				description: "Creates and caches values under keys. 🏭",
-				owner: "JoshuaKGoldberg",
-				repo: "cached-factory",
-				stars: 12,
-			},
-			{
 				description:
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
 				stars: 13,
+			},
+			{
+				description: "Creates and caches values under keys. 🏭",
+				owner: "JoshuaKGoldberg",
+				repo: "cached-factory",
+				stars: 12,
 			},
 			{
 				description:
@@ -283,16 +283,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Finds your npm packages that are eligible for Tidelift funding. 💸",
-				owner: "JoshuaKGoldberg",
-				repo: "tidelift-me-up",
-				stars: 7,
-			},
-			{
-				description:
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
+				stars: 9,
+			},
+			{
+				description:
+					"Finds your npm packages that are eligible for Tidelift funding. 💸",
+				owner: "JoshuaKGoldberg",
+				repo: "tidelift-me-up",
 				stars: 8,
 			},
 			{
@@ -304,13 +304,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
-				owner: "JoshuaKGoldberg",
-				repo: "github-sponsors-to-markdown",
-				stars: 5,
-			},
-			{
-				description:
 					"Web app to fetch any public emails associated with a GitHub username. 📧",
 				owner: "JoshuaKGoldberg",
 				repo: "github-username-to-emails-site",
@@ -318,17 +311,24 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
+					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
 				owner: "JoshuaKGoldberg",
-				repo: "prune-github-notifications",
+				repo: "console-table-without-index",
+				stars: 7,
+			},
+			{
+				description:
+					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
+				owner: "JoshuaKGoldberg",
+				repo: "github-sponsors-to-markdown",
 				stars: 5,
 			},
 			{
 				description:
-					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
+					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
 				owner: "JoshuaKGoldberg",
-				repo: "console-table-without-index",
-				stars: 6,
+				repo: "prune-github-notifications",
+				stars: 5,
 			},
 			{
 				description:
@@ -376,6 +376,20 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
 				stars: 1,
+			},
+			{
+				description:
+					"Populates your cspell.json dictionary with existing unknown words. 🔖",
+				owner: "JoshuaKGoldberg",
+				repo: "cspell-populate-words",
+				stars: 1,
+			},
+			{
+				description:
+					"Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵",
+				owner: "JoshuaKGoldberg",
+				repo: "object-strings-deep",
+				stars: 3,
 			},
 		],
 	},
