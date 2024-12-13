@@ -469,16 +469,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
-			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
 			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
+			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/populate-all-contributors-for-repository">populate-all-contributors-for-repository</a></th>

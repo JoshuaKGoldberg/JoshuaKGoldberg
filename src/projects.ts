@@ -379,17 +379,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
-				owner: "JoshuaKGoldberg",
-				repo: "sinon-timers-repeatable",
-				stars: 1,
-			},
-			{
-				description:
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
 				repo: "cspell-populate-words",
 				stars: 3,
+			},
+			{
+				description:
+					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
+				owner: "JoshuaKGoldberg",
+				repo: "sinon-timers-repeatable",
+				stars: 1,
 			},
 			{
 				description:
