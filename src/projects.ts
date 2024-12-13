@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25221,
+				stars: 25225,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22640,
+				stars: 22644,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15357,
+				stars: 15362,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2081,
+				stars: 2080,
 			},
 			{
 				description:
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1317,
+				stars: 1318,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 271,
+				stars: 273,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 935,
+				stars: 936,
 			},
 			{
 				description:
@@ -193,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 63,
+				stars: 64,
 			},
 			{
 				description:
@@ -276,13 +276,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a documentation description introduces any new information. ℹ️",
-				owner: "JoshuaKGoldberg",
-				repo: "are-docs-informative",
-				stars: 8,
-			},
-			{
-				description:
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
@@ -290,10 +283,24 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Checks whether a documentation description introduces any new information. ℹ️",
+				owner: "JoshuaKGoldberg",
+				repo: "are-docs-informative",
+				stars: 8,
+			},
+			{
+				description:
 					"Finds your npm packages that are eligible for Tidelift funding. 💸",
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up",
 				stars: 8,
+			},
+			{
+				description:
+					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
+				owner: "JoshuaKGoldberg",
+				repo: "console-table-without-index",
+				stars: 7,
 			},
 			{
 				description:
@@ -308,13 +315,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "github-username-to-emails-site",
 				stars: 6,
-			},
-			{
-				description:
-					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
-				owner: "JoshuaKGoldberg",
-				repo: "console-table-without-index",
-				stars: 7,
 			},
 			{
 				description:
@@ -372,6 +372,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵",
+				owner: "JoshuaKGoldberg",
+				repo: "object-strings-deep",
+				stars: 3,
+			},
+			{
+				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
@@ -382,14 +389,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
 				repo: "cspell-populate-words",
-				stars: 1,
+				stars: 3,
 			},
 			{
 				description:
-					"Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵",
+					"Populates the .allcontributorsrc for a repository using all-contributors-for-repository. 📋",
 				owner: "JoshuaKGoldberg",
-				repo: "object-strings-deep",
-				stars: 3,
+				repo: "populate-all-contributors-for-repository",
+				stars: 1,
 			},
 		],
 	},

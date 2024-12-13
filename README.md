@@ -379,22 +379,28 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
-			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
 			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
+			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
 			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
+			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
@@ -407,12 +413,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Web app to fetch any public emails associated with a GitHub username. 📧</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
-			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
@@ -463,6 +463,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/object-strings-deep">object-strings-deep</a></th>
+			<td>Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
@@ -475,10 +481,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/object-strings-deep">object-strings-deep</a></th>
-			<td>Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/populate-all-contributors-for-repository">populate-all-contributors-for-repository</a></th>
+			<td>Populates the .allcontributorsrc for a repository using all-contributors-for-repository. 📋</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
+			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
 	</tbody>
 </table>
