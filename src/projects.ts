@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25225,
+				stars: 25239,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22644,
+				stars: 22648,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15362,
+				stars: 15367,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1220,
+				stars: 1221,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1318,
+				stars: 1319,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 936,
+				stars: 937,
 			},
 			{
 				description:
@@ -193,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 64,
+				stars: 83,
 			},
 			{
 				description:
@@ -386,16 +386,30 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
+					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",
-				repo: "sinon-timers-repeatable",
-				stars: 1,
+				repo: "octokit-from-auth",
+				stars: 2,
 			},
 			{
 				description:
 					"Populates the .allcontributorsrc for a repository using all-contributors-for-repository. 📋",
 				owner: "JoshuaKGoldberg",
 				repo: "populate-all-contributors-for-repository",
+				stars: 2,
+			},
+			{
+				description:
+					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
+				owner: "JoshuaKGoldberg",
+				repo: "set-github-repository-labels",
+				stars: 1,
+			},
+			{
+				description:
+					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
+				owner: "JoshuaKGoldberg",
+				repo: "sinon-timers-repeatable",
 				stars: 1,
 			},
 		],

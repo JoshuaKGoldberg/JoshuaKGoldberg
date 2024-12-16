@@ -486,6 +486,24 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
+			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
+			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: octokit-from-auth" src="https://img.shields.io/github/stars/JoshuaKGoldberg/octokit-from-auth" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
+			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: set-github-repository-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/set-github-repository-labels" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
