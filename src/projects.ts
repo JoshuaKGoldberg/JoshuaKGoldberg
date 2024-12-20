@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25239,
+				stars: 25345,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22648,
+				stars: 22650,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15367,
+				stars: 15380,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2080,
+				stars: 2083,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1221,
+				stars: 1230,
 			},
 		],
 	},
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 273,
+				stars: 274,
 			},
 			{
 				description:
@@ -100,7 +100,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2985,
+				stars: 2984,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 937,
+				stars: 938,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 127,
+				stars: 128,
 			},
 			{
 				description:
@@ -193,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 83,
+				stars: 85,
 			},
 			{
 				description:
@@ -235,7 +235,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 16,
+				stars: 17,
 			},
 			{
 				description:
@@ -410,6 +410,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
+				stars: 1,
+			},
+			{
+				description: "Copies an object without its undefined properties. 🫥",
+				owner: "JoshuaKGoldberg",
+				repo: "without-undefined-properties",
 				stars: 1,
 			},
 		],

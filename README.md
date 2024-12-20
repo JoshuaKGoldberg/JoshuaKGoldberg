@@ -475,10 +475,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
-			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
+			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
+			<td><img alt="Stars: octokit-from-auth" src="https://img.shields.io/github/stars/JoshuaKGoldberg/octokit-from-auth" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/populate-all-contributors-for-repository">populate-all-contributors-for-repository</a></th>
@@ -487,22 +487,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
-			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
-			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: octokit-from-auth" src="https://img.shields.io/github/stars/JoshuaKGoldberg/octokit-from-auth" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: set-github-repository-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/set-github-repository-labels" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
+			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/without-undefined-properties">without-undefined-properties</a></th>
+			<td>Copies an object without its undefined properties. 🫥</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
 		</tr>
 	</tbody>
 </table>
