@@ -337,16 +337,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails">github-username-to-emails</a></th>
-			<td>Fetches any public emails associated with a GitHub username. 📧</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
 			<td>Gently fails test runs if the console was used during them. 📢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails">github-username-to-emails</a></th>
+			<td>Fetches any public emails associated with a GitHub username. 📧</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
@@ -469,6 +469,18 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/without-undefined-properties">without-undefined-properties</a></th>
+			<td>Copies an object without its undefined properties. 🫥</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
+			<td>Imports a local package or one installed from npx. 🚚</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
 			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
 			<td>Creator & maintainer</td>
@@ -497,12 +509,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/without-undefined-properties">without-undefined-properties</a></th>
-			<td>Copies an object without its undefined properties. 🫥</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
 		</tr>
 	</tbody>
 </table>

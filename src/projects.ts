@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1319,
+				stars: 1320,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -225,17 +225,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Fetches any public emails associated with a GitHub username. 📧",
-				owner: "JoshuaKGoldberg",
-				repo: "github-username-to-emails",
-				stars: 16,
-			},
-			{
-				description:
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
 				stars: 17,
+			},
+			{
+				description:
+					"Fetches any public emails associated with a GitHub username. 📧",
+				owner: "JoshuaKGoldberg",
+				repo: "github-username-to-emails",
+				stars: 16,
 			},
 			{
 				description:
@@ -378,6 +378,18 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
+				description: "Copies an object without its undefined properties. 🫥",
+				owner: "JoshuaKGoldberg",
+				repo: "without-undefined-properties",
+				stars: 3,
+			},
+			{
+				description: "Imports a local package or one installed from npx. 🚚",
+				owner: "JoshuaKGoldberg",
+				repo: "import-local-or-npx",
+				stars: 3,
+			},
+			{
 				description:
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
@@ -410,12 +422,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
-				stars: 1,
-			},
-			{
-				description: "Copies an object without its undefined properties. 🫥",
-				owner: "JoshuaKGoldberg",
-				repo: "without-undefined-properties",
 				stars: 1,
 			},
 		],
