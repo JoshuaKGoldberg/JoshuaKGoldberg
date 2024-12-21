@@ -1,3 +1,14 @@
+## [0.15.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.0...0.15.2) (2024-12-21)
+
+### Bug Fixes
+
+- add a couple more ([a3c6f24](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a3c6f245c05566598e3522dc90eab6626b782fbe))
+- add import-local-or-npx ([d2d1c6e](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/d2d1c6ed579a7c787c2d87dbcb33ad4c0318f4f1))
+- add without-undefined-properties ([40e57ed](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/40e57ed01baadadb73b8c79455134e9e4607d5c4))
+- pnpm projects:generate populate-all-contributors-for-repository ([07b1225](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/07b1225ee1601adf5a57e8cb785a973ea9f989bb))
+- pnpm projects:generate populate-all-contributors-for-repository ([74cd1fa](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/74cd1fabd243b094c1d588926be0c41cf58849ed))
+- re-ran projects:generate ([b1d0353](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b1d035306c0c489a89ebfc0633ac9852de93c401))
+
 # [0.15.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.14.0...0.15.0) (2024-12-11)
 
 ### Features
