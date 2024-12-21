@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25345,
+				stars: 25347,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15380,
+				stars: 15378,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1230,
+				stars: 1231,
 			},
 		],
 	},
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 938,
+				stars: 937,
 			},
 			{
 				description:
@@ -193,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 85,
+				stars: 86,
 			},
 			{
 				description:
@@ -207,7 +207,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
-				stars: 29,
+				stars: 30,
 			},
 			{
 				description:
@@ -381,13 +381,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Copies an object without its undefined properties. 🫥",
 				owner: "JoshuaKGoldberg",
 				repo: "without-undefined-properties",
-				stars: 3,
+				stars: 4,
 			},
 			{
 				description: "Imports a local package or one installed from npx. 🚚",
 				owner: "JoshuaKGoldberg",
 				repo: "import-local-or-npx",
-				stars: 3,
+				stars: 8,
 			},
 			{
 				description:
