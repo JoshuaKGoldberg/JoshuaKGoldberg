@@ -9,30 +9,14 @@
 		"pnpm-lock.yaml"
 	],
 	"words": [
-		"allcontributors",
-		"astro",
 		"Bluesky",
-		"Codecov",
-		"codespace",
-		"commitlint",
-		"contributorsrc",
-		"conventionalcommits",
+		"emojify",
 		"delighters",
 		"EightBittr",
-		"emojify",
-		"emojipedia",
+		"borderless",
 		"inlines",
 		"joshuakgoldberg",
-		"knip",
-		"konami",
-		"lcov",
-		"markdownlintignore",
-		"npmpackagejsonlintrc",
-		"outro",
-		"packagejson",
-		"quickstart",
-		"tsup",
-		"Twoslash",
-		"wontfix"
+		"emojipedia",
+		"twoslash"
 	]
 }

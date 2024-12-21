@@ -494,7 +494,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/populate-all-contributors-for-repository">populate-all-contributors-for-repository</a></th>
-			<td>Populates the .allcontributorsrc for a repository using all-contributors-for-repository. 📋</td>
+			<td>Populates the .all-contributorsrc for a repository using all-contributors-for-repository. 📋</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>

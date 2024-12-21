@@ -61,7 +61,7 @@ drawTable({
 });
 
 function drawTable({ footer, header, rows, width }) {
-	let totalLines = rows.length + 12;
+	const totalLines = rows.length + 12;
 	let drawnLines = 0;
 
 	rows = rows.map((line) =>

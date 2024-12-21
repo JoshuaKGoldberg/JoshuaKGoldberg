@@ -405,7 +405,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Populates the .allcontributorsrc for a repository using all-contributors-for-repository. 📋",
+					"Populates the .all-contributorsrc for a repository using all-contributors-for-repository. 📋",
 				owner: "JoshuaKGoldberg",
 				repo: "populate-all-contributors-for-repository",
 				stars: 2,

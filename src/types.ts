@@ -1,3 +1,7 @@
+export interface Project extends ProjectBase {
+	more?: ProjectBase[];
+}
+
 export interface ProjectBase {
 	description: string;
 	image?: string;
@@ -8,10 +12,6 @@ export interface ProjectBase {
 	role?: string;
 	stars: number;
 	url?: string;
-}
-
-export interface Project extends ProjectBase {
-	more?: ProjectBase[];
 }
 
 export interface ProjectCategory {

@@ -29,9 +29,9 @@ ${description.replaceAll(". ", ".\n")}
 			.map(
 				({
 					description,
-					owner,
 					repo,
 					name = repo,
+					owner,
 					role = "Creator & maintainer",
 				}) =>
 					`
