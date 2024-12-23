@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25347,
+				stars: 25352,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22650,
+				stars: 22657,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15378,
+				stars: 15384,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2083,
+				stars: 2103,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1231,
+				stars: 1232,
 			},
 		],
 	},
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 274,
+				stars: 276,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 128,
+				stars: 130,
 			},
 			{
 				description:
@@ -296,6 +296,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 8,
 			},
 			{
+				description: "Imports a local package or one installed from npx. 🚚",
+				owner: "JoshuaKGoldberg",
+				repo: "import-local-or-npx",
+				stars: 11,
+			},
+			{
 				description:
 					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
 				owner: "JoshuaKGoldberg",
@@ -328,7 +334,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
 				owner: "JoshuaKGoldberg",
 				repo: "prune-github-notifications",
-				stars: 5,
+				stars: 7,
 			},
 			{
 				description:
@@ -349,6 +355,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Generates an allcontributors list for an existing repository. 🤝",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-for-repository",
+				stars: 4,
+			},
+			{
+				description: "Copies an object without its undefined properties. 🫥",
+				owner: "JoshuaKGoldberg",
+				repo: "without-undefined-properties",
 				stars: 4,
 			},
 			{
@@ -378,18 +390,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
-				description: "Copies an object without its undefined properties. 🫥",
-				owner: "JoshuaKGoldberg",
-				repo: "without-undefined-properties",
-				stars: 4,
-			},
-			{
-				description: "Imports a local package or one installed from npx. 🚚",
-				owner: "JoshuaKGoldberg",
-				repo: "import-local-or-npx",
-				stars: 8,
-			},
-			{
 				description:
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
@@ -409,6 +409,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "populate-all-contributors-for-repository",
 				stars: 2,
+			},
+			{
+				description:
+					"Infers All Contributors settings from an existing README.md table. 💓",
+				owner: "JoshuaKGoldberg",
+				repo: "all-contributors-inferred",
+				stars: 1,
 			},
 			{
 				description:

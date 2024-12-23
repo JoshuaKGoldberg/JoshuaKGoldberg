@@ -397,6 +397,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
+			<td>Imports a local package or one installed from npx. 🚚</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
 			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
 			<td>Creator & maintainer</td>
@@ -445,6 +451,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/without-undefined-properties">without-undefined-properties</a></th>
+			<td>Copies an object without its undefined properties. 🫥</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/npm-username-to-packages">npm-username-to-packages</a></th>
 			<td>Fetches any packages associated with an npm username. 📨</td>
 			<td>Creator & maintainer</td>
@@ -467,18 +479,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/without-undefined-properties">without-undefined-properties</a></th>
-			<td>Copies an object without its undefined properties. 🫥</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
-			<td>Imports a local package or one installed from npx. 🚚</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
@@ -509,6 +509,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-inferred">all-contributors-inferred</a></th>
+			<td>Infers All Contributors settings from an existing README.md table. 🔄</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-inferred" /></td>
 		</tr>
 	</tbody>
 </table>
