@@ -1,3 +1,9 @@
+## [0.15.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.2...0.15.3) (2024-12-23)
+
+### Bug Fixes
+
+- add all-contributors-inferred ([a192447](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a192447766117ca69a7ecd2457b675cd0ab62c86))
+
 ## [0.15.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.0...0.15.2) (2024-12-21)
 
 ### Bug Fixes
