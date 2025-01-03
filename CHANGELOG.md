@@ -1,3 +1,11 @@
+# Changelog
+
+## [0.15.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.3...0.15.4) (2025-01-03)
+
+### Bug Fixes
+
+- add debug-for-file ([eea8a62](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/eea8a6252ff1113cf032a48c8c5e296db247175d))
+
 ## [0.15.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.2...0.15.3) (2024-12-23)
 
 ### Bug Fixes
@@ -141,5 +149,3 @@
 ### Features
 
 - ran create-typescript-app again ([b19fe87](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b19fe8785f2ad170eaed654dffe51c83fc69ff78))
-
-# Changelog
