@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25352,
+				stars: 25376,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22657,
+				stars: 22659,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15384,
+				stars: 15411,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2103,
+				stars: 2098,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1232,
+				stars: 1237,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1320,
+				stars: 1321,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 276,
+				stars: 279,
 			},
 			{
 				description:
@@ -100,7 +100,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2984,
+				stars: 2983,
 			},
 			{
 				description:
@@ -108,14 +108,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 218,
+				stars: 219,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 78,
+				stars: 79,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 937,
+				stars: 942,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 130,
+				stars: 135,
 			},
 			{
 				description:
@@ -258,6 +258,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 12,
 			},
 			{
+				description: "Imports a local package or one installed from npx. 🚚",
+				owner: "JoshuaKGoldberg",
+				repo: "import-local-or-npx",
+				stars: 11,
+			},
+			{
 				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
@@ -296,16 +302,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 8,
 			},
 			{
-				description: "Imports a local package or one installed from npx. 🚚",
-				owner: "JoshuaKGoldberg",
-				repo: "import-local-or-npx",
-				stars: 11,
-			},
-			{
 				description:
 					"The built-in Node.js console.table, but without the annoying (index) column. 📊",
 				owner: "JoshuaKGoldberg",
 				repo: "console-table-without-index",
+				stars: 7,
+			},
+			{
+				description:
+					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
+				owner: "JoshuaKGoldberg",
+				repo: "prune-github-notifications",
 				stars: 7,
 			},
 			{
@@ -328,13 +335,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
 				stars: 5,
-			},
-			{
-				description:
-					"Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹",
-				owner: "JoshuaKGoldberg",
-				repo: "prune-github-notifications",
-				stars: 7,
 			},
 			{
 				description:
@@ -412,10 +412,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Infers All Contributors settings from an existing README.md table. 💓",
+					"Infers All Contributors settings from an existing README.md table. 🔄",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-inferred",
-				stars: 1,
+				stars: 2,
 			},
 			{
 				description:
@@ -429,6 +429,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
+				stars: 1,
+			},
+			{
+				description:
+					"debug() wrapper that creates a string based on your file's path within the package. 🧶",
+				owner: "JoshuaKGoldberg",
+				repo: "debug-for-file",
 				stars: 1,
 			},
 		],

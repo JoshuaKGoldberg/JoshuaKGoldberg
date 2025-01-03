@@ -367,6 +367,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
+			<td>Imports a local package or one installed from npx. 🚚</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
@@ -397,16 +403,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
-			<td>Imports a local package or one installed from npx. 🚚</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-table-without-index">console-table-without-index</a></th>
 			<td>The built-in Node.js console.table, but without the annoying (index) column. 📊</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-table-without-index" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-table-without-index" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
+			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
@@ -425,12 +431,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prune-github-notifications">prune-github-notifications</a></th>
-			<td>Prunes GitHub notifications you don't care about, such as automated dependency bumps. 🧹</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
@@ -499,6 +499,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-inferred">all-contributors-inferred</a></th>
+			<td>Infers All Contributors settings from an existing README.md table. 🔄</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-inferred" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
@@ -511,10 +517,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-inferred">all-contributors-inferred</a></th>
-			<td>Infers All Contributors settings from an existing README.md table. 🔄</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/debug-for-file">debug-for-file</a></th>
+			<td>debug() wrapper that creates a string based on your file's path within the package. 🧶</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-inferred" /></td>
+			<td><img alt="Stars: debug-for-file" src="https://img.shields.io/github/stars/JoshuaKGoldberg/debug-for-file" /></td>
 		</tr>
 	</tbody>
 </table>
