@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25376,
+				stars: 25395,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22659,
+				stars: 22667,
 			},
 			{
 				description:
@@ -33,22 +33,22 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15411,
+				stars: 15419,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2098,
+				stars: 2099,
 			},
 			{
 				description:
-					"Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝",
+					"Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁",
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1237,
+				stars: 1238,
 			},
 		],
 	},
@@ -61,7 +61,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1321,
+				stars: 1323,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 279,
+				stars: 287,
 			},
 			{
 				description:
@@ -122,7 +122,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 70,
+				stars: 69,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 942,
+				stars: 944,
 			},
 			{
 				description:
@@ -180,7 +180,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 112,
+				stars: 113,
 			},
 			{
 				description: "Tools to validate package.json files",
@@ -193,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 86,
+				stars: 87,
 			},
 			{
 				description:
@@ -285,6 +285,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
+				stars: 9,
+			},
+			{
+				description:
+					"debug() wrapper that creates a string based on your file's path within the package. 🧶",
+				owner: "JoshuaKGoldberg",
+				repo: "debug-for-file",
 				stars: 9,
 			},
 			{
@@ -433,9 +440,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"debug() wrapper that creates a string based on your file's path within the package. 🧶",
+					"Formats your code with whatever formatter your project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
-				repo: "debug-for-file",
+				repo: "formatly",
 				stars: 1,
 			},
 		],

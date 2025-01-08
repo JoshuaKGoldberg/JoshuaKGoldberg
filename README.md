@@ -172,7 +172,7 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a></th>
-			<td>Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝</td>
+			<td>Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
@@ -391,6 +391,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/debug-for-file">debug-for-file</a></th>
+			<td>debug() wrapper that creates a string based on your file's path within the package. 🧶</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: debug-for-file" src="https://img.shields.io/github/stars/JoshuaKGoldberg/debug-for-file" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
 			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
@@ -517,10 +523,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/debug-for-file">debug-for-file</a></th>
-			<td>debug() wrapper that creates a string based on your file's path within the package. 🧶</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/formatly">formatly</a></th>
+			<td>Formats your code with whatever formatter your project is already using. 🧼</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: debug-for-file" src="https://img.shields.io/github/stars/JoshuaKGoldberg/debug-for-file" /></td>
+			<td><img alt="Stars: formatly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly" /></td>
 		</tr>
 	</tbody>
 </table>
