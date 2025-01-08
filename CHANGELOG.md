@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.4...0.15.5) (2025-01-08)
+
+### Bug Fixes
+
+- add formatly ([06df227](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/06df2270fb7492d97e56bc8d9e39f22c2ef64be3))
+
 ## [0.15.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.3...0.15.4) (2025-01-03)
 
 ### Bug Fixes
