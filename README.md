@@ -102,9 +102,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/johnnyreilly">
 					<img alt="John Reilly" height="50px" src="https://github.com/johnnyreilly.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/jram930">
-					<img alt="Jared Ramsey" height="50px" src="https://github.com/jram930.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/nickytonline">
 					<img alt="Nick Taylor" height="50px" src="https://github.com/nickytonline.png?size=50" width="50px" />
 				</a>
