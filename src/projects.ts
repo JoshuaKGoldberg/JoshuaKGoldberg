@@ -225,6 +225,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Formats your code with whatever formatter your project is already using. 🧼",
+				owner: "JoshuaKGoldberg",
+				repo: "formatly",
+				stars: 17,
+			},
+			{
+				description:
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
@@ -437,13 +444,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
 				stars: 1,
-			},
-			{
-				description:
-					"Formats your code with whatever formatter your project is already using. 🧼",
-				owner: "JoshuaKGoldberg",
-				repo: "formatly",
-				stars: 17,
 			},
 		],
 	},
