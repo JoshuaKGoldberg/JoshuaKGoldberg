@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25416,
+				stars: 25422,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22675,
+				stars: 22678,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15437,
+				stars: 15448,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2102,
+				stars: 2105,
 			},
 			{
 				description:
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 291,
+				stars: 292,
 			},
 			{
 				description:
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 946,
+				stars: 949,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 137,
+				stars: 140,
 			},
 			{
 				description:
@@ -193,14 +193,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 87,
+				stars: 88,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 55,
+				stars: 56,
 			},
 			{
 				description:
@@ -208,6 +208,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
 				stars: 30,
+			},
+			{
+				description:
+					"Formats your code with whatever formatter your project is already using. 🧼",
+				owner: "JoshuaKGoldberg",
+				repo: "formatly",
+				stars: 25,
 			},
 			{
 				description:
@@ -222,13 +229,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "mock-react-redux",
 				stars: 20,
-			},
-			{
-				description:
-					"Formats your code with whatever formatter your project is already using. 🧼",
-				owner: "JoshuaKGoldberg",
-				repo: "formatly",
-				stars: 17,
 			},
 			{
 				description:
@@ -443,6 +443,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
+				stars: 1,
+			},
+			{
+				description:
+					"Quickly removes dependencies from your package.json file. 🔪",
+				owner: "JoshuaKGoldberg",
+				repo: "remove-dependencies",
 				stars: 1,
 			},
 		],
