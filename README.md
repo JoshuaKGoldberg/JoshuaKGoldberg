@@ -531,6 +531,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-fix-utils">eslint-fix-utils</a></th>
+			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
