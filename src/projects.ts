@@ -271,6 +271,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 11,
 			},
 			{
+				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-fix-utils",
+				stars: 10,
+			},
+			{
 				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
@@ -412,6 +418,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Quickly removes dependencies from your package.json file. 🔪",
+				owner: "JoshuaKGoldberg",
+				repo: "remove-dependencies",
+				stars: 3,
+			},
+			{
+				description:
 					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",
 				repo: "octokit-from-auth",
@@ -444,19 +457,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
 				stars: 1,
-			},
-			{
-				description:
-					"Quickly removes dependencies from your package.json file. 🔪",
-				owner: "JoshuaKGoldberg",
-				repo: "remove-dependencies",
-				stars: 3,
-			},
-			{
-				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-fix-utils",
-				stars: 10,
 			},
 		],
 	},

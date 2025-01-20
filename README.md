@@ -376,6 +376,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-fix-utils">eslint-fix-utils</a></th>
+			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
@@ -496,6 +502,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/remove-dependencies">remove-dependencies</a></th>
+			<td>Quickly removes dependencies from your package.json file. 🔪</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
@@ -524,18 +536,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/remove-dependencies">remove-dependencies</a></th>
-			<td>Quickly removes dependencies from your package.json file. 🔪</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-fix-utils">eslint-fix-utils</a></th>
-			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
 		</tr>
 	</tbody>
 </table>
