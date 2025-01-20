@@ -452,6 +452,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "remove-dependencies",
 				stars: 1,
 			},
+			{
+				description: "",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-fix-utils",
+				stars: -1,
+			},
 		],
 	},
 };
