@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.6](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.5...0.15.6) (2025-01-20)
+
+### Bug Fixes
+
+- add eslint-fix-utils ([b396434](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b396434d6d818ed2b51b6b2a92f0758d7f00d229))
+
 ## [0.15.5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.4...0.15.5) (2025-01-08)
 
 ### Bug Fixes
