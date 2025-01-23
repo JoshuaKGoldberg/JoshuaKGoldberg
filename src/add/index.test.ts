@@ -31,15 +31,9 @@ vi.mock("../projects.js", () => ({
 
 describe("add", () => {
 	beforeEach(() => {
-		mockConsoleInfo = vi
-			.spyOn(console, "info")
-			.mockImplementation(() => undefined);
-		mockConsoleLog = vi
-			.spyOn(console, "log")
-			.mockImplementation(() => undefined);
-		mockConsoleWarn = vi
-			.spyOn(console, "warn")
-			.mockImplementation(() => undefined);
+		console.info = mockConsoleInfo = vi.fn(() => undefined);
+		console.log = mockConsoleLog = vi.fn(() => undefined);
+		console.warn = mockConsoleWarn = vi.fn(() => undefined);
 	});
 
 	it("throws an error when no repositories are provided", async () => {
