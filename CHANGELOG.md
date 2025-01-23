@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.8](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.7...0.15.8) (2025-01-23)
+
+### Bug Fixes
+
+- add create project ([b7138b5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b7138b500630c4a9a101ebcac03791e4301a9f6f))
+
 ## [0.15.7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.6...0.15.7) (2025-01-20)
 
 ### Bug Fixes
