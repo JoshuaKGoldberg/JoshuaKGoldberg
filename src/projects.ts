@@ -50,6 +50,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "create-typescript-app",
 				stars: 1247,
 			},
+			{
+				description: "Delightful templates for web repositories. 💝",
+				image: "https://www.joshuakgoldberg.com/img/create.png",
+				owner: "JoshuaKGoldberg",
+				repo: "create",
+				stars: 33,
+			},
 		],
 	},
 	Emojis: {
