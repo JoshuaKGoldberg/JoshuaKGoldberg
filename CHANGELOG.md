@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.8...0.15.9) (2025-01-23)
+
+### Bug Fixes
+
+- add site to create project ([aa01500](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/aa015001b3c6c97a9242a6cda112e7065c7e5197))
+
 ## [0.15.8](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.7...0.15.8) (2025-01-23)
 
 ### Bug Fixes
