@@ -173,6 +173,12 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create">create</a></th>
+			<td>Delightful templates for web repositories. 💝</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: create" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->

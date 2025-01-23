@@ -53,6 +53,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description: "Delightful templates for web repositories. 💝",
 				image: "https://www.joshuakgoldberg.com/img/create.png",
+				links: {
+					Site: "https://create.bingo",
+				},
 				owner: "JoshuaKGoldberg",
 				repo: "create",
 				stars: 33,
