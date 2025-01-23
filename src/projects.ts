@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25431,
+				stars: 25454,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22680,
+				stars: 22690,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15456,
+				stars: 15459,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1246,
+				stars: 1247,
 			},
 		],
 	},
@@ -164,7 +164,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 953,
+				stars: 955,
 			},
 			{
 				description:
@@ -172,7 +172,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 143,
+				stars: 144,
 			},
 			{
 				description:
@@ -259,6 +259,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 13,
 			},
 			{
+				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-fix-utils",
+				stars: 13,
+			},
+			{
 				description: "Creates and caches values under keys. 🏭",
 				owner: "JoshuaKGoldberg",
 				repo: "cached-factory",
@@ -269,12 +275,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "import-local-or-npx",
 				stars: 11,
-			},
-			{
-				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-fix-utils",
-				stars: 10,
 			},
 			{
 				description:
