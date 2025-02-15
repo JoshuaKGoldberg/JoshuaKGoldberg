@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.10](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.9...0.15.10) (2025-02-15)
+
+### Bug Fixes
+
+- add eslint-plugin-erasable-syntax ([566928f](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/566928fc52a74dd5bfb072f2b68df63a6e211334))
+
 ## [0.15.9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.8...0.15.9) (2025-01-23)
 
 ### Bug Fixes
