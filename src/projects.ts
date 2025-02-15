@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25454,
+				stars: 25558,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22690,
+				stars: 22711,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15459,
+				stars: 15506,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2106,
+				stars: 2115,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1247,
+				stars: 1258,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "create",
-				stars: 33,
+				stars: 42,
 			},
 		],
 	},
@@ -80,21 +80,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 293,
+				stars: 296,
 			},
 			{
 				description:
 					"Unofficial static export of emoji technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
-				stars: 15,
+				stars: 16,
 			},
 			{
 				description:
 					"Static export of platform-specific metadata for unicode emojis. 🗝️",
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-platform-data",
-				stars: 10,
+				stars: 9,
 			},
 		],
 	},
@@ -110,7 +110,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2983,
+				stars: 2981,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 955,
+				stars: 973,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 144,
+				stars: 154,
 			},
 			{
 				description:
@@ -203,7 +203,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 88,
+				stars: 91,
 			},
 			{
 				description:
@@ -224,7 +224,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Formats your code with whatever formatter your project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 26,
+				stars: 28,
 			},
 			{
 				description:
@@ -245,7 +245,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 17,
+				stars: 18,
 			},
 			{
 				description:
@@ -288,6 +288,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+				owner: "JoshuaKGoldberg",
+				repo: "release-it-action",
+				stars: 10,
+			},
+			{
+				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
@@ -301,13 +308,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up-site",
-				stars: 9,
-			},
-			{
-				description:
-					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
-				owner: "JoshuaKGoldberg",
-				repo: "release-it-action",
 				stars: 9,
 			},
 			{
@@ -367,6 +367,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 5,
 			},
 			{
+				description: "Converts Notion's rich text strings to Markdown. 🪢",
+				owner: "JoshuaKGoldberg",
+				repo: "notion-rich-text-to-markdown",
+				stars: 5,
+			},
+			{
 				description:
 					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
 				owner: "JoshuaKGoldberg",
@@ -407,12 +413,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
-				description: "Converts Notion's rich text strings to Markdown. 🪢",
-				owner: "JoshuaKGoldberg",
-				repo: "notion-rich-text-to-markdown",
-				stars: 3,
-			},
-			{
 				description:
 					"Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵",
 				owner: "JoshuaKGoldberg",
@@ -431,6 +431,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Quickly removes dependencies from your package.json file. 🔪",
 				owner: "JoshuaKGoldberg",
 				repo: "remove-dependencies",
+				stars: 3,
+			},
+			{
+				description:
+					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-erasable-syntax-only",
 				stars: 3,
 			},
 			{

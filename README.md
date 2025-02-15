@@ -58,11 +58,17 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 			</td>
 			<td >
+				<a href="https://github.com/ad1992">
+					<img alt="Aakansha Doshi" height="50px" src="https://github.com/ad1992.png?size=50" width="50px" />
+				</a>
 				<a href="https://github.com/bdav">
 					<img alt="Beau Davenport" height="50px" src="https://github.com/bdav.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/FarazPatankar">
 					<img alt="Faraz Patankar" height="50px" src="https://github.com/FarazPatankar.png?size=50" width="50px" />
+				</a>
+				<a href="https://github.com/haydenmc">
+					<img alt="Hayden McAfee" height="50px" src="https://github.com/haydenmc.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/IanVS">
 					<img alt="Ian VanSchooten" height="50px" src="https://github.com/IanVS.png?size=50" width="50px" />
@@ -79,14 +85,8 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/KernelGamut32">
 					<img alt="Allen Sanders" height="50px" src="https://github.com/KernelGamut32.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/kienankb">
-					<img alt="kienan" height="50px" src="https://github.com/kienankb.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/kitsonk">
 					<img alt="Kitson Kelly" height="50px" src="https://github.com/kitsonk.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/rtbenfield">
-					<img alt="Tyler Benfield" height="50px" src="https://github.com/rtbenfield.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/rwaskiewicz">
 					<img alt="Ryan Waskiewicz" height="50px" src="https://github.com/rwaskiewicz.png?size=50" width="50px" />
@@ -388,6 +388,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
+			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
@@ -398,12 +404,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
-			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/debug-for-file">debug-for-file</a></th>
@@ -454,6 +454,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
+			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
 			<td>Parses co-authors from Git/GitHub-style commit messages. ✍️</td>
 			<td>Creator & maintainer</td>
@@ -490,12 +496,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: co-author-to-username" src="https://img.shields.io/github/stars/JoshuaKGoldberg/co-author-to-username" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
-			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/object-strings-deep">object-strings-deep</a></th>
 			<td>Retrieves all strings with an object, including keys, properties, recursive objects, and within arrays. 🧵</td>
 			<td>Creator & maintainer</td>
@@ -512,6 +512,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Quickly removes dependencies from your package.json file. 🔪</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only">eslint-plugin-erasable-syntax-only</a></th>
+			<td>ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: eslint-plugin-erasable-syntax-only" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
