@@ -57,7 +57,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					Site: "https://create.bingo",
 				},
 				owner: "JoshuaKGoldberg",
-				repo: "create",
+				repo: "Bingo",
 				stars: 47,
 			},
 		],
@@ -214,6 +214,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-plugin-erasable-syntax-only",
+				stars: 31,
+			},
+			{
+				description:
 					"Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
@@ -256,13 +263,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a semantic release should be run for a repository. 💂",
-				owner: "JoshuaKGoldberg",
-				repo: "should-semantic-release",
-				stars: 13,
-			},
-			{
-				description:
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
@@ -273,6 +273,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-fix-utils",
 				stars: 14,
+			},
+			{
+				description:
+					"Checks whether a semantic release should be run for a repository. 💂",
+				owner: "JoshuaKGoldberg",
+				repo: "should-semantic-release",
+				stars: 13,
 			},
 			{
 				description: "Creates and caches values under keys. 🏭",
@@ -432,13 +439,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "remove-dependencies",
 				stars: 3,
-			},
-			{
-				description:
-					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 31,
 			},
 			{
 				description:

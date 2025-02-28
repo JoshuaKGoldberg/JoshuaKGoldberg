@@ -174,10 +174,10 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/create">create</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Bingo">Bingo</a></th>
 			<td>Delightful templates for web repositories. 💝</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: create" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create" /></td>
+			<td><img alt="Stars: Bingo" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Bingo" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -322,6 +322,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: prettier-plugin-curly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-curly" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only">eslint-plugin-erasable-syntax-only</a></th>
+			<td>ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: eslint-plugin-erasable-syntax-only" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
 			<td>Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨</td>
 			<td>Creator & maintainer</td>
@@ -358,12 +364,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
-			<td>Checks whether a semantic release should be run for a repository. 💂</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
 			<td>Fills in missing allcontributors entries for a repository. 👪</td>
 			<td>Creator & maintainer</td>
@@ -374,6 +374,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
+			<td>Checks whether a semantic release should be run for a repository. 💂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
@@ -512,12 +518,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Quickly removes dependencies from your package.json file. 🔪</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only">eslint-plugin-erasable-syntax-only</a></th>
-			<td>ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: eslint-plugin-erasable-syntax-only" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
