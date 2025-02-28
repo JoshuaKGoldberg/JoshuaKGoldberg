@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.11](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.10...0.15.11) (2025-02-28)
+
+### Bug Fixes
+
+- rename create to Bingo ([36bb421](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/36bb421a32b39027c8ebc68b0012fee8449ec75a))
+
 ## [0.15.10](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.9...0.15.10) (2025-02-15)
 
 ### Bug Fixes
