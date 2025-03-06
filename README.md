@@ -306,7 +306,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
 			<td>Tools to validate package.json files</td>
-			<td>Creator & maintainer</td>
+			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
 		</tr>
 		<tr>
@@ -454,16 +454,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
 			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
+			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>

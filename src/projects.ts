@@ -196,6 +196,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Tools to validate package.json files",
 				owner: "JoshuaKGoldberg",
 				repo: "package.json-validator",
+				role: "Adoptive maintainer",
 				stars: 107,
 			},
 			{
@@ -367,17 +368,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 6,
 			},
 			{
+				description: "Converts Notion's rich text strings to Markdown. 🪢",
+				owner: "JoshuaKGoldberg",
+				repo: "notion-rich-text-to-markdown",
+				stars: 6,
+			},
+			{
 				description:
 					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
 				stars: 5,
-			},
-			{
-				description: "Converts Notion's rich text strings to Markdown. 🪢",
-				owner: "JoshuaKGoldberg",
-				repo: "notion-rich-text-to-markdown",
-				stars: 6,
 			},
 			{
 				description:
