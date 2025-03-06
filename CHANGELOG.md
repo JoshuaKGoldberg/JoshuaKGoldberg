@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.15.12](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.11...0.15.12) (2025-03-06)
+
+### Bug Fixes
+
+- corrected package.json-validator role ([d5a5d72](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/d5a5d7218f20f5f37bb02b13e5e3ef0abd865d94))
+
 ## [0.15.11](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.10...0.15.11) (2025-02-28)
 
 ### Bug Fixes
