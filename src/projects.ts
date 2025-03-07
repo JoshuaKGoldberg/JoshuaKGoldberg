@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25654,
+				stars: 25657,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22715,
+				stars: 22714,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1271,
+				stars: 1272,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 52,
+				stars: 53,
 			},
 		],
 	},
@@ -80,7 +80,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 305,
+				stars: 306,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 989,
+				stars: 990,
 			},
 			{
 				description:
