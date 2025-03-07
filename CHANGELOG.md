@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.16.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.12...0.16.0) (2025-03-07)
+
+### Features
+
+- add new-github-repository ([8e8f96c](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/8e8f96ce2ecb7f35f25ea346a11bff1c94af3677))
+
 ## [0.15.12](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.11...0.15.12) (2025-03-06)
 
 ### Bug Fixes
