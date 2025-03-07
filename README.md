@@ -549,6 +549,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/new-github-repository">new-github-repository</a></th>
+			<td>Creates a new repository on GitHub, including waiting for initialization. 🆕</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: new-github-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/new-github-repository" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->

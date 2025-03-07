@@ -476,6 +476,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "sinon-timers-repeatable",
 				stars: 1,
 			},
+			{
+				description:
+					"Creates a new repository on GitHub, including waiting for initialization. 🆕",
+				owner: "JoshuaKGoldberg",
+				repo: "new-github-repository",
+				stars: 1,
+			},
 		],
 	},
 };
