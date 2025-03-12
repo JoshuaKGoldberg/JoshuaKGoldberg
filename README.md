@@ -555,6 +555,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: new-github-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/new-github-repository" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-default-labels">github-default-labels</a></th>
+			<td>Static export of GitHub's default labels. 🗂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->

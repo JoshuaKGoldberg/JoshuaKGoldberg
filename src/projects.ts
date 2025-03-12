@@ -483,6 +483,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "new-github-repository",
 				stars: 1,
 			},
+			{
+				description: "Static export of GitHub's default labels. 🗂",
+				owner: "JoshuaKGoldberg",
+				repo: "github-default-labels",
+				stars: 1,
+			},
 		],
 	},
 };
