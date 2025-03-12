@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.17.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.16.0...0.17.0) (2025-03-12)
+
+### Features
+
+- add github-default-labels ([a0bb9d0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a0bb9d01d008de95ed2897a548dcb59380465bea))
+
 # [0.16.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.12...0.16.0) (2025-03-07)
 
 ### Features
