@@ -296,17 +296,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
-				owner: "JoshuaKGoldberg",
-				repo: "release-it-action",
-				stars: 10,
-			},
-			{
-				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
 				stars: 11,
+			},
+			{
+				description:
+					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+				owner: "JoshuaKGoldberg",
+				repo: "release-it-action",
+				stars: 10,
 			},
 			{
 				description:
@@ -487,6 +487,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Static export of GitHub's default labels. 🗂",
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
+				stars: 1,
+			},
+			{
+				description:
+					"Evalutes the properties of an object, including functions, Promises, and their combination. 😴",
+				owner: "JoshuaKGoldberg",
+				repo: "all-properties-lazy",
 				stars: 1,
 			},
 		],
