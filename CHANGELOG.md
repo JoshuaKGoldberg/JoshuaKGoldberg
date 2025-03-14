@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.18.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.17.0...0.18.0) (2025-03-14)
+
+### Features
+
+- add all-properties-lazy ([a38d7c0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a38d7c0b7011763cdc0a5a67854d6ec4f936466f))
+
 # [0.17.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.16.0...0.17.0) (2025-03-12)
 
 ### Features
