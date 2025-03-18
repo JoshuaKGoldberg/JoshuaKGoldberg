@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25685,
+				stars: 25696,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22720,
+				stars: 22719,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15598,
+				stars: 15604,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2124,
+				stars: 2127,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1278,
+				stars: 1281,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -87,7 +87,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Unofficial static export of emoji technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
-				stars: 16,
+				stars: 17,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 992,
+				stars: 993,
 			},
 			{
 				description:
@@ -464,6 +464,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Evalutes the properties of an object, including functions, Promises, and their combination. 😴",
+				owner: "JoshuaKGoldberg",
+				repo: "all-properties-lazy",
+				stars: 2,
+			},
+			{
+				description:
 					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
 				owner: "JoshuaKGoldberg",
 				repo: "set-github-repository-labels",
@@ -487,13 +494,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Static export of GitHub's default labels. 🗂",
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
-				stars: 1,
-			},
-			{
-				description:
-					"Evalutes the properties of an object, including functions, Promises, and their combination. 😴",
-				owner: "JoshuaKGoldberg",
-				repo: "all-properties-lazy",
 				stars: 1,
 			},
 		],

@@ -5,11 +5,9 @@ Fun fact: the entirety of this README.md is auto-generated!
 See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
 -->
 
+[![Email Me](https://img.shields.io/badge/Email-github@joshuakgoldberg.com-007735.svg)](mailto:me@joshuakgoldberg.com)
 [![Follow on Bluesky](https://img.shields.io/badge/Follow-Bluesky-3B82F6.svg)](https://bsky.app/profile/joshuakgoldberg.com)
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/JoshuaKGoldberg)
-
-[![Email Me](https://img.shields.io/badge/Email-github@joshuakgoldberg.com-007735.svg)](mailto:me@joshuakgoldberg.com)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
 I'm an independent full time open source developer.
@@ -537,6 +535,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-inferred" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-properties-lazy">all-properties-lazy</a></th>
+			<td>Evalutes the properties of an object, including functions, Promises, and their combination. 😴</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-properties-lazy" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-properties-lazy" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
@@ -559,12 +563,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-properties-lazy">all-properties-lazy</a></th>
-			<td>Evalutes the properties of an object, including functions, Promises, and their combination. 😴</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-properties-lazy" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-properties-lazy" /></td>
 		</tr>
 	</tbody>
 </table>
