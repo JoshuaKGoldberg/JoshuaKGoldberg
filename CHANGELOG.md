@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.18.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.18.0...0.18.1) (2025-03-18)
+
+### Bug Fixes
+
+- fully remove twitter, youtube ([b928ed9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b928ed907314b26ac6adac9a61bff21147978674))
+
 # [0.18.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.17.0...0.18.0) (2025-03-14)
 
 ### Features
