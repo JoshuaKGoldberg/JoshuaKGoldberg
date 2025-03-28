@@ -385,16 +385,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
-			<td>Imports a local package or one installed from npx. 🚚</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
+			<td>Imports a local package or one installed from npx. 🚚</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
@@ -563,6 +563,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
+			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
 		</tr>
 	</tbody>
 </table>

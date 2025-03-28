@@ -289,17 +289,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 12,
 			},
 			{
-				description: "Imports a local package or one installed from npx. 🚚",
-				owner: "JoshuaKGoldberg",
-				repo: "import-local-or-npx",
-				stars: 11,
-			},
-			{
 				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
 				stars: 12,
+			},
+			{
+				description: "Imports a local package or one installed from npx. 🚚",
+				owner: "JoshuaKGoldberg",
+				repo: "import-local-or-npx",
+				stars: 11,
 			},
 			{
 				description:
@@ -495,6 +495,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
 				stars: 1,
+			},
+			{
+				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
+				owner: "JoshuaKGoldberg",
+				repo: "zod-tsconfig",
+				stars: 2,
 			},
 		],
 	},
