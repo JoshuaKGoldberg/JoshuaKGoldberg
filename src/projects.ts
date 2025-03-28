@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25696,
+				stars: 25735,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22719,
+				stars: 22729,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15604,
+				stars: 15622,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2127,
+				stars: 2131,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1281,
+				stars: 1289,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 60,
+				stars: 61,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1334,
+				stars: 1335,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -80,11 +80,11 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 310,
+				stars: 311,
 			},
 			{
 				description:
-					"Unofficial static export of emoji technical information from Emojipedia. 📙",
+					"Unofficial static export of technical information from Emojipedia. 📙",
 				owner: "JoshuaKGoldberg",
 				repo: "emojipedia",
 				stars: 17,
@@ -110,7 +110,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2980,
+				stars: 2982,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 993,
+				stars: 1000,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 159,
+				stars: 161,
 			},
 			{
 				description:
@@ -204,7 +204,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 94,
+				stars: 97,
 			},
 			{
 				description:
@@ -218,7 +218,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 37,
+				stars: 39,
 			},
 			{
 				description:
@@ -232,7 +232,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Formats your code with whatever formatter your project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 28,
+				stars: 29,
 			},
 			{
 				description:
@@ -299,7 +299,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 11,
+				stars: 12,
 			},
 			{
 				description:
@@ -382,7 +382,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Parses co-authors from Git/GitHub-style commit messages. ✍️",
+					"Parses co-authors from Git/GitHub-style commit messages and issue bodies. ✍️",
 				owner: "JoshuaKGoldberg",
 				repo: "description-to-co-authors",
 				stars: 4,

@@ -208,7 +208,7 @@ These projects will help you add emoji delighters to your page quickly.
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/emojipedia">emojipedia</a></th>
-			<td>Unofficial static export of emoji technical information from Emojipedia. 📙</td>
+			<td>Unofficial static export of technical information from Emojipedia. 📙</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: emojipedia" src="https://img.shields.io/github/stars/JoshuaKGoldberg/emojipedia" /></td>
 		</tr>
@@ -464,7 +464,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
-			<td>Parses co-authors from Git/GitHub-style commit messages. ✍️</td>
+			<td>Parses co-authors from Git/GitHub-style commit messages and issue bodies. ✍️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: description-to-co-authors" src="https://img.shields.io/github/stars/JoshuaKGoldberg/description-to-co-authors" /></td>
 		</tr>
