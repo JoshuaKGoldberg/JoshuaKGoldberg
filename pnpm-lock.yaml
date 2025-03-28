@@ -29,7 +29,7 @@ importers:
         version: 22.13.10
       '@vitest/coverage-v8':
         specifier: ^3.0.4
-        version: 3.0.8(vitest@3.0.8(@types/debug@4.1.12)(@types/node@22.13.10)(jiti@2.4.2)(tsx@4.19.3)(yaml@2.7.0))
+        version: 3.0.9(vitest@3.0.8(@types/debug@4.1.12)(@types/node@22.13.10)(jiti@2.4.2)(tsx@4.19.3)(yaml@2.7.0))
       '@vitest/eslint-plugin':
         specifier: ^1.1.25
         version: 1.1.37(@typescript-eslint/utils@8.26.1(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2))(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2)(vitest@3.0.8(@types/debug@4.1.12)(@types/node@22.13.10)(jiti@2.4.2)(tsx@4.19.3)(yaml@2.7.0))
@@ -155,8 +155,8 @@ packages:
     resolution: {integrity: sha512-Ed61U6XJc3CVRfkERJWDz4dJwKe7iLmmJsbOGu9wSloNSFttHV0I8g6UAgb7qnK5ly5bGLPd4oXZlxCdANBOWQ==}
     engines: {node: '>=6.9.0'}
 
-  '@babel/parser@7.26.9':
-    resolution: {integrity: sha512-81NWa1njQblgZbQHxWHpxxCzNsa3ZwvFqpUg7P+NNUU6f3UU2jBEg4OlF/J6rl8+PQGh1q6/zWScd001YwcA5A==}
+  '@babel/parser@7.27.0':
+    resolution: {integrity: sha512-iaepho73/2Pz7w2eMS0Q5f83+0RKI7i4xmiYeBmDzfRVbQtTOG7Ts0S4HzJVsTMGI9keU8rNfuZr8DKfSt7Yyg==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -168,8 +168,8 @@ packages:
     resolution: {integrity: sha512-ZYW7L+pL8ahU5fXmNbPF+iZFHCv5scFak7MZ9bwaRPLUhHh7QQEMjZUg0HevihoqCM5iSYHN61EyCoZvqC+bxg==}
     engines: {node: '>=6.9.0'}
 
-  '@babel/types@7.26.9':
-    resolution: {integrity: sha512-Y3IR1cRnOxOCDvMmNiym7XpXQ93iGDDPHx+Zj+NM+rg0fBaShfQLkg+hKPaZCEvg5N/LeCo4+Rj/i3FuJsIQaw==}
+  '@babel/types@7.27.0':
+    resolution: {integrity: sha512-H45s8fVLYjbhFH62dIJ3WtmJ6RSPt/3DRO0ZcT2SUiYiQyz3BLVb9ADEnLl91m74aQPS3AzzeajZHYOalWe3bg==}
     engines: {node: '>=6.9.0'}
 
   '@bcoe/v8-coverage@1.0.2':
@@ -1172,11 +1172,11 @@ packages:
     resolution: {integrity: sha512-AjOC3zfnxd6S4Eiy3jwktJPclqhFHNyd8L6Gycf9WUPoKZpgM5PjkxY1X7uSy61xVpiJDhhk7XT2NVsN3ALTWg==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@vitest/coverage-v8@3.0.8':
-    resolution: {integrity: sha512-y7SAKsQirsEJ2F8bulBck4DoluhI2EEgTimHd6EEUgJBGKy9tC25cpywh1MH4FvDGoG2Unt7+asVd1kj4qOSAw==}
+  '@vitest/coverage-v8@3.0.9':
+    resolution: {integrity: sha512-15OACZcBtQ34keIEn19JYTVuMFTlFrClclwWjHo/IRPg/8ELpkgNTl0o7WLP9WO9XGH6+tip9CPYtEOrIDJvBA==}
     peerDependencies:
-      '@vitest/browser': 3.0.8
-      vitest: 3.0.8
+      '@vitest/browser': 3.0.9
+      vitest: 3.0.9
     peerDependenciesMeta:
       '@vitest/browser':
         optional: true
@@ -3694,8 +3694,8 @@ snapshots:
 
   '@babel/generator@7.26.9':
     dependencies:
-      '@babel/parser': 7.26.9
-      '@babel/types': 7.26.9
+      '@babel/parser': 7.27.0
+      '@babel/types': 7.27.0
       '@jridgewell/gen-mapping': 0.3.8
       '@jridgewell/trace-mapping': 0.3.25
       jsesc: 3.1.0
@@ -3704,29 +3704,29 @@ snapshots:
 
   '@babel/helper-validator-identifier@7.25.9': {}
 
-  '@babel/parser@7.26.9':
+  '@babel/parser@7.27.0':
     dependencies:
-      '@babel/types': 7.26.9
+      '@babel/types': 7.27.0
 
   '@babel/template@7.26.9':
     dependencies:
       '@babel/code-frame': 7.26.2
-      '@babel/parser': 7.26.9
-      '@babel/types': 7.26.9
+      '@babel/parser': 7.27.0
+      '@babel/types': 7.27.0
 
   '@babel/traverse@7.26.9':
     dependencies:
       '@babel/code-frame': 7.26.2
       '@babel/generator': 7.26.9
-      '@babel/parser': 7.26.9
+      '@babel/parser': 7.27.0
       '@babel/template': 7.26.9
-      '@babel/types': 7.26.9
+      '@babel/types': 7.27.0
       debug: 4.4.0
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
 
-  '@babel/types@7.26.9':
+  '@babel/types@7.27.0':
     dependencies:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
@@ -4670,7 +4670,7 @@ snapshots:
       '@typescript-eslint/types': 8.26.1
       eslint-visitor-keys: 4.2.0
 
-  '@vitest/coverage-v8@3.0.8(vitest@3.0.8(@types/debug@4.1.12)(@types/node@22.13.10)(jiti@2.4.2)(tsx@4.19.3)(yaml@2.7.0))':
+  '@vitest/coverage-v8@3.0.9(vitest@3.0.8(@types/debug@4.1.12)(@types/node@22.13.10)(jiti@2.4.2)(tsx@4.19.3)(yaml@2.7.0))':
     dependencies:
       '@ampproject/remapping': 2.3.0
       '@bcoe/v8-coverage': 1.0.2
@@ -6121,8 +6121,8 @@ snapshots:
 
   magicast@0.3.5:
     dependencies:
-      '@babel/parser': 7.26.9
-      '@babel/types': 7.26.9
+      '@babel/parser': 7.27.0
+      '@babel/types': 7.27.0
       source-map-js: 1.2.1
 
   make-dir@4.0.0:
@@ -6655,7 +6655,7 @@ snapshots:
   prettier-plugin-curly@0.3.1(prettier@3.5.3):
     dependencies:
       '@babel/generator': 7.26.9
-      '@babel/parser': 7.26.9
+      '@babel/parser': 7.27.0
       '@babel/traverse': 7.26.9
       prettier: 3.5.3
     transitivePeerDependencies:
