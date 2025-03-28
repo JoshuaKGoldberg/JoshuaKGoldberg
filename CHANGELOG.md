@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.19.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.18.1...0.19.0) (2025-03-28)
+
+### Features
+
+- add zod-tsconfig ([de53c92](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/de53c923b1afdf81446d99e600c672662801c7e8))
+
 ## [0.18.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.18.0...0.18.1) (2025-03-18)
 
 ### Bug Fixes
