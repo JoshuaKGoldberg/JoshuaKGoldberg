@@ -70,10 +70,10 @@ importers:
         specifier: 1.17.0
         version: 1.17.0(eslint@9.22.0(jiti@2.4.2))
       get-github-auth-token:
-        specifier: ^0.1.1
+        specifier: 0.1.1
         version: 0.1.1
       github-sponsors-to-markdown:
-        specifier: ^0.2.1
+        specifier: 0.2.1
         version: 0.2.1
       husky:
         specifier: 9.1.7
@@ -91,10 +91,10 @@ importers:
         specifier: 0.44.0
         version: 0.44.0
       node-emoji:
-        specifier: ^2.2.0
+        specifier: 2.2.0
         version: 2.2.0
       octokit:
-        specifier: ^4.1.0
+        specifier: 4.1.2
         version: 4.1.2
       prettier:
         specifier: 3.5.3
@@ -118,7 +118,7 @@ importers:
         specifier: 8.4.0
         version: 8.4.0(jiti@2.4.2)(postcss@8.5.3)(tsx@4.19.3)(typescript@5.8.2)(yaml@2.7.0)
       tsx:
-        specifier: ^4.19.2
+        specifier: 4.19.3
         version: 4.19.3
       typescript:
         specifier: 5.8.2
