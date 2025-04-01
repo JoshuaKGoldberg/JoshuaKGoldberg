@@ -3,7 +3,7 @@
 After [forking the repo from GitHub](https://help.github.com/articles/fork-a-repo) and [installing pnpm](https://pnpm.io/installation):
 
 ```shell
-git clone https://github.com/<your-name-here>/JoshuaKGoldberg
+git clone https://github.com/(your-name-here)/JoshuaKGoldberg
 cd JoshuaKGoldberg
 pnpm install
 ```
@@ -25,25 +25,11 @@ Add `--watch` to run the builder in a watch mode that continuously cleans and re
 pnpm build --watch
 ```
 
-### Building README.md
+### Built App Debugging
 
-Once source files are built, you can then build the README.md with:
-
-```shell
-pnpm projects:generate
-```
-
-Doing so will update `src/projects.ts` with their latest data, then re-write the README.md tables with that data.
-
-### Building New Projects
-
-To add a new project to the list in `src/projects.ts`, run:
-
-```shell
-pnpm projects:add any-number-of-repo-names
-```
-
-Then re-run `projects:generate` to populate data and re-write README.md tables.
+This repository includes a [VS Code launch configuration](https://code.visualstudio.com/docs/editor/debugging) for debugging.
+To debug a `bin` app, add a breakpoint to your code, then run _Debug Program_ from the VS Code Debug panel (or press F5).
+VS Code will automatically run the `build` task in the background before running `bin/joshuakgoldberg.js`.
 
 ## Formatting
 
@@ -64,7 +50,6 @@ Each should be shown in VS Code, and can be run manually on the command-line:
 - `pnpm lint` ([ESLint](https://eslint.org) with [typescript-eslint](https://typescript-eslint.io)): Lints JavaScript and TypeScript source files
 - `pnpm lint:knip` ([knip](https://github.com/webpro/knip)): Detects unused files, dependencies, and code exports
 - `pnpm lint:md` ([Markdownlint](https://github.com/DavidAnson/markdownlint)): Checks Markdown source files
-- `pnpm lint:package-json` ([npm-package-json-lint](https://npmpackagejsonlint.org/)): Lints the `package.json` file
 - `pnpm lint:packages` ([pnpm dedupe --check](https://pnpm.io/cli/dedupe)): Checks for unnecessarily duplicated packages in the `pnpm-lock.yml` file
 - `pnpm lint:spelling` ([cspell](https://cspell.org)): Spell checks across all source files
 
@@ -75,6 +60,8 @@ For example, ESLint can be run with `--fix` to auto-fix some lint rule complaint
 ```shell
 pnpm run lint --fix
 ```
+
+Note that you'll need to run `pnpm build` before `pnpm lint` so that lint rules which check the file system can pick up on any built files.
 
 ## Testing
 
