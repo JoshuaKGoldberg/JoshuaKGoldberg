@@ -320,7 +320,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only">eslint-plugin-erasable-syntax-only</a></th>
-			<td>ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎</td>
+			<td>ESLint plugin to granularly enforce TypeScript's `erasableSyntaxOnly` flag. ❎</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: eslint-plugin-erasable-syntax-only" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only" /></td>
 		</tr>
@@ -541,6 +541,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-properties-lazy" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-properties-lazy" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
+			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
@@ -563,12 +569,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
-			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
 		</tr>
 	</tbody>
 </table>

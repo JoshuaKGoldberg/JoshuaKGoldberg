@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25735,
+				stars: 25751,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22729,
+				stars: 22734,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15622,
+				stars: 15629,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2131,
+				stars: 2130,
 			},
 			{
 				description:
@@ -80,7 +80,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 311,
+				stars: 313,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1000,
+				stars: 1001,
 			},
 			{
 				description:
@@ -215,10 +215,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
+					"ESLint plugin to granularly enforce TypeScript's `erasableSyntaxOnly` flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 39,
+				stars: 40,
 			},
 			{
 				description:
@@ -267,7 +267,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 14,
+				stars: 15,
 			},
 			{
 				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
@@ -470,6 +470,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 2,
 			},
 			{
+				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
+				owner: "JoshuaKGoldberg",
+				repo: "zod-tsconfig",
+				stars: 2,
+			},
+			{
 				description:
 					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
 				owner: "JoshuaKGoldberg",
@@ -495,12 +501,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
 				stars: 1,
-			},
-			{
-				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
-				owner: "JoshuaKGoldberg",
-				repo: "zod-tsconfig",
-				stars: 2,
 			},
 		],
 	},
