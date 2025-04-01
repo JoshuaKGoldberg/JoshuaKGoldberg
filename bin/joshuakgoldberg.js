@@ -1,7 +1,9 @@
 #!/usr/bin/env node
+// eslint-disable-next-line @eslint-community/eslint-comments/disable-enable-pair
+/* eslint-disable jsdoc/check-types, jsdoc/no-types */
 import chalk from "chalk";
 
-const socialRows = [
+const socialRows = /** @type {const} */ ([
 	[
 		"#0085ff",
 		"⛅️",
@@ -12,7 +14,7 @@ const socialRows = [
 	["#6cc644", "🐙", "GitHub  ", "https://github.com/JoshuaKGoldberg", 3],
 	["#6364ff", "🐘", "Mastodon", "https://fosstodon.org/@JoshuaKGoldberg", 3],
 	["#1170d0", "🌐", "www     ", "https://joshuakgoldberg.com", 3],
-];
+]);
 
 const longestLink = socialRows.reduce(
 	(max, row) => Math.max(max, row[3].length),
@@ -58,6 +60,13 @@ drawTable({
 	width: 87,
 });
 
+/**
+ * @param {Object} settings
+ * @param {string} settings.footer
+ * @param {string} settings.header
+ * @param {{ extra: number, text: string }[]} settings.rows
+ * @param {number} settings.width
+ */
 function drawTable({ footer, header, rows, width }) {
 	const totalLines = rows.length + 12;
 	let drawnLines = 0;
@@ -77,6 +86,9 @@ function drawTable({ footer, header, rows, width }) {
 	drawLine("│", "│", " ", width, "");
 	drawOverlay(`└`, `┘`, footer, 10);
 
+	/**
+	 * @param {number} value
+	 */
 	function hexPercentage(value) {
 		return Math.max(Math.min(value, 0.95), 0)
 			.toString(16)
@@ -85,6 +97,12 @@ function drawTable({ footer, header, rows, width }) {
 			.slice(0, 2);
 	}
 
+	/**
+	 * @param {string} before
+	 * @param {string} after
+	 * @param {string} horizontal
+	 * @param {number} padding
+	 */
 	function drawLine(before, after, horizontal, padding, text = "") {
 		const colorize = chalk.hex(
 			[
@@ -106,6 +124,11 @@ function drawTable({ footer, header, rows, width }) {
 		drawnLines += 1;
 	}
 
+	/**
+	 * @param {string} before
+	 * @param {string} after
+	 * @param {string} text
+	 */
 	function drawOverlay(before, after, text, extra = 0) {
 		drawLine(before, after, "─", width - text.length + extra - 2, ` ${text} `);
 	}
