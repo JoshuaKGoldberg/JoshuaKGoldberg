@@ -42,6 +42,9 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/infosupport">
 					<img alt="Info Support" height="100px" src="https://github.com/infosupport.png?size=100" width="100px" />
 				</a>
+				<a href="https://github.com/mintlify">
+					<img alt="Mintlify" height="100px" src="https://github.com/mintlify.png?size=100" width="100px" />
+				</a>
 			</td>
 			<td >
 				<a href="https://github.com/beyang">
@@ -302,7 +305,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
-			<td>Tools to validate package.json files</td>
+			<td>Tools to validate package.json files.</td>
 			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
 		</tr>
@@ -320,13 +323,13 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only">eslint-plugin-erasable-syntax-only</a></th>
-			<td>ESLint plugin to granularly enforce TypeScript's `erasableSyntaxOnly` flag. ❎</td>
+			<td>ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: eslint-plugin-erasable-syntax-only" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
-			<td>Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨</td>
+			<td>Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
 		</tr>
@@ -344,7 +347,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
-			<td>Mocks out Redux actions and selectors for clean React Jest tests. 🎭</td>
+			<td>Mocks out Redux actions and selectors for clean React Jest tests.</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
 		</tr>
@@ -422,7 +425,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
-			<td>Finds your npm packages that are eligible for Tidelift funding. 💸</td>
+			<td>CLI that checks if your npm packages are eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: tidelift-me-up" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up" /></td>
 		</tr>
@@ -530,7 +533,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-inferred">all-contributors-inferred</a></th>
-			<td>Infers All Contributors settings from an existing README.md table. 🔄</td>
+			<td>Infers All Contributors settings from an existing README.md table and package.json. 💗</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-inferred" /></td>
 		</tr>

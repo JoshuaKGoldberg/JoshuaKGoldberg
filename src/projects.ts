@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25751,
+				stars: 25821,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22734,
+				stars: 22749,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15629,
+				stars: 15667,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2130,
+				stars: 2141,
 			},
 			{
 				description:
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 61,
+				stars: 85,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1335,
+				stars: 1338,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -80,7 +80,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 313,
+				stars: 315,
 			},
 			{
 				description:
@@ -110,7 +110,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2982,
+				stars: 2979,
 			},
 			{
 				description:
@@ -125,7 +125,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 79,
+				stars: 80,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1001,
+				stars: 1007,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 161,
+				stars: 163,
 			},
 			{
 				description:
@@ -190,10 +190,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 114,
+				stars: 115,
 			},
 			{
-				description: "Tools to validate package.json files",
+				description: "Tools to validate package.json files.",
 				owner: "JoshuaKGoldberg",
 				repo: "package.json-validator",
 				role: "Adoptive maintainer",
@@ -204,25 +204,25 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 97,
+				stars: 98,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 56,
+				stars: 57,
 			},
 			{
 				description:
-					"ESLint plugin to granularly enforce TypeScript's `erasableSyntaxOnly` flag. ❎",
+					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
 				stars: 40,
 			},
 			{
 				description:
-					"Chrome extension for GitHub's Saved Replies that adds replies from a repository's `.github/replies.yml`. 📨",
+					"Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
 				stars: 30,
@@ -243,7 +243,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Mocks out Redux actions and selectors for clean React Jest tests. 🎭",
+					"Mocks out Redux actions and selectors for clean React Jest tests.",
 				owner: "JoshuaKGoldberg",
 				repo: "mock-react-redux",
 				stars: 20,
@@ -293,13 +293,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 12,
+				stars: 13,
 			},
 			{
 				description: "Imports a local package or one installed from npx. 🚚",
 				owner: "JoshuaKGoldberg",
 				repo: "import-local-or-npx",
-				stars: 11,
+				stars: 12,
 			},
 			{
 				description:
@@ -330,11 +330,11 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
-				stars: 8,
+				stars: 9,
 			},
 			{
 				description:
-					"Finds your npm packages that are eligible for Tidelift funding. 💸",
+					"CLI that checks if your npm packages are eligible for Tidelift funding. 💸",
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up",
 				stars: 8,
@@ -457,7 +457,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Infers All Contributors settings from an existing README.md table. 🔄",
+					"Infers All Contributors settings from an existing README.md table and package.json. 💗",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-inferred",
 				stars: 2,
@@ -473,7 +473,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
 				owner: "JoshuaKGoldberg",
 				repo: "zod-tsconfig",
-				stars: 2,
+				stars: 3,
 			},
 			{
 				description:
