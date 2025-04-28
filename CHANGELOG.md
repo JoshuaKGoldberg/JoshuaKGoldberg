@@ -1,5 +1,19 @@
 # Changelog
 
+# [0.20.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.19.0...0.20.0) (2025-04-28)
+
+### Bug Fixes
+
+- --exclude-readme, and correct package.json name ([306d8f2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/306d8f2c0f53bee398f512766582502c0294b53f))
+- bump to create-typescript-app@2 with transitions action ([#406](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/406)) ([96920c0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/96920c02ed19157304e3d07a0f283f9000515332)), closes [#402](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/402)
+- projects:generate ([7723007](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/772300729a0e9318ef5c5a6465fffee2c1e98432))
+- ran projects:generate ([1f53b78](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/1f53b787136d6a6f3cd1073f2b96cd0b38478abe))
+- ran projects:generate ([e8d1cea](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e8d1cea58f9050742a56aea49fd67942f5ecccb7))
+
+### Features
+
+- add OctoGuide ([66024b9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/66024b99d43376268b2935e0dba732ca0a29a7ed))
+
 # [0.19.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.18.1...0.19.0) (2025-03-28)
 
 ### Features
