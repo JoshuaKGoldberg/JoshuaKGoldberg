@@ -328,16 +328,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-erasable-syntax-only" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
-			<td>Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/formatly">formatly</a></th>
 			<td>Formats your code with whatever formatter your project is already using. 🧼</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: formatly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
+			<td>Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
@@ -400,16 +400,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
-			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
+			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
+			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
 			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/release-it-action">release-it-action</a></th>
+			<td>Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
@@ -460,16 +466,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
-			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
 			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
+			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
@@ -514,12 +520,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: object-strings-deep" src="https://img.shields.io/github/stars/JoshuaKGoldberg/object-strings-deep" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
-			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/remove-dependencies">remove-dependencies</a></th>
 			<td>Quickly removes dependencies from your package.json file. 🔪</td>
 			<td>Creator & maintainer</td>
@@ -556,6 +556,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-properties-lazy" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-properties-lazy" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/is-comment-meaningless">is-comment-meaningless</a></th>
+			<td>Determines whether the text of a comment doesn't add anything to the conversation. 😶</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: is-comment-meaningless" src="https://img.shields.io/github/stars/JoshuaKGoldberg/is-comment-meaningless" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
@@ -578,12 +584,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/is-comment-meaningless">is-comment-meaningless</a></th>
-			<td>Determines whether the text of a comment doesn't add anything to the conversation. 😶</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: is-comment-meaningless" src="https://img.shields.io/github/stars/JoshuaKGoldberg/is-comment-meaningless" /></td>
 		</tr>
 	</tbody>
 </table>

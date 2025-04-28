@@ -222,17 +222,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨",
-				owner: "JoshuaKGoldberg",
-				repo: "refined-saved-replies",
-				stars: 30,
-			},
-			{
-				description:
 					"Formats your code with whatever formatter your project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
 				stars: 31,
+			},
+			{
+				description:
+					"Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨",
+				owner: "JoshuaKGoldberg",
+				repo: "refined-saved-replies",
+				stars: 30,
 			},
 			{
 				description:
@@ -303,10 +303,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
 				owner: "JoshuaKGoldberg",
-				repo: "release-it-action",
-				stars: 10,
+				repo: "OctoGuide",
+				stars: 12,
 			},
 			{
 				description:
@@ -314,6 +314,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
 				stars: 11,
+			},
+			{
+				description:
+					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
+				owner: "JoshuaKGoldberg",
+				repo: "release-it-action",
+				stars: 10,
 			},
 			{
 				description:
@@ -375,16 +382,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
-				owner: "JoshuaKGoldberg",
-				repo: "OctoGuide",
-				stars: 12,
-			},
-			{
-				description:
 					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
+				stars: 5,
+			},
+			{
+				description:
+					"Populates your cspell.json dictionary with existing unknown words. 🔖",
+				owner: "JoshuaKGoldberg",
+				repo: "cspell-populate-words",
 				stars: 5,
 			},
 			{
@@ -436,13 +443,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Populates your cspell.json dictionary with existing unknown words. 🔖",
-				owner: "JoshuaKGoldberg",
-				repo: "cspell-populate-words",
-				stars: 5,
-			},
-			{
-				description:
 					"Quickly removes dependencies from your package.json file. 🔪",
 				owner: "JoshuaKGoldberg",
 				repo: "remove-dependencies",
@@ -484,6 +484,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Determines whether the text of a comment doesn't add anything to the conversation. 😶",
+				owner: "JoshuaKGoldberg",
+				repo: "is-comment-meaningless",
+				stars: 2,
+			},
+			{
+				description:
 					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
 				owner: "JoshuaKGoldberg",
 				repo: "set-github-repository-labels",
@@ -508,13 +515,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
 				stars: 1,
-			},
-			{
-				description:
-					"Determines whether the text of a comment doesn't add anything to the conversation. 😶",
-				owner: "JoshuaKGoldberg",
-				repo: "is-comment-meaningless",
-				stars: 2,
 			},
 		],
 	},
