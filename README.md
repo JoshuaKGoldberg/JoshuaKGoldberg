@@ -382,16 +382,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
-			<td>Creates and caches values under keys. 🏭</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
+			<td>Creates and caches values under keys. 🏭</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cached-factory" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cached-factory" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/import-local-or-npx">import-local-or-npx</a></th>
@@ -406,6 +406,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
+			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
 			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
 			<td>Creator & maintainer</td>
@@ -416,12 +422,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>debug() wrapper that creates a string based on your file's path within the package. 🧶</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: debug-for-file" src="https://img.shields.io/github/stars/JoshuaKGoldberg/debug-for-file" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
-			<td>Checks whether a documentation description introduces any new information. ℹ️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: are-docs-informative" src="https://img.shields.io/github/stars/JoshuaKGoldberg/are-docs-informative" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
@@ -458,6 +458,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
+			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
@@ -520,6 +526,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
+			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
@@ -544,12 +556,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-properties-lazy" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-properties-lazy" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
-			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
@@ -572,6 +578,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/is-comment-meaningless">is-comment-meaningless</a></th>
+			<td>Determines whether the text of a comment doesn't add anything to the conversation. 😶</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: is-comment-meaningless" src="https://img.shields.io/github/stars/JoshuaKGoldberg/is-comment-meaningless" /></td>
 		</tr>
 	</tbody>
 </table>

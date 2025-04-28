@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25821,
+				stars: 25845,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22749,
+				stars: 22755,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15667,
+				stars: 15696,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2141,
+				stars: 2142,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1289,
+				stars: 1294,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 85,
+				stars: 91,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1338,
+				stars: 1339,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -80,7 +80,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 315,
+				stars: 316,
 			},
 			{
 				description:
@@ -110,7 +110,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2979,
+				stars: 2978,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1007,
+				stars: 1012,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 163,
+				stars: 164,
 			},
 			{
 				description:
@@ -218,7 +218,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 40,
+				stars: 41,
 			},
 			{
 				description:
@@ -232,7 +232,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Formats your code with whatever formatter your project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 29,
+				stars: 31,
 			},
 			{
 				description:
@@ -253,7 +253,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 18,
+				stars: 19,
 			},
 			{
 				description:
@@ -283,17 +283,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 13,
 			},
 			{
-				description: "Creates and caches values under keys. 🏭",
-				owner: "JoshuaKGoldberg",
-				repo: "cached-factory",
-				stars: 12,
-			},
-			{
 				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
 				stars: 13,
+			},
+			{
+				description: "Creates and caches values under keys. 🏭",
+				owner: "JoshuaKGoldberg",
+				repo: "cached-factory",
+				stars: 12,
 			},
 			{
 				description: "Imports a local package or one installed from npx. 🚚",
@@ -307,6 +307,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
 				stars: 10,
+			},
+			{
+				description:
+					"Checks whether a documentation description introduces any new information. ℹ️",
+				owner: "JoshuaKGoldberg",
+				repo: "are-docs-informative",
+				stars: 11,
 			},
 			{
 				description:
@@ -327,17 +334,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a documentation description introduces any new information. ℹ️",
-				owner: "JoshuaKGoldberg",
-				repo: "are-docs-informative",
-				stars: 9,
-			},
-			{
-				description:
 					"CLI that checks if your npm packages are eligible for Tidelift funding. 💸",
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up",
-				stars: 8,
+				stars: 9,
 			},
 			{
 				description:
@@ -372,6 +372,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "notion-rich-text-to-markdown",
 				stars: 6,
+			},
+			{
+				description:
+					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
+				owner: "JoshuaKGoldberg",
+				repo: "OctoGuide",
+				stars: 12,
 			},
 			{
 				description:
@@ -432,13 +439,19 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
 				repo: "cspell-populate-words",
-				stars: 3,
+				stars: 5,
 			},
 			{
 				description:
 					"Quickly removes dependencies from your package.json file. 🔪",
 				owner: "JoshuaKGoldberg",
 				repo: "remove-dependencies",
+				stars: 3,
+			},
+			{
+				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
+				owner: "JoshuaKGoldberg",
+				repo: "zod-tsconfig",
 				stars: 3,
 			},
 			{
@@ -470,12 +483,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 2,
 			},
 			{
-				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
-				owner: "JoshuaKGoldberg",
-				repo: "zod-tsconfig",
-				stars: 3,
-			},
-			{
 				description:
 					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
 				owner: "JoshuaKGoldberg",
@@ -501,6 +508,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
 				stars: 1,
+			},
+			{
+				description:
+					"Determines whether the text of a comment doesn't add anything to the conversation. 😶",
+				owner: "JoshuaKGoldberg",
+				repo: "is-comment-meaningless",
+				stars: 2,
 			},
 		],
 	},
