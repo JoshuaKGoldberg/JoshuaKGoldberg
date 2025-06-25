@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 25845,
+				stars: 26031,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22755,
+				stars: 22785,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15696,
+				stars: 15792,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2142,
+				stars: 2147,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1294,
+				stars: 1314,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 91,
+				stars: 101,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1339,
+				stars: 1345,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -110,7 +110,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2978,
+				stars: 2976,
 			},
 			{
 				description:
@@ -118,7 +118,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 221,
+				stars: 222,
 			},
 			{
 				description:
@@ -160,7 +160,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				],
 				owner: "budgielang",
 				repo: "Budgie",
-				stars: 61,
+				stars: 60,
 			},
 		],
 	},
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1012,
+				stars: 1027,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 164,
+				stars: 173,
 			},
 			{
 				description:
@@ -197,42 +197,42 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "package.json-validator",
 				role: "Adoptive maintainer",
-				stars: 107,
+				stars: 108,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 98,
+				stars: 99,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 57,
+				stars: 62,
 			},
 			{
 				description:
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 41,
+				stars: 42,
 			},
 			{
 				description:
-					"Formats your code with whatever formatter your project is already using. 🧼",
+					"Formats code with whatever formatter a project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 31,
+				stars: 36,
 			},
 			{
 				description:
 					"Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "refined-saved-replies",
-				stars: 30,
+				stars: 31,
 			},
 			{
 				description:
@@ -267,7 +267,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 15,
+				stars: 14,
 			},
 			{
 				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
@@ -287,7 +287,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 13,
+				stars: 14,
 			},
 			{
 				description: "Creates and caches values under keys. 🏭",
@@ -306,14 +306,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
 				owner: "JoshuaKGoldberg",
 				repo: "OctoGuide",
-				stars: 12,
+				stars: 26,
 			},
 			{
 				description:
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
-				stars: 11,
+				stars: 12,
 			},
 			{
 				description:
@@ -466,7 +466,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Populates the .all-contributorsrc for a repository using all-contributors-for-repository. 📋",
 				owner: "JoshuaKGoldberg",
 				repo: "populate-all-contributors-for-repository",
-				stars: 2,
+				stars: 3,
 			},
 			{
 				description:

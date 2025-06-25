@@ -42,9 +42,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/infosupport">
 					<img alt="Info Support" height="100px" src="https://github.com/infosupport.png?size=100" width="100px" />
 				</a>
-				<a href="https://github.com/mintlify">
-					<img alt="Mintlify" height="100px" src="https://github.com/mintlify.png?size=100" width="100px" />
-				</a>
 			</td>
 			<td >
 				<a href="https://github.com/beyang">
@@ -85,6 +82,9 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/KernelGamut32">
 					<img alt="Allen Sanders" height="50px" src="https://github.com/KernelGamut32.png?size=50" width="50px" />
 				</a>
+				<a href="https://github.com/KevinVandy">
+					<img alt="Kevin Van Cott" height="50px" src="https://github.com/KevinVandy.png?size=50" width="50px" />
+				</a>
 				<a href="https://github.com/kitsonk">
 					<img alt="Kitson Kelly" height="50px" src="https://github.com/kitsonk.png?size=50" width="50px" />
 				</a>
@@ -110,9 +110,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/santoshyadavdev">
 					<img alt="Santosh Yadav" height="50px" src="https://github.com/santoshyadavdev.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/sindresorhus">
-					<img alt="Sindre Sorhus" height="50px" src="https://github.com/sindresorhus.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/xavdid">
 					<img alt="David Brownman" height="50px" src="https://github.com/xavdid.png?size=50" width="50px" />
@@ -329,7 +326,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/formatly">formatly</a></th>
-			<td>Formats your code with whatever formatter your project is already using. 🧼</td>
+			<td>Formats code with whatever formatter a project is already using. 🧼</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: formatly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly" /></td>
 		</tr>
