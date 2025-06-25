@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.20.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.0...0.20.1) (2025-06-25)
+
+### Bug Fixes
+
+- pnpm projects:generate ([e0540b7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e0540b772c990b3c0e49fd8b900ccd1ca3c31b4f))
+
 # [0.20.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.19.0...0.20.0) (2025-04-28)
 
 ### Bug Fixes
