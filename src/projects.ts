@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 26031,
+				stars: 26069,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22785,
+				stars: 22795,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15792,
+				stars: 15804,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2147,
+				stars: 2144,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1314,
+				stars: 1320,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 101,
+				stars: 102,
 			},
 		],
 	},
@@ -80,7 +80,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 316,
+				stars: 318,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1027,
+				stars: 1033,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 173,
+				stars: 179,
 			},
 			{
 				description:
@@ -236,6 +236,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
+				owner: "JoshuaKGoldberg",
+				repo: "OctoGuide",
+				stars: 26,
+			},
+			{
+				description:
 					"TypeScript transformation that inlines calls to small functions. ⚡️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-function-inliner",
@@ -260,7 +267,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Fetches any public emails associated with a GitHub username. 📧",
 				owner: "JoshuaKGoldberg",
 				repo: "github-username-to-emails",
-				stars: 16,
+				stars: 17,
 			},
 			{
 				description:
@@ -277,17 +284,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Checks whether a semantic release should be run for a repository. 💂",
-				owner: "JoshuaKGoldberg",
-				repo: "should-semantic-release",
-				stars: 13,
-			},
-			{
-				description:
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
 				stars: 14,
+			},
+			{
+				description:
+					"Checks whether a semantic release should be run for a repository. 💂",
+				owner: "JoshuaKGoldberg",
+				repo: "should-semantic-release",
+				stars: 13,
 			},
 			{
 				description: "Creates and caches values under keys. 🏭",
@@ -300,13 +307,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "import-local-or-npx",
 				stars: 12,
-			},
-			{
-				description:
-					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
-				owner: "JoshuaKGoldberg",
-				repo: "OctoGuide",
-				stars: 26,
 			},
 			{
 				description:
@@ -456,17 +456,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Creates a GitHub Octokit instance from any available auth token. 🐙",
-				owner: "JoshuaKGoldberg",
-				repo: "octokit-from-auth",
-				stars: 2,
-			},
-			{
-				description:
 					"Populates the .all-contributorsrc for a repository using all-contributors-for-repository. 📋",
 				owner: "JoshuaKGoldberg",
 				repo: "populate-all-contributors-for-repository",
 				stars: 3,
+			},
+			{
+				description:
+					"Creates a GitHub Octokit instance from any available auth token. 🐙",
+				owner: "JoshuaKGoldberg",
+				repo: "octokit-from-auth",
+				stars: 2,
 			},
 			{
 				description:

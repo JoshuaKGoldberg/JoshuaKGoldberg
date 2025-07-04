@@ -337,6 +337,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
+			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
 			<td>TypeScript transformation that inlines calls to small functions. ⚡️</td>
 			<td>Creator & maintainer</td>
@@ -373,16 +379,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
-			<td>Checks whether a semantic release should be run for a repository. 💂</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
+			<td>Checks whether a semantic release should be run for a repository. 💂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
@@ -395,12 +401,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Imports a local package or one installed from npx. 🚚</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: import-local-or-npx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/import-local-or-npx" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
-			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/are-docs-informative">are-docs-informative</a></th>
@@ -529,16 +529,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
-			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: octokit-from-auth" src="https://img.shields.io/github/stars/JoshuaKGoldberg/octokit-from-auth" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/populate-all-contributors-for-repository">populate-all-contributors-for-repository</a></th>
 			<td>Populates the .all-contributorsrc for a repository using all-contributors-for-repository. 📋</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
+			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: octokit-from-auth" src="https://img.shields.io/github/stars/JoshuaKGoldberg/octokit-from-auth" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-inferred">all-contributors-inferred</a></th>
