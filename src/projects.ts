@@ -516,6 +516,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "github-default-labels",
 				stars: 1,
 			},
+			{
+				description: "Efficiently (re)-prints text into your terminal. 🖨",
+				owner: "JoshuaKGoldberg",
+				repo: "terminal-reprint",
+				stars: 1,
+			},
 		],
 	},
 };
