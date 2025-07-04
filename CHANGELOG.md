@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.20.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.2...0.20.3) (2025-07-04)
+
+### Bug Fixes
+
+- add terminal-reprint ([f29caab](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/f29caab1587202fce74f0f8f4a3a099ccd6eccdc))
+
 ## [0.20.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.1...0.20.2) (2025-07-04)
 
 ### Bug Fixes
