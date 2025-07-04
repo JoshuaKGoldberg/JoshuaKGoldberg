@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.20.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.1...0.20.2) (2025-07-04)
+
+### Bug Fixes
+
+- regenerate projects ([e30e91c](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e30e91c750a0a99ad6281dc8070be17b1bd49501))
+
 ## [0.20.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.0...0.20.1) (2025-06-25)
 
 ### Bug Fixes
