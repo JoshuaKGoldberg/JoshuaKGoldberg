@@ -522,6 +522,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "github-default-labels",
 				stars: 1,
 			},
+			{
+				description:
+					"GitHub Action that changes a pull request to draft, once. 🙆",
+				owner: "JoshuaKGoldberg",
+				repo: "draft-pr-once-action",
+				stars: 1,
+			},
 		],
 	},
 };

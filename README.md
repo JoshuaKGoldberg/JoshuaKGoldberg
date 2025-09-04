@@ -591,6 +591,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/draft-pr-once-action">draft-pr-once-action</a></th>
+			<td>GitHub Action that changes a pull request to draft, once. 🙆</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: draft-pr-once-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/draft-pr-once-action" /></td>
+		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
