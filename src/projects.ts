@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 26069,
+				stars: 26235,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22795,
+				stars: 22834,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15804,
+				stars: 15913,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2144,
+				stars: 2146,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1320,
+				stars: 1338,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 102,
+				stars: 112,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1345,
+				stars: 1346,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -118,7 +118,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 222,
+				stars: 221,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1033,
+				stars: 1075,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 179,
+				stars: 188,
 			},
 			{
 				description:
@@ -190,7 +190,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 115,
+				stars: 116,
 			},
 			{
 				description: "Tools to validate package.json files.",
@@ -204,7 +204,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 99,
+				stars: 102,
 			},
 			{
 				description:
@@ -218,14 +218,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 42,
+				stars: 43,
 			},
 			{
 				description:
 					"Formats code with whatever formatter a project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 36,
+				stars: 37,
+			},
+			{
+				description:
+					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
+				owner: "JoshuaKGoldberg",
+				repo: "OctoGuide",
+				stars: 32,
 			},
 			{
 				description:
@@ -236,17 +243,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
-				owner: "JoshuaKGoldberg",
-				repo: "OctoGuide",
-				stars: 26,
-			},
-			{
-				description:
 					"TypeScript transformation that inlines calls to small functions. ⚡️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-function-inliner",
-				stars: 22,
+				stars: 23,
 			},
 			{
 				description:
@@ -271,23 +271,23 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Contributed markdownlint rule for limiting sentences per line. 📐",
+				owner: "JoshuaKGoldberg",
+				repo: "sentences-per-line",
+				stars: 16,
+			},
+			{
+				description:
 					"Fills in missing allcontributors entries for a repository. 👪",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-auto-action",
-				stars: 14,
+				stars: 15,
 			},
 			{
 				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-fix-utils",
-				stars: 14,
-			},
-			{
-				description:
-					"Contributed markdownlint rule for limiting sentences per line. 📐",
-				owner: "JoshuaKGoldberg",
-				repo: "sentences-per-line",
-				stars: 14,
+				stars: 15,
 			},
 			{
 				description:
@@ -362,6 +362,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Web app to fetch any public emails associated with a GitHub username. 📧",
+				owner: "JoshuaKGoldberg",
+				repo: "github-username-to-emails-site",
+				stars: 7,
+			},
+			{
+				description:
 					"Retrieves the running user's GitHub authentication token. 🪙",
 				owner: "JoshuaKGoldberg",
 				repo: "get-github-auth-token",
@@ -369,29 +376,22 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Web app to fetch any public emails associated with a GitHub username. 📧",
+					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
-				repo: "github-username-to-emails-site",
+				repo: "cspell-populate-words",
 				stars: 6,
 			},
 			{
 				description: "Converts Notion's rich text strings to Markdown. 🪢",
 				owner: "JoshuaKGoldberg",
 				repo: "notion-rich-text-to-markdown",
-				stars: 6,
+				stars: 5,
 			},
 			{
 				description:
 					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
-				stars: 5,
-			},
-			{
-				description:
-					"Populates your cspell.json dictionary with existing unknown words. 🔖",
-				owner: "JoshuaKGoldberg",
-				repo: "cspell-populate-words",
 				stars: 5,
 			},
 			{
@@ -490,6 +490,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 2,
 			},
 			{
+				description: "Efficiently (re)-prints text into your terminal. 🖨",
+				owner: "JoshuaKGoldberg",
+				repo: "terminal-reprint",
+				stars: 2,
+			},
+			{
 				description:
 					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
 				owner: "JoshuaKGoldberg",
@@ -514,12 +520,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Static export of GitHub's default labels. 🗂",
 				owner: "JoshuaKGoldberg",
 				repo: "github-default-labels",
-				stars: 1,
-			},
-			{
-				description: "Efficiently (re)-prints text into your terminal. 🖨",
-				owner: "JoshuaKGoldberg",
-				repo: "terminal-reprint",
 				stars: 1,
 			},
 		],

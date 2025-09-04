@@ -50,6 +50,9 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/constituentvoice">
 					<img alt="Constituent Voice" height="75px" src="https://github.com/constituentvoice.png?size=75" width="75px" />
 				</a>
+				<a href="https://github.com/hardfist">
+					<img alt="hardfist" height="75px" src="https://github.com/hardfist.png?size=75" width="75px" />
+				</a>
 				<a href="https://github.com/Loops-so">
 					<img alt="Loops" height="75px" src="https://github.com/Loops-so.png?size=75" width="75px" />
 				</a>
@@ -70,11 +73,11 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/IanVS">
 					<img alt="Ian VanSchooten" height="50px" src="https://github.com/IanVS.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/jennjunod">
-					<img alt="Jenn Junod" height="50px" src="https://github.com/jennjunod.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/JohannesKonings">
 					<img alt="Johannes Konings" height="50px" src="https://github.com/JohannesKonings.png?size=50" width="50px" />
+				</a>
+				<a href="https://github.com/johnnyreilly">
+					<img alt="John Reilly" height="50px" src="https://github.com/johnnyreilly.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/Kamalnrf">
 					<img alt="Kamal" height="50px" src="https://github.com/Kamalnrf.png?size=50" width="50px" />
@@ -91,6 +94,9 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/rwaskiewicz">
 					<img alt="Ryan Waskiewicz" height="50px" src="https://github.com/rwaskiewicz.png?size=50" width="50px" />
 				</a>
+				<a href="https://github.com/ulrichstark">
+					<img alt="Ulrich Stark" height="50px" src="https://github.com/ulrichstark.png?size=50" width="50px" />
+				</a>
 			</td>
 			<td >
 				<a href="https://github.com/bmish">
@@ -98,9 +104,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/danfry1">
 					<img alt="Daniel Fry" height="50px" src="https://github.com/danfry1.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/johnnyreilly">
-					<img alt="John Reilly" height="50px" src="https://github.com/johnnyreilly.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/nickytonline">
 					<img alt="Nick Taylor" height="50px" src="https://github.com/nickytonline.png?size=50" width="50px" />
@@ -331,16 +334,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: formatly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
-			<td>Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
 			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
+			<td>Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
@@ -367,6 +370,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
+			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
 			<td>Fills in missing allcontributors entries for a repository. 👪</td>
 			<td>Creator & maintainer</td>
@@ -377,12 +386,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
-			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
@@ -445,16 +448,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: prune-github-notifications" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prune-github-notifications" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails-site">github-username-to-emails-site</a></th>
+			<td>Web app to fetch any public emails associated with a GitHub username. 📧</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/get-github-auth-token">get-github-auth-token</a></th>
 			<td>Retrieves the running user's GitHub authentication token. 🪙</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails-site">github-username-to-emails-site</a></th>
-			<td>Web app to fetch any public emails associated with a GitHub username. 📧</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
+			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-username-to-emails-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails-site" /></td>
+			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
@@ -467,12 +476,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
-			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
@@ -559,6 +562,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: is-comment-meaningless" src="https://img.shields.io/github/stars/JoshuaKGoldberg/is-comment-meaningless" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/terminal-reprint">terminal-reprint</a></th>
+			<td>Efficiently (re)-prints text into your terminal. 🖨</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: terminal-reprint" src="https://img.shields.io/github/stars/JoshuaKGoldberg/terminal-reprint" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>
@@ -581,12 +590,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/terminal-reprint">terminal-reprint</a></th>
-			<td>Efficiently (re)-prints text into your terminal. 🖨</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: terminal-reprint" src="https://img.shields.io/github/stars/JoshuaKGoldberg/terminal-reprint" /></td>
 		</tr>
 	</tbody>
 </table>
