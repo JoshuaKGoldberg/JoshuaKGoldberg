@@ -462,6 +462,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
+				description: "CLI to validate package.json files. 📂",
+				owner: "JoshuaKGoldberg",
+				repo: "package-json-validator-cli",
+				stars: 3,
+			},
+			{
 				description:
 					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",

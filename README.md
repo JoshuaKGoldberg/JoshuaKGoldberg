@@ -538,6 +538,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator-cli">package-json-validator-cli</a></th>
+			<td>CLI to validate package.json files. 📂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: package-json-validator-cli" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator-cli" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
