@@ -568,6 +568,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: terminal-reprint" src="https://img.shields.io/github/stars/JoshuaKGoldberg/terminal-reprint" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/wifi-share-link">wifi-share-link</a></th>
+			<td>Generates shareable WIFI:// link strings for wifi credentials. 📶</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: wifi-share-link" src="https://img.shields.io/github/stars/JoshuaKGoldberg/wifi-share-link" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
 			<td>Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️</td>
 			<td>Creator & maintainer</td>

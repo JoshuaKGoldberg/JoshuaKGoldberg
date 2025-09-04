@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22834,
+				stars: 22835,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15913,
+				stars: 15916,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1075,
+				stars: 1076,
 			},
 			{
 				description:
@@ -493,6 +493,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Efficiently (re)-prints text into your terminal. 🖨",
 				owner: "JoshuaKGoldberg",
 				repo: "terminal-reprint",
+				stars: 2,
+			},
+			{
+				description:
+					"Generates shareable WIFI:// link strings for wifi credentials. 📶",
+				owner: "JoshuaKGoldberg",
+				repo: "wifi-share-link",
 				stars: 2,
 			},
 			{
