@@ -20,11 +20,11 @@ export async function generateProjects() {
 	}
 
 	async function processProjects(projects: Project[]) {
-		projects.sort(byStars);
-
 		for (const project of projects) {
 			await processProject(project);
 		}
+
+		projects.sort(byStars);
 	}
 
 	async function processProject(project: Project) {
