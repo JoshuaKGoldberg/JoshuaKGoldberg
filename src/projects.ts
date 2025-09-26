@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 26235,
+				stars: 26510,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22835,
+				stars: 22836,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 15916,
+				stars: 15945,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2146,
+				stars: 2148,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1338,
+				stars: 1345,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 112,
+				stars: 124,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1346,
+				stars: 1348,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -80,7 +80,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 318,
+				stars: 317,
 			},
 			{
 				description:
@@ -110,7 +110,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2976,
+				stars: 2975,
 			},
 			{
 				description:
@@ -118,21 +118,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 221,
+				stars: 222,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 80,
+				stars: 81,
 			},
 			{
 				description:
 					"Choosing a modern JavaScript UI framework, Pokemon-style.",
 				owner: "JoshuaKGoldberg",
 				repo: "ChooseYourFramework",
-				stars: 69,
+				stars: 70,
 			},
 			{
 				description:
@@ -174,7 +174,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1076,
+				stars: 1092,
 			},
 			{
 				description:
@@ -182,7 +182,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 188,
+				stars: 193,
 			},
 			{
 				description:
@@ -204,7 +204,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 102,
+				stars: 104,
 			},
 			{
 				description:
@@ -218,7 +218,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 43,
+				stars: 45,
 			},
 			{
 				description:
@@ -246,7 +246,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"TypeScript transformation that inlines calls to small functions. ⚡️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-function-inliner",
-				stars: 23,
+				stars: 25,
 			},
 			{
 				description:
@@ -274,6 +274,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Contributed markdownlint rule for limiting sentences per line. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
+				stars: 17,
+			},
+			{
+				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
+				owner: "JoshuaKGoldberg",
+				repo: "eslint-fix-utils",
 				stars: 16,
 			},
 			{
@@ -284,16 +290,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 15,
 			},
 			{
-				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
-				owner: "JoshuaKGoldberg",
-				repo: "eslint-fix-utils",
-				stars: 15,
-			},
-			{
 				description:
 					"Checks whether a semantic release should be run for a repository. 💂",
 				owner: "JoshuaKGoldberg",
 				repo: "should-semantic-release",
+				stars: 13,
+			},
+			{
+				description:
+					"Generates shareable WIFI:// link strings for wifi credentials. 📶",
+				owner: "JoshuaKGoldberg",
+				repo: "wifi-share-link",
 				stars: 13,
 			},
 			{
@@ -324,6 +331,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"debug() wrapper that creates a string based on your file's path within the package. 🧶",
+				owner: "JoshuaKGoldberg",
+				repo: "debug-for-file",
+				stars: 10,
+			},
+			{
+				description:
 					"Web app to find your npm packages eligible for Tidelift funding. 💸",
 				links: {
 					Site: "https://tidelift-me-up-site.vercel.app/",
@@ -334,17 +348,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"debug() wrapper that creates a string based on your file's path within the package. 🧶",
-				owner: "JoshuaKGoldberg",
-				repo: "debug-for-file",
-				stars: 9,
-			},
-			{
-				description:
 					"CLI that checks if your npm packages are eligible for Tidelift funding. 💸",
 				owner: "JoshuaKGoldberg",
 				repo: "tidelift-me-up",
-				stars: 9,
+				stars: 8,
 			},
 			{
 				description:
@@ -379,7 +386,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
 				repo: "cspell-populate-words",
-				stars: 6,
+				stars: 5,
 			},
 			{
 				description: "Converts Notion's rich text strings to Markdown. 🪢",
@@ -392,6 +399,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Creates a Markdown table summarizing your GitHub sponsors. 💰",
 				owner: "JoshuaKGoldberg",
 				repo: "github-sponsors-to-markdown",
+				stars: 5,
+			},
+			{
+				description: "CLI to validate package.json files. 📂",
+				owner: "JoshuaKGoldberg",
+				repo: "package-json-validator-cli",
 				stars: 5,
 			},
 			{
@@ -462,12 +475,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 3,
 			},
 			{
-				description: "CLI to validate package.json files. 📂",
-				owner: "JoshuaKGoldberg",
-				repo: "package-json-validator-cli",
-				stars: 3,
-			},
-			{
 				description:
 					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",
@@ -503,17 +510,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Generates shareable WIFI:// link strings for wifi credentials. 📶",
-				owner: "JoshuaKGoldberg",
-				repo: "wifi-share-link",
-				stars: 2,
-			},
-			{
-				description:
 					"Sets labels for a GitHub repository, including renaming existing similar labels. 🏷️",
 				owner: "JoshuaKGoldberg",
 				repo: "set-github-repository-labels",
-				stars: 1,
+				stars: 2,
 			},
 			{
 				description:

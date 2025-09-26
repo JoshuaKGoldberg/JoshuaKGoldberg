@@ -58,12 +58,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 			</td>
 			<td >
-				<a href="https://github.com/ad1992">
-					<img alt="Aakansha Doshi" height="50px" src="https://github.com/ad1992.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/bdav">
-					<img alt="Beau Davenport" height="50px" src="https://github.com/bdav.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/FarazPatankar">
 					<img alt="Faraz Patankar" height="50px" src="https://github.com/FarazPatankar.png?size=50" width="50px" />
 				</a>
@@ -376,22 +370,28 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
-			<td>Fills in missing allcontributors entries for a repository. 👪</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-fix-utils">eslint-fix-utils</a></th>
 			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
+			<td>Fills in missing allcontributors entries for a repository. 👪</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
 			<td>Checks whether a semantic release should be run for a repository. 💂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/wifi-share-link">wifi-share-link</a></th>
+			<td>Generates shareable WIFI:// link strings for wifi credentials. 📶</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: wifi-share-link" src="https://img.shields.io/github/stars/JoshuaKGoldberg/wifi-share-link" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
@@ -418,16 +418,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: release-it-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/release-it-action" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
-			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/debug-for-file">debug-for-file</a></th>
 			<td>debug() wrapper that creates a string based on your file's path within the package. 🧶</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: debug-for-file" src="https://img.shields.io/github/stars/JoshuaKGoldberg/debug-for-file" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up-site">tidelift-me-up-site</a></th>
+			<td>Web app to find your npm packages eligible for Tidelift funding. 💸</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: tidelift-me-up-site" src="https://img.shields.io/github/stars/JoshuaKGoldberg/tidelift-me-up-site" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/tidelift-me-up">tidelift-me-up</a></th>
@@ -476,6 +476,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator-cli">package-json-validator-cli</a></th>
+			<td>CLI to validate package.json files. 📂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: package-json-validator-cli" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator-cli" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
@@ -538,12 +544,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator-cli">package-json-validator-cli</a></th>
-			<td>CLI to validate package.json files. 📂</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: package-json-validator-cli" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator-cli" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
@@ -572,12 +572,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Efficiently (re)-prints text into your terminal. 🖨</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: terminal-reprint" src="https://img.shields.io/github/stars/JoshuaKGoldberg/terminal-reprint" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/wifi-share-link">wifi-share-link</a></th>
-			<td>Generates shareable WIFI:// link strings for wifi credentials. 📶</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: wifi-share-link" src="https://img.shields.io/github/stars/JoshuaKGoldberg/wifi-share-link" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/set-github-repository-labels">set-github-repository-labels</a></th>
