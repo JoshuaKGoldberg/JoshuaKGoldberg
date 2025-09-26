@@ -195,7 +195,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description: "Tools to validate package.json files.",
 				owner: "JoshuaKGoldberg",
-				repo: "package.json-validator",
+				repo: "package-json-validator",
 				role: "Adoptive maintainer",
 				stars: 108,
 			},

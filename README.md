@@ -298,10 +298,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package.json-validator">package.json-validator</a></th>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator">package-json-validator</a></th>
 			<td>Tools to validate package.json files.</td>
 			<td>Adoptive maintainer</td>
-			<td><img alt="Stars: package.json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package.json-validator" /></td>
+			<td><img alt="Stars: package-json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
