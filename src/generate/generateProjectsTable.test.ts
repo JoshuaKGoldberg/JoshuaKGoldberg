@@ -21,7 +21,6 @@ test("generateProjectsTable", () => {
 
 		Test description.
 
-		<!-- markdownlint-disable sentences-per-line -->
 		<table width="100%">
 			<thead>
 				<th span="col">Project ⚙️</th>
@@ -38,7 +37,6 @@ test("generateProjectsTable", () => {
 				</tr>
 			</tbody>
 		</table>
-		<!-- markdownlint-enable sentences-per-line -->
 		"
 	`);
 });

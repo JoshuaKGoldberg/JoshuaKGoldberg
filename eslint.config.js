@@ -1,34 +1,34 @@
 import comments from "@eslint-community/eslint-plugin-eslint-comments/configs";
 import eslint from "@eslint/js";
+import markdown from "@eslint/markdown";
 import vitest from "@vitest/eslint-plugin";
 import jsdoc from "eslint-plugin-jsdoc";
 import jsonc from "eslint-plugin-jsonc";
-import markdown from "eslint-plugin-markdown";
 import n from "eslint-plugin-n";
 import packageJson from "eslint-plugin-package-json";
 import perfectionist from "eslint-plugin-perfectionist";
 import * as regexp from "eslint-plugin-regexp";
 import yml from "eslint-plugin-yml";
+import { defineConfig, globalIgnores } from "eslint/config";
 import tseslint from "typescript-eslint";
 
-export default tseslint.config(
-	{
-		ignores: ["**/*.snap", "coverage", "lib", "node_modules", "pnpm-lock.yaml"],
-	},
+export default defineConfig(
+	globalIgnores(
+		["**/*.snap", "coverage", "lib", "node_modules", "pnpm-lock.yaml"],
+		"Global ignores",
+	),
 	{ linterOptions: { reportUnusedDisableDirectives: "error" } },
-	eslint.configs.recommended,
-	comments.recommended,
-	jsdoc.configs["flat/contents-typescript-error"],
-	jsdoc.configs["flat/logical-typescript-error"],
-	jsdoc.configs["flat/stylistic-typescript-error"],
-	jsonc.configs["flat/recommended-with-json"],
-	markdown.configs.recommended,
-	n.configs["flat/recommended"],
-	packageJson.configs.recommended,
-	perfectionist.configs["recommended-natural"],
-	regexp.configs["flat/recommended"],
 	{
 		extends: [
+			eslint.configs.recommended,
+			comments.recommended,
+			jsdoc.configs["flat/contents-typescript-error"],
+			jsdoc.configs["flat/logical-typescript-error"],
+			jsdoc.configs["flat/stylistic-typescript-error"],
+			markdown.configs.recommended,
+			n.configs["flat/recommended"],
+			perfectionist.configs["recommended-natural"],
+			regexp.configs["flat/recommended"],
 			tseslint.configs.strictTypeChecked,
 			tseslint.configs.stylisticTypeChecked,
 		],
@@ -38,10 +38,12 @@ export default tseslint.config(
 				projectService: {
 					allowDefaultProject: ["*.config.*s", "bin/joshuakgoldberg.js"],
 				},
-				tsconfigRootDir: import.meta.dirname,
 			},
 		},
 		rules: {
+			// https://github.com/eslint-community/eslint-plugin-n/issues/472
+			"n/no-unpublished-bin": "off",
+
 			// Stylistic concerns that don't interfere with Prettier
 			"logical-assignment-operators": [
 				"error",
@@ -66,6 +68,14 @@ export default tseslint.config(
 		extends: [vitest.configs.recommended],
 		files: ["**/*.test.*"],
 		rules: { "@typescript-eslint/no-unsafe-assignment": "off" },
+	},
+	{
+		extends: [jsonc.configs["flat/recommended-with-json"]],
+		files: ["**/*.json"],
+	},
+	{
+		extends: [packageJson.configs.recommended],
+		files: ["package.json"],
 	},
 	{
 		extends: [yml.configs["flat/recommended"], yml.configs["flat/prettier"]],

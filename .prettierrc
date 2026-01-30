@@ -4,6 +4,10 @@
 		{ "files": ".*rc", "options": { "parser": "json" } },
 		{ "files": ".nvmrc", "options": { "parser": "yaml" } }
 	],
-	"plugins": ["prettier-plugin-curly", "prettier-plugin-packagejson"],
+	"plugins": [
+		"prettier-plugin-curly",
+		"prettier-plugin-packagejson",
+		"prettier-plugin-sentences-per-line"
+	],
 	"useTabs": true
 }

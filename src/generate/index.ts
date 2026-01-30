@@ -41,9 +41,7 @@ Because I'm independent, I rely on sponsors to fund my work.
 They deserve our sincere appreciation and gratitude.
 
 <!-- spell-checker: disable -->
-<!-- markdownlint-disable sentences-per-line -->
 ${await buildSponsorsTable(auth.token)}
-<!-- markdownlint-enable sentences-per-line -->
 <!-- spell-checker: enable -->
 
 > 💚 Motivated to support my work, or just want your image here?

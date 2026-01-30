@@ -16,7 +16,8 @@ I work on projects in the TypeScript ecosystem, most notably [typescript-eslint]
 I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and an active conference speaker.
 
 My personal projects range from static analysis to meta-languages to recreating retro games in the browser.
-Also cats. 🐱
+Also cats.
+🐱
 
 ---
 
@@ -26,7 +27,6 @@ Because I'm independent, I rely on sponsors to fund my work.
 They deserve our sincere appreciation and gratitude.
 
 <!-- spell-checker: disable -->
-<!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
 		<tr>
@@ -50,11 +50,11 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/constituentvoice">
 					<img alt="Constituent Voice" height="75px" src="https://github.com/constituentvoice.png?size=75" width="75px" />
 				</a>
-				<a href="https://github.com/hardfist">
-					<img alt="hardfist" height="75px" src="https://github.com/hardfist.png?size=75" width="75px" />
-				</a>
 				<a href="https://github.com/Loops-so">
 					<img alt="Loops" height="75px" src="https://github.com/Loops-so.png?size=75" width="75px" />
+				</a>
+				<a href="https://github.com/mintlify">
+					<img alt="Mintlify" height="75px" src="https://github.com/mintlify.png?size=75" width="75px" />
 				</a>
 			</td>
 			<td >
@@ -88,19 +88,19 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/rwaskiewicz">
 					<img alt="Ryan Waskiewicz" height="50px" src="https://github.com/rwaskiewicz.png?size=50" width="50px" />
 				</a>
+				<a href="https://github.com/serhalp">
+					<img alt="Philippe Serhal" height="50px" src="https://github.com/serhalp.png?size=50" width="50px" />
+				</a>
 				<a href="https://github.com/ulrichstark">
 					<img alt="Ulrich Stark" height="50px" src="https://github.com/ulrichstark.png?size=50" width="50px" />
 				</a>
+				<a href="https://github.com/Yonava">
+					<img alt="Yona Alexander Voss-Andreae" height="50px" src="https://github.com/Yonava.png?size=50" width="50px" />
+				</a>
 			</td>
 			<td >
-				<a href="https://github.com/bmish">
-					<img alt="Bryan Mishkin" height="50px" src="https://github.com/bmish.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/danfry1">
 					<img alt="Daniel Fry" height="50px" src="https://github.com/danfry1.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/nickytonline">
-					<img alt="Nick Taylor" height="50px" src="https://github.com/nickytonline.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/roboflow">
 					<img alt="Roboflow" height="50px" src="https://github.com/roboflow.png?size=50" width="50px" />
@@ -115,7 +115,6 @@ They deserve our sincere appreciation and gratitude.
 		</tr>
 	</tbody>
 </table>
-<!-- markdownlint-enable sentences-per-line -->
 <!-- spell-checker: enable -->
 
 > 💚 Motivated to support my work, or just want your image here?
@@ -128,7 +127,6 @@ They deserve our sincere appreciation and gratitude.
 
 If you work with JavaScript or TypeScript, you may have used one of the open source projects I support:
 
-<!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
 		<th span="col">Project ⚙️</th>
@@ -145,7 +143,7 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/mochajs/mocha">mocha</a></th>
-			<td>☕️ simple, flexible, fun javascript test framework for node.js & the browser</td>
+			<td>☕️ Classic, reliable, trusted test framework for Node.js and the browser</td>
 			<td>Maintainer</td>
 			<td><img alt="Stars: mocha" src="https://img.shields.io/github/stars/mochajs/mocha" /></td>
 		</tr>
@@ -175,14 +173,12 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		</tr>
 	</tbody>
 </table>
-<!-- markdownlint-enable sentences-per-line -->
 
 ### Emojis
 
 I also have an interest in making web apps more delightful.
 These projects will help you add emoji delighters to your page quickly.
 
-<!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
 		<th span="col">Project ⚙️</th>
@@ -217,13 +213,11 @@ These projects will help you add emoji delighters to your page quickly.
 		</tr>
 	</tbody>
 </table>
-<!-- markdownlint-enable sentences-per-line -->
 
 ### Just For Fun
 
 These projects I do because I think they're fascinating and/or fun, if not particularly useful:
 
-<!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
 		<th span="col">Project ⚙️</th>
@@ -264,13 +258,11 @@ These projects I do because I think they're fascinating and/or fun, if not parti
 		</tr>
 	</tbody>
 </table>
-<!-- markdownlint-enable sentences-per-line -->
 
 ### Tooling
 
 I work on assorted projects in the JavaScript/TypeScript ecosystem that make it easier to write high quality applications.
 
-<!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
 		<th span="col">Project ⚙️</th>
@@ -298,16 +290,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator">package-json-validator</a></th>
-			<td>Tools to validate package.json files.</td>
-			<td>Adoptive maintainer</td>
-			<td><img alt="Stars: package-json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
 			<td>Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator">package-json-validator</a></th>
+			<td>Tools to validate package.json files.</td>
+			<td>Adoptive maintainer</td>
+			<td><img alt="Stars: package-json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
@@ -328,16 +320,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: formatly" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
-			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/refined-saved-replies">refined-saved-replies</a></th>
 			<td>Browser extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
+			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
@@ -346,28 +338,28 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
-			<td>Mocks out Redux actions and selectors for clean React Jest tests.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
 			<td>Gently fails test runs if the console was used during them. 📢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
+			<td>Mocks out Redux actions and selectors for clean React Jest tests.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
+			<td>Packages to enforce the number of sentences per line in Markdown files. 📐</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails">github-username-to-emails</a></th>
 			<td>Fetches any public emails associated with a GitHub username. 📧</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
-			<td>Contributed markdownlint rule for limiting sentences per line. 📐</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-fix-utils">eslint-fix-utils</a></th>
@@ -382,16 +374,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
-			<td>Checks whether a semantic release should be run for a repository. 💂</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/wifi-share-link">wifi-share-link</a></th>
 			<td>Generates shareable WIFI:// link strings for wifi credentials. 📶</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: wifi-share-link" src="https://img.shields.io/github/stars/JoshuaKGoldberg/wifi-share-link" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
+			<td>Checks whether a semantic release should be run for a repository. 💂</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: should-semantic-release" src="https://img.shields.io/github/stars/JoshuaKGoldberg/should-semantic-release" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cached-factory">cached-factory</a></th>
@@ -460,28 +452,28 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: get-github-auth-token" src="https://img.shields.io/github/stars/JoshuaKGoldberg/get-github-auth-token" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
-			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/notion-rich-text-to-markdown">notion-rich-text-to-markdown</a></th>
 			<td>Converts Notion's rich text strings to Markdown. 🪢</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: notion-rich-text-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/notion-rich-text-to-markdown" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
-			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator-cli">package-json-validator-cli</a></th>
 			<td>CLI to validate package.json files. 📂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: package-json-validator-cli" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator-cli" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/cspell-populate-words">cspell-populate-words</a></th>
+			<td>Populates your cspell.json dictionary with existing unknown words. 🔖</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: cspell-populate-words" src="https://img.shields.io/github/stars/JoshuaKGoldberg/cspell-populate-words" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-sponsors-to-markdown">github-sponsors-to-markdown</a></th>
+			<td>Creates a Markdown table summarizing your GitHub sponsors. 💰</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
@@ -508,6 +500,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
+			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/npm-username-to-packages">npm-username-to-packages</a></th>
 			<td>Fetches any packages associated with an npm username. 📨</td>
 			<td>Creator & maintainer</td>
@@ -532,12 +530,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: remove-dependencies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/remove-dependencies" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
-			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/populate-all-contributors-for-repository">populate-all-contributors-for-repository</a></th>
 			<td>Populates the .all-contributorsrc for a repository using all-contributors-for-repository. 📋</td>
 			<td>Creator & maintainer</td>
@@ -557,7 +549,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-properties-lazy">all-properties-lazy</a></th>
-			<td>Evalutes the properties of an object, including functions, Promises, and their combination. 😴</td>
+			<td>Evaluates the properties of an object, including functions, Promises, and their combination. 😴</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-properties-lazy" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-properties-lazy" /></td>
 		</tr>
@@ -605,7 +597,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 	</tbody>
 </table>
-<!-- markdownlint-enable sentences-per-line -->
 
 ## Development
 
@@ -617,7 +608,6 @@ Thanks! 💖
 <!-- spellchecker: disable -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
@@ -626,7 +616,6 @@ Thanks! 💖
   </tbody>
 </table>
 
-<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->

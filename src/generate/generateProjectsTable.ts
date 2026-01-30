@@ -16,7 +16,6 @@ export function generateProjectsTable({
 
 ${description.replaceAll(". ", ".\n")}
 
-<!-- markdownlint-disable sentences-per-line -->
 <table width="100%">
 	<thead>
 		<th span="col">Project ⚙️</th>
@@ -46,6 +45,5 @@ ${description.replaceAll(". ", ".\n")}
 			.join("\n\t\t")}
 	</tbody>
 </table>
-<!-- markdownlint-enable sentences-per-line -->
 `.trimStart();
 }
