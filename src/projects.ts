@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16066,
+				stars: 16067,
 			},
 			{
 				description:
@@ -177,12 +177,24 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 1159,
 			},
 			{
+				description: "[Experimental] A fast, friendly linter. ❤️‍🔥",
+				owner: "flint-fyi",
+				repo: "flint",
+				stars: 247,
+			},
+			{
 				description:
 					"Rules for consistent, readable, and valid package.json files. 🗂️",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
 				stars: 219,
+			},
+			{
+				description: "Delightful templates for web repositories. 💝",
+				owner: "bingo-js",
+				repo: "bingo",
+				stars: 134,
 			},
 			{
 				description:

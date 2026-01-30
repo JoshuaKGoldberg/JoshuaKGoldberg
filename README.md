@@ -10,10 +10,10 @@ See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
-I'm an open source maintainer in the web development ecosystem.
+I'm a full time open source developer in the web development ecosystem.
 
 I work on projects that help improve code quality, most notably [typescript-eslint](https://typescript-eslint.io): a powerful static analysis toolset for JavaScript and TypeScript code.
-I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP, an international conference speaker, and an _(upcoming)_ developer at [Sentry](https://sentry.io).
+I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and an _(upcoming)_ developer at [Sentry](https://sentry.io).
 
 ---
 
@@ -276,10 +276,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: dedent" src="https://img.shields.io/github/stars/dmnd/dedent" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/flint-fyi/flint">flint</a></th>
+			<td>[Experimental] A fast, friendly linter. ❤️‍🔥</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
 			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
 			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-package-json" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/bingo-js/bingo">bingo</a></th>
+			<td>Delightful templates for web repositories. 💝</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: bingo" src="https://img.shields.io/github/stars/bingo-js/bingo" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
