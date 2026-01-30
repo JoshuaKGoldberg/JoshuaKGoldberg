@@ -10,20 +10,18 @@ See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
-I'm an independent full time open source developer.
+I'm an open source maintainer in the web development ecosystem.
 
-I work on projects in the TypeScript ecosystem, most notably [typescript-eslint](https://typescript-eslint.io): the tooling that enables ESLint and Prettier to run on TypeScript code.
-I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and an active conference speaker.
-
-My personal projects range from static analysis to meta-languages to recreating retro games in the browser.
-Also cats.
-🐱
+I work on projects that help improve code quality, most notably [typescript-eslint](https://typescript-eslint.io): a powerful static analysis toolset for JavaScript and TypeScript code.
+I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP, an international conference speaker, and an _(upcoming)_ developer at [Sentry](https://sentry.io).
 
 ---
 
 ## Thanks to my Sponsors
 
-Because I'm independent, I rely on sponsors to fund my work.
+I was an independent maintainer from 2022 through 2025.
+Nowadays I work on open source in my spare time.
+My work was and is supported by these wonderful sponsors.
 They deserve our sincere appreciation and gratitude.
 
 <!-- spell-checker: disable -->

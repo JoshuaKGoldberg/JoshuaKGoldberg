@@ -23,7 +23,7 @@ const longestLink = socialRows.reduce(
 
 drawTable({
 	footer: chalk.green(
-		"💚 I'd greatly appreciate it if you could sponsor me on GitHub. 💚",
+		"💚 Try out my projects and let me know how they work for you, please! 💚",
 	),
 	header: "👋 Hi! I'm Josh. 👋",
 	rows: [
@@ -31,12 +31,12 @@ drawTable({
 		"",
 		{
 			extra: "🖥️ ".length,
-			text: "🖥️  I work to make web development better, most notably on typescript-eslint: 🖥️",
+			text: "🖥️  I work on projects that improve code, most notably on typescript-eslint: 🖥️",
 		},
-		"the tooling that enables ESLint and Prettier to run on TypeScript code.",
+		"a powerful static analysis toolset for JavaScript and TypeScript code.",
 		"",
 		"🏆 I'm the author of Learning TypeScript (O'Reilly), a Microsoft MVP, an 🏆",
-		"international conference speaker, a mentor, and a live code streamer.",
+		"international conference speaker, and an upcoming developer at Sentry.",
 		"",
 		{
 			extra: " ".length - 1,
