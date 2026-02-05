@@ -58,7 +58,7 @@
 		"get-github-auth-token": "0.1.2",
 		"github-sponsors-to-markdown": "0.2.3",
 		"husky": "9.1.7",
-		"knip": "5.82.1",
+		"knip": "5.83.0",
 		"lint-staged": "16.2.7",
 		"node-emoji": "2.2.0",
 		"octokit": "5.0.5",
