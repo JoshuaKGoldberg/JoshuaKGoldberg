@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 26833,
+				stars: 26887,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16067,
+				stars: 16094,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1369,
+				stars: 1370,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 134,
+				stars: 136,
 			},
 		],
 	},
@@ -174,13 +174,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1159,
+				stars: 1160,
 			},
 			{
 				description: "[Experimental] A fast, friendly linter. ❤️‍🔥",
 				owner: "flint-fyi",
 				repo: "flint",
-				stars: 247,
+				stars: 255,
 			},
 			{
 				description:
@@ -188,13 +188,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 219,
+				stars: 224,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 134,
+				stars: 136,
 			},
 			{
 				description:
@@ -209,21 +209,21 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 115,
+				stars: 116,
 			},
 			{
 				description: "Tools to validate package.json files.",
 				owner: "JoshuaKGoldberg",
 				repo: "package-json-validator",
 				role: "Adoptive maintainer",
-				stars: 111,
+				stars: 112,
 			},
 			{
 				description:
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 68,
+				stars: 69,
 			},
 			{
 				description:
