@@ -10,7 +10,7 @@ See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
 [![Follow on Mastodon](https://img.shields.io/badge/Follow-Mastodon-5A47DC.svg)](https://fosstodon.org/@JoshuaKGoldberg)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/joshuakgoldberg)
 
-I'm a full time open source developer in the web development ecosystem.
+I'm an open source developer in the web development ecosystem.
 
 I work on projects that help improve code quality, most notably [typescript-eslint](https://typescript-eslint.io): a powerful static analysis toolset for JavaScript and TypeScript code.
 I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and an _(upcoming)_ developer at [Sentry](https://sentry.io).
