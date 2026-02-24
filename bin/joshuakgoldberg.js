@@ -36,7 +36,7 @@ drawTable({
 		"a powerful static analysis toolset for JavaScript and TypeScript code.",
 		"",
 		"🏆 I'm the author of Learning TypeScript (O'Reilly), a Microsoft MVP, an 🏆",
-		"international conference speaker, and an upcoming developer at Sentry.",
+		"international conference speaker, and a frontend developer at Sentry.",
 		"",
 		{
 			extra: " ".length - 1,

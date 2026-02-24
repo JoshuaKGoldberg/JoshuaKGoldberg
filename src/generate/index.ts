@@ -28,7 +28,7 @@ See https://github.com/JoshuaKGoldberg/JoshuaKGoldberg.
 I'm an open source developer in the web development ecosystem.
 
 I work on projects that help improve code quality, most notably [typescript-eslint](https://typescript-eslint.io): a powerful static analysis toolset for JavaScript and TypeScript code.
-I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and an _(upcoming)_ developer at [Sentry](https://sentry.io).
+I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learningtypescript.com), a Microsoft MVP for developer technologies, and a frontend developer at [Sentry](https://sentry.io).
 
 ---
 
@@ -36,12 +36,14 @@ I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learn
 
 I was an independent maintainer from 2022 through 2025.
 Nowadays I work on open source in my spare time.
-My work was and is supported by these wonderful sponsors.
+My work was supported by these wonderful sponsors.
 They deserve our sincere appreciation and gratitude.
 
 <!-- spell-checker: disable -->
 ${await buildSponsorsTable(auth.token)}
 <!-- spell-checker: enable -->
+
+Now, all my sponsorships are directly forwarded as monthly funds to [Flint](https://flint.fyi).
 
 > 💚 Motivated to support my work, or just want your image here?
 > See my [GitHub Sponsors profile](https://github.com/sponsors/JoshuaKGoldberg).
