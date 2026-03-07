@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.1...0.21.2) (2026-03-07)
+
+### Bug Fixes
+
+- add Flint site ([0445974](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/0445974a6a6e36b95a2992d1b9e56296ac90936c))
+
 ## [0.21.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.0...0.21.1) (2026-03-07)
 
 ### Bug Fixes
