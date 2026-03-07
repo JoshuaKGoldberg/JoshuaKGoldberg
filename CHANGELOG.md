@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.0...0.21.1) (2026-03-07)
+
+### Bug Fixes
+
+- add Flint logo ([18bc481](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/18bc481960454d2f9f1f409f7edacee46c9f8494))
+
 # [0.21.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.3...0.21.0) (2026-03-07)
 
 ### Bug Fixes
