@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.2...0.21.3) (2026-03-07)
+
+### Bug Fixes
+
+- move Flint back into Biggest ([32c0897](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/32c0897e17a72eef74cedb3e7ac7df0874cce20b))
+
 ## [0.21.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.1...0.21.2) (2026-03-07)
 
 ### Bug Fixes
