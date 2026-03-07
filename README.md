@@ -287,10 +287,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
+			<th span="row"><a href="https://github.com/michaelfaith/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
 			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
 			<td>Adoptive maintainer</td>
-			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-package-json" /></td>
+			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/michaelfaith/eslint-plugin-package-json" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/bingo-js/bingo">bingo</a></th>
@@ -311,10 +311,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-json-validator">package-json-validator</a></th>
+			<th span="row"><a href="https://github.com/michaelfaith/package-json-validator">package-json-validator</a></th>
 			<td>Tools to validate package.json files.</td>
 			<td>Adoptive maintainer</td>
-			<td><img alt="Stars: package-json-validator" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-json-validator" /></td>
+			<td><img alt="Stars: package-json-validator" src="https://img.shields.io/github/stars/michaelfaith/package-json-validator" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-curly">prettier-plugin-curly</a></th>
@@ -341,10 +341,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: refined-saved-replies" src="https://img.shields.io/github/stars/JoshuaKGoldberg/refined-saved-replies" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/OctoGuide">OctoGuide</a></th>
+			<th span="row"><a href="https://github.com/OctoGuide/bot">OctoGuide</a></th>
 			<td>Helps contributors adhere to best practices for your repository on GitHub. 🗺️</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/JoshuaKGoldberg/OctoGuide" /></td>
+			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/OctoGuide/bot" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>

@@ -194,7 +194,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"Rules for consistent, readable, and valid package.json files. 🗂️",
-				owner: "JoshuaKGoldberg",
+				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
 				stars: 225,
@@ -222,7 +222,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description: "Tools to validate package.json files.",
-				owner: "JoshuaKGoldberg",
+				owner: "michaelfaith",
 				repo: "package-json-validator",
 				role: "Adoptive maintainer",
 				stars: 112,
@@ -258,8 +258,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
-				owner: "JoshuaKGoldberg",
-				repo: "OctoGuide",
+				name: "OctoGuide",
+				owner: "OctoGuide",
+				repo: "bot",
 				stars: 31,
 			},
 			{
