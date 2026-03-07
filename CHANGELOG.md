@@ -1,5 +1,25 @@
 # Changelog
 
+# [0.21.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.3...0.21.0) (2026-03-07)
+
+### Bug Fixes
+
+- add Bingo and Flint ([af0e9e8](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/af0e9e88d8ba4ca603e97034547ee1e0a5d4b0dc))
+- add draft-pr-once-action ([488592e](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/488592eabbf0d747c4e69d8c7a0c81d0a02487bb))
+- add Flint ([5243ec9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/5243ec91e8ae7dad2052a47e73b8149d6ee9a99c))
+- add package-json-validator-cli project ([7a57f9f](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/7a57f9f68af348a6ee7973b3918a4b1a281699d5))
+- add wifi-share-link project ([f524bd7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/f524bd79a452a146ea09f66b056563a5174c3900))
+- package-json-validator rename ([a5b8c75](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a5b8c75907be8748aa8925af1e2e4aced40965aa))
+- pnpm projects:generate ([ce1b652](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/ce1b6520d6e20efcfe48b032c56ee1829d2e7962))
+- pnpm projects:generate ([f16d209](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/f16d20996e24ac417c8bf7acaef1c003f7925b28))
+- sort projects after processing, not before ([437bada](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/437bada717545a10225bb5ca8d11d48ca8a63bf1))
+- switch michaelfaith names and some more cleanup ([23f81fe](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/23f81fea9ac54def88860ce38e8b6d433b4aa149))
+
+### Features
+
+- mention Sentry as current ([a732cd1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a732cd105b3defcab33404e9b1904235bfcdff26))
+- note that I'm switching from oss to Sentry ([1df77bc](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/1df77bc33a958fc1bba577c484ca3e97fe9d15cd))
+
 ## [0.20.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.2...0.20.3) (2025-07-04)
 
 ### Bug Fixes
