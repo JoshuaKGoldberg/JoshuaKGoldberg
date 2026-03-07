@@ -21,7 +21,7 @@ I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learn
 
 I was an independent maintainer from 2022 through 2025.
 Nowadays I work on open source in my spare time.
-My work was and is supported by these wonderful sponsors.
+My work was supported by these wonderful sponsors.
 They deserve our sincere appreciation and gratitude.
 
 <!-- spell-checker: disable -->
@@ -105,9 +105,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/santoshyadavdev">
 					<img alt="Santosh Yadav" height="50px" src="https://github.com/santoshyadavdev.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/xavdid">
-					<img alt="David Brownman" height="50px" src="https://github.com/xavdid.png?size=50" width="50px" />
 				</a>
 			</td>
 		</tr>

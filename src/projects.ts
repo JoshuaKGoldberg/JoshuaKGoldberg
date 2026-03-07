@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 26887,
+				stars: 27176,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22873,
+				stars: 22874,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16094,
+				stars: 16137,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2186,
+				stars: 2187,
 			},
 			{
 				description:
@@ -58,7 +58,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 136,
+				stars: 141,
 			},
 		],
 	},
@@ -71,7 +71,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1350,
+				stars: 1349,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -174,13 +174,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1160,
+				stars: 1165,
 			},
 			{
 				description: "[Experimental] A fast, friendly linter. ❤️‍🔥",
 				owner: "flint-fyi",
 				repo: "flint",
-				stars: 255,
+				stars: 257,
 			},
 			{
 				description:
@@ -188,13 +188,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 224,
+				stars: 225,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 136,
+				stars: 141,
 			},
 			{
 				description:
@@ -223,7 +223,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 69,
+				stars: 71,
 			},
 			{
 				description:
@@ -251,7 +251,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Helps contributors adhere to best practices for your repository on GitHub. 🗺️",
 				owner: "JoshuaKGoldberg",
 				repo: "OctoGuide",
-				stars: 30,
+				stars: 31,
 			},
 			{
 				description:
