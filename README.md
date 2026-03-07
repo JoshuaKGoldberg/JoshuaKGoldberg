@@ -163,6 +163,12 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 			<td><img alt="Stars: create-typescript-app" src="https://img.shields.io/github/stars/JoshuaKGoldberg/create-typescript-app" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/flint-fyi/flint">flint</a></th>
+			<td>[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥</td>
+			<td>Creator and & Lead Maintainer</td>
+			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Bingo">Bingo</a></th>
 			<td>Delightful templates for web repositories. 💝</td>
 			<td>Creator & maintainer</td>
@@ -276,7 +282,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/flint-fyi/flint">flint</a></th>
-			<td>[Experimental] A fast, friendly linter. ❤️‍🔥</td>
+			<td>[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
 		</tr>

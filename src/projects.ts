@@ -51,6 +51,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 1370,
 			},
 			{
+				description:
+					"[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+				owner: "flint-fyi",
+				repo: "flint",
+				role: "Creator and & Lead Maintainer",
+				stars: 257,
+			},
+			{
 				description: "Delightful templates for web repositories. 💝",
 				image: "https://www.joshuakgoldberg.com/img/create.png",
 				links: {
@@ -177,7 +185,8 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 1165,
 			},
 			{
-				description: "[Experimental] A fast, friendly linter. ❤️‍🔥",
+				description:
+					"[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
 				owner: "flint-fyi",
 				repo: "flint",
 				stars: 257,
