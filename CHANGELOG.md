@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.3...0.21.4) (2026-03-07)
+
+### Bug Fixes
+
+- add Flint role ([d3acf93](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/d3acf93c332a7e71767f2e3ee37c599482cc30f1))
+
 ## [0.21.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.2...0.21.3) (2026-03-07)
 
 ### Bug Fixes
