@@ -187,6 +187,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+				image: "https://www.flint.fyi/logo.svg",
 				owner: "flint-fyi",
 				repo: "flint",
 				stars: 257,
