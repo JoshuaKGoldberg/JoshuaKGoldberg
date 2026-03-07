@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 27176,
+				stars: 27177,
 			},
 			{
 				description:
@@ -53,9 +53,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			{
 				description:
 					"[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
+				image: "https://www.flint.fyi/logo.svg",
+				links: {
+					Site: "https://flint.fyi",
+				},
 				owner: "flint-fyi",
 				repo: "flint",
-				role: "Creator and & Lead Maintainer",
 				stars: 257,
 			},
 			{
@@ -183,17 +186,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "dedent",
 				role: "Adoptive maintainer",
 				stars: 1165,
-			},
-			{
-				description:
-					"[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥",
-				image: "https://www.flint.fyi/logo.svg",
-				links: {
-					Site: "https://flint.fyi",
-				},
-				owner: "flint-fyi",
-				repo: "flint",
-				stars: 257,
 			},
 			{
 				description:

@@ -165,7 +165,7 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		<tr>
 			<th span="row"><a href="https://github.com/flint-fyi/flint">flint</a></th>
 			<td>[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥</td>
-			<td>Creator and & Lead Maintainer</td>
+			<td>Creator & maintainer</td>
 			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
 		</tr>
 		<tr>
@@ -279,12 +279,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>⬅️ ES6 string tag that strips indentation from multi-line strings.</td>
 			<td>Adoptive maintainer</td>
 			<td><img alt="Stars: dedent" src="https://img.shields.io/github/stars/dmnd/dedent" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/flint-fyi/flint">flint</a></th>
-			<td>[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/michaelfaith/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
