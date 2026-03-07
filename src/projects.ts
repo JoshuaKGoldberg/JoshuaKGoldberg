@@ -59,6 +59,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "flint-fyi",
 				repo: "flint",
+				role: "Creator & Project Lead",
 				stars: 257,
 			},
 			{

@@ -165,7 +165,7 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		<tr>
 			<th span="row"><a href="https://github.com/flint-fyi/flint">flint</a></th>
 			<td>[Experimental] A fast, friendly linter for JavaScript, TypeScript, and more. ❤️‍🔥</td>
-			<td>Creator & maintainer</td>
+			<td>Creator & Project Lead</td>
 			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
 		</tr>
 		<tr>
