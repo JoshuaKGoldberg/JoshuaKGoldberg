@@ -62,7 +62,7 @@
 		"lint-staged": "17.0.2",
 		"node-emoji": "2.2.0",
 		"octokit": "5.0.5",
-		"prettier": "3.8.1",
+		"prettier": "3.9.0",
 		"prettier-plugin-curly": "0.4.1",
 		"prettier-plugin-packagejson": "3.0.0",
 		"prettier-plugin-sentences-per-line": "0.2.0",
