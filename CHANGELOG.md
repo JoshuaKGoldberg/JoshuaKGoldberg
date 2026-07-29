@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.4...0.21.5) (2026-07-29)
+
+### Bug Fixes
+
+- **deps:** update dependency chalk to v6 ([#582](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/582)) ([b2c227c](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b2c227c9b875d4ddac0e0d797b62d2138c14a994))
+
 ## [0.21.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.3...0.21.4) (2026-03-07)
 
 ### Bug Fixes
