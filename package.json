@@ -59,7 +59,7 @@
 		"github-sponsors-to-markdown": "0.2.3",
 		"husky": "9.1.7",
 		"knip": "6.31.0",
-		"lint-staged": "17.2.0",
+		"lint-staged": "17.3.0",
 		"node-emoji": "2.2.0",
 		"octokit": "5.0.5",
 		"prettier": "3.9.0",
