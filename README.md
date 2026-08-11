@@ -37,9 +37,6 @@ They deserve our sincere appreciation and gratitude.
 	<tbody>
 		<tr align="center">
 			<td >
-				<a href="https://github.com/elevenlabs">
-					<img alt="ElevenLabs" height="100px" src="https://github.com/elevenlabs.png?size=100" width="100px" />
-				</a>
 				<a href="https://github.com/infosupport">
 					<img alt="Info Support" height="100px" src="https://github.com/infosupport.png?size=100" width="100px" />
 				</a>
@@ -48,14 +45,8 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/beyang">
 					<img alt="Beyang Liu" height="75px" src="https://github.com/beyang.png?size=75" width="75px" />
 				</a>
-				<a href="https://github.com/constituentvoice">
-					<img alt="Constituent Voice" height="75px" src="https://github.com/constituentvoice.png?size=75" width="75px" />
-				</a>
-				<a href="https://github.com/Loops-so">
-					<img alt="Loops" height="75px" src="https://github.com/Loops-so.png?size=75" width="75px" />
-				</a>
-				<a href="https://github.com/mintlify">
-					<img alt="Mintlify" height="75px" src="https://github.com/mintlify.png?size=75" width="75px" />
+				<a href="https://github.com/loops-so">
+					<img alt="Loops" height="75px" src="https://github.com/loops-so.png?size=75" width="75px" />
 				</a>
 			</td>
 			<td >
@@ -71,17 +62,8 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/JohannesKonings">
 					<img alt="Johannes Konings" height="50px" src="https://github.com/JohannesKonings.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/johnnyreilly">
-					<img alt="John Reilly" height="50px" src="https://github.com/johnnyreilly.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/Kamalnrf">
-					<img alt="Kamal" height="50px" src="https://github.com/Kamalnrf.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/KernelGamut32">
 					<img alt="Allen Sanders" height="50px" src="https://github.com/KernelGamut32.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/KevinVandy">
-					<img alt="Kevin Van Cott" height="50px" src="https://github.com/KevinVandy.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/kitsonk">
 					<img alt="Kitson Kelly" height="50px" src="https://github.com/kitsonk.png?size=50" width="50px" />
@@ -100,9 +82,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 			</td>
 			<td >
-				<a href="https://github.com/danfry1">
-					<img alt="Daniel Fry" height="50px" src="https://github.com/danfry1.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/roboflow">
 					<img alt="Roboflow" height="50px" src="https://github.com/roboflow.png?size=50" width="50px" />
 				</a>
@@ -356,16 +335,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
-			<td>Mocks out Redux actions and selectors for clean React Jest tests.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Packages to enforce the number of sentences per line in Markdown files. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
+			<td>Mocks out Redux actions and selectors for clean React Jest tests.</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: mock-react-redux" src="https://img.shields.io/github/stars/JoshuaKGoldberg/mock-react-redux" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-username-to-emails">github-username-to-emails</a></th>
@@ -584,16 +563,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: set-github-repository-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/set-github-repository-labels" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
-			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/new-github-repository">new-github-repository</a></th>
 			<td>Creates a new repository on GitHub, including waiting for initialization. 🆕</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: new-github-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/new-github-repository" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
+			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-default-labels">github-default-labels</a></th>

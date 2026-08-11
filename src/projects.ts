@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 27184,
+				stars: 27461,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22879,
+				stars: 22905,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16169,
+				stars: 16355,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2189,
+				stars: 2253,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1374,
+				stars: 1389,
 			},
 			{
 				description:
@@ -60,7 +60,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "flint-fyi",
 				repo: "flint",
 				role: "Creator & Project Lead",
-				stars: 270,
+				stars: 297,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 143,
+				stars: 157,
 			},
 		],
 	},
@@ -83,7 +83,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1348,
+				stars: 1342,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -92,7 +92,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 328,
+				stars: 333,
 			},
 			{
 				description:
@@ -130,14 +130,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 224,
+				stars: 228,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 80,
+				stars: 81,
 			},
 			{
 				description:
@@ -186,7 +186,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1170,
+				stars: 1189,
 			},
 			{
 				description:
@@ -194,13 +194,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 229,
+				stars: 250,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 143,
+				stars: 157,
 			},
 			{
 				description:
@@ -208,14 +208,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 118,
+				stars: 120,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 116,
+				stars: 120,
 			},
 			{
 				description: "Tools to validate package.json files.",
@@ -236,14 +236,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 50,
+				stars: 52,
 			},
 			{
 				description:
 					"Formats code with whatever formatter a project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 41,
+				stars: 46,
 			},
 			{
 				description:
@@ -276,17 +276,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Packages to enforce the number of sentences per line in Markdown files. 📐",
+				owner: "JoshuaKGoldberg",
+				repo: "sentences-per-line",
+				stars: 22,
+			},
+			{
+				description:
 					"Mocks out Redux actions and selectors for clean React Jest tests.",
 				owner: "JoshuaKGoldberg",
 				repo: "mock-react-redux",
 				stars: 20,
-			},
-			{
-				description:
-					"Packages to enforce the number of sentences per line in Markdown files. 📐",
-				owner: "JoshuaKGoldberg",
-				repo: "sentences-per-line",
-				stars: 19,
 			},
 			{
 				description:
@@ -313,7 +313,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Generates shareable WIFI:// link strings for wifi credentials. 📶",
 				owner: "JoshuaKGoldberg",
 				repo: "wifi-share-link",
-				stars: 15,
+				stars: 16,
 			},
 			{
 				description:
@@ -339,14 +339,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Checks whether a documentation description introduces any new information. ℹ️",
 				owner: "JoshuaKGoldberg",
 				repo: "are-docs-informative",
-				stars: 12,
+				stars: 11,
 			},
 			{
 				description:
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 11,
+				stars: 10,
 			},
 			{
 				description:
@@ -417,7 +417,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Populates your cspell.json dictionary with existing unknown words. 🔖",
 				owner: "JoshuaKGoldberg",
 				repo: "cspell-populate-words",
-				stars: 5,
+				stars: 6,
 			},
 			{
 				description:
@@ -536,16 +536,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
-				owner: "JoshuaKGoldberg",
-				repo: "sinon-timers-repeatable",
-				stars: 1,
-			},
-			{
-				description:
 					"Creates a new repository on GitHub, including waiting for initialization. 🆕",
 				owner: "JoshuaKGoldberg",
 				repo: "new-github-repository",
+				stars: 2,
+			},
+			{
+				description:
+					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
+				owner: "JoshuaKGoldberg",
+				repo: "sinon-timers-repeatable",
 				stars: 1,
 			},
 			{
