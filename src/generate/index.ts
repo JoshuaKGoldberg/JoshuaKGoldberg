@@ -13,6 +13,13 @@ export async function generate() {
 	}
 
 	const content = `
+
+> [!IMPORTANT]
+> I am not actively adding non-critical bug fixes or new features to my open source projects on any schedule.
+> If you need issue or pull request addressed, please email me using the email address on my GitHub profile.
+>
+> See: [Stepping Back from Open Source (Mostly)](https://www.joshuakgoldberg.com/blog/stepping-back-from-open-source-mostly)
+
 ## Hi, I'm Josh! 💖
 
 <!--
@@ -35,7 +42,7 @@ I'm also the author of O'Reilly's [_Learning TypeScript_ book](https://www.learn
 ## Thanks to my Sponsors
 
 I was an independent maintainer from 2022 through 2025.
-Nowadays I work on open source in my spare time.
+Nowadays I occasionally work on open source in my spare time.
 My work was supported by these wonderful sponsors.
 They deserve our sincere appreciation and gratitude.
 
