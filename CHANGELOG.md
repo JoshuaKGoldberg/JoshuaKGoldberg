@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.6...0.21.7) (2026-08-11)
+
+### Bug Fixes
+
+- again generate ([8ae696e](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/8ae696e451d8cb49e881252a469ca4ce9b8a73ba))
+
 ## [0.21.6](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.5...0.21.6) (2026-08-11)
 
 ### Bug Fixes
