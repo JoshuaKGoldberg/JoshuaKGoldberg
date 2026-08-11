@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.22.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.7...0.22.0) (2026-08-11)
+
+### Features
+
+- add stepping-back notice to readme ([2f55ffa](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/2f55ffa143aab97e34c06ab3831ba78731646be6))
+
 ## [0.21.7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.6...0.21.7) (2026-08-11)
 
 ### Bug Fixes
