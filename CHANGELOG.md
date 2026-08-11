@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.21.6](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.5...0.21.6) (2026-08-11)
+
+### Bug Fixes
+
+- oh geez this update took a while ([ad3db71](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/ad3db71eae463fc0b9b7083f76c19bb099a472e2))
+
 ## [0.21.5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.4...0.21.5) (2026-07-29)
 
 ### Bug Fixes
