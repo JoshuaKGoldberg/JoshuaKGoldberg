@@ -37,6 +37,9 @@ They deserve our sincere appreciation and gratitude.
 	<tbody>
 		<tr align="center">
 			<td >
+				<a href="https://github.com/elevenlabs">
+					<img alt="ElevenLabs" height="100px" src="https://github.com/elevenlabs.png?size=100" width="100px" />
+				</a>
 				<a href="https://github.com/infosupport">
 					<img alt="Info Support" height="100px" src="https://github.com/infosupport.png?size=100" width="100px" />
 				</a>

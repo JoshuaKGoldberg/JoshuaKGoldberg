@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer",
-				stars: 27177,
+				stars: 27184,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22874,
+				stars: 22879,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16137,
+				stars: 16169,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2187,
+				stars: 2189,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1370,
+				stars: 1374,
 			},
 			{
 				description:
@@ -60,7 +60,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "flint-fyi",
 				repo: "flint",
 				role: "Creator & Project Lead",
-				stars: 257,
+				stars: 270,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 141,
+				stars: 143,
 			},
 		],
 	},
@@ -83,7 +83,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1349,
+				stars: 1348,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -92,7 +92,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 326,
+				stars: 328,
 			},
 			{
 				description:
@@ -122,7 +122,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2969,
+				stars: 2968,
 			},
 			{
 				description:
@@ -186,7 +186,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1165,
+				stars: 1170,
 			},
 			{
 				description:
@@ -194,13 +194,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Adoptive maintainer",
-				stars: 225,
+				stars: 229,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 141,
+				stars: 143,
 			},
 			{
 				description:
@@ -346,7 +346,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Runs release-it as a GitHub Action, with handling for semantic releases and protected branches. 📤",
 				owner: "JoshuaKGoldberg",
 				repo: "release-it-action",
-				stars: 10,
+				stars: 11,
 			},
 			{
 				description:
