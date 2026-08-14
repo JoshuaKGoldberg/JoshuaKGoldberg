@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.22.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.0...0.22.1) (2026-08-14)
+
+### Bug Fixes
+
+- typo on 'an' ([1a7046f](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/1a7046f8054f9fc4ccf2449c42dd286b3f37a315))
+
 # [0.22.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.7...0.22.0) (2026-08-11)
 
 ### Features
