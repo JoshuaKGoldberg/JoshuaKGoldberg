@@ -16,7 +16,7 @@ export async function generate() {
 
 > [!IMPORTANT]
 > I am not actively adding non-critical bug fixes or new features to my open source projects on any schedule.
-> If you need issue or pull request addressed, please email me using the email address on my GitHub profile.
+> If you need an issue or pull request addressed quickly, please email me using the email address on my GitHub profile.
 >
 > See: [Stepping Back from Open Source (Mostly)](https://www.joshuakgoldberg.com/blog/stepping-back-from-open-source-mostly)
 
