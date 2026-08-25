@@ -67,8 +67,8 @@ importers:
         specifier: 3.8.0
         version: 3.8.0(eslint@9.39.2(jiti@2.7.0))
       get-github-auth-token:
-        specifier: 0.1.2
-        version: 0.1.2
+        specifier: 0.2.0
+        version: 0.2.0
       github-sponsors-to-markdown:
         specifier: 0.2.3
         version: 0.2.3
@@ -2446,6 +2446,7 @@ packages:
   eslint@9.39.2:
     resolution: {integrity: sha512-LEyamqS7W5HB3ujJyvi0HQK/dtVINZvd5mAAp9eT5S/ujByGjiZLCzPcHVzuXbpJDJF/cxwHlfceVUDZ2lnSTw==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
+    deprecated: This version is no longer supported. Please see https://eslint.org/version-support for other options.
     hasBin: true
     peerDependencies:
       jiti: '*'
@@ -2609,6 +2610,10 @@ packages:
 
   get-github-auth-token@0.1.2:
     resolution: {integrity: sha512-vcGCRhKNOOynlxi7j3dOrkCkxG1rxt/IbmZY9A+xXMhRAUMeIA5T4Fn0LTaPXfQWdUkOcc3DBWDvcc6dmnxmYw==}
+    engines: {node: '>=18'}
+
+  get-github-auth-token@0.2.0:
+    resolution: {integrity: sha512-3Kbqg9jhyylj/qyumXOhhbXaV23UUIkTQ2TVXQGlGswuciQ09U7hSAt89lusAAj1hu0rRYSdADVqceKqVgiKBQ==}
     engines: {node: '>=18'}
 
   get-stream@5.2.0:
@@ -6697,6 +6702,8 @@ snapshots:
   get-east-asian-width@1.6.0: {}
 
   get-github-auth-token@0.1.2: {}
+
+  get-github-auth-token@0.2.0: {}
 
   get-stream@5.2.0:
     dependencies:
