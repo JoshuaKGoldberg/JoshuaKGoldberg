@@ -193,7 +193,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Rules for consistent, readable, and valid package.json files. 🗂️",
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
-				role: "Adoptive maintainer",
+				role: "Secondary maintainer",
 				stars: 250,
 			},
 			{
@@ -221,7 +221,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Tools to validate package.json files.",
 				owner: "michaelfaith",
 				repo: "package-json-validator",
-				role: "Adoptive maintainer",
+				role: "Secondary maintainer",
 				stars: 112,
 			},
 			{
