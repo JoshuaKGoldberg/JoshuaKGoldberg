@@ -297,8 +297,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
-				owner: "JoshuaKGoldberg",
+				owner: "michaelfaith",
 				repo: "eslint-fix-utils",
+				role: "Secondary maintainer",
 				stars: 17,
 			},
 			{
