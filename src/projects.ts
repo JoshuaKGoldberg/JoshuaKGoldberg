@@ -11,8 +11,8 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/eslint.svg",
 				owner: "eslint",
 				repo: "eslint",
-				role: "Committer",
-				stars: 27461,
+				role: "Committer (Retired)",
+				stars: 27513,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22905,
+				stars: 22895,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16355,
+				stars: 16392,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2253,
+				stars: 2254,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1389,
+				stars: 1388,
 			},
 			{
 				description:
@@ -60,7 +60,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "flint-fyi",
 				repo: "flint",
 				role: "Creator & Project Lead",
-				stars: 297,
+				stars: 307,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 157,
+				stars: 162,
 			},
 		],
 	},
@@ -83,7 +83,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1342,
+				stars: 1340,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -92,7 +92,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 333,
+				stars: 334,
 			},
 			{
 				description:
@@ -122,7 +122,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2968,
+				stars: 2960,
 			},
 			{
 				description:
@@ -130,14 +130,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/images/fullscreenpokemon.png",
 				owner: "FullScreenShenanigans",
 				repo: "FullScreenPokemon",
-				stars: 228,
+				stars: 230,
 			},
 			{
 				description:
 					"Bare-bones, highly modular game engine for 2D 8-bit games.",
 				owner: "FullScreenShenanigans",
 				repo: "EightBittr",
-				stars: 81,
+				stars: 80,
 			},
 			{
 				description:
@@ -186,7 +186,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1189,
+				stars: 1191,
 			},
 			{
 				description:
@@ -194,13 +194,20 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Secondary maintainer",
-				stars: 250,
+				stars: 261,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 157,
+				stars: 162,
+			},
+			{
+				description:
+					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
+				owner: "JoshuaKGoldberg",
+				repo: "ts-api-utils",
+				stars: 122,
 			},
 			{
 				description:
@@ -208,13 +215,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-expect-type",
 				role: "Adoptive maintainer",
-				stars: 120,
-			},
-			{
-				description:
-					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
-				owner: "JoshuaKGoldberg",
-				repo: "ts-api-utils",
 				stars: 120,
 			},
 			{
@@ -236,14 +236,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 52,
+				stars: 53,
 			},
 			{
 				description:
 					"Formats code with whatever formatter a project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 46,
+				stars: 47,
 			},
 			{
 				description:
@@ -279,7 +279,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Packages to enforce the number of sentences per line in Markdown files. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 22,
+				stars: 23,
 			},
 			{
 				description:
@@ -304,16 +304,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Fills in missing allcontributors entries for a repository. 👪",
-				owner: "JoshuaKGoldberg",
-				repo: "all-contributors-auto-action",
-				stars: 16,
-			},
-			{
-				description:
 					"Generates shareable WIFI:// link strings for wifi credentials. 📶",
 				owner: "JoshuaKGoldberg",
 				repo: "wifi-share-link",
+				stars: 17,
+			},
+			{
+				description:
+					"Fills in missing allcontributors entries for a repository. 👪",
+				owner: "JoshuaKGoldberg",
+				repo: "all-contributors-auto-action",
 				stars: 16,
 			},
 			{

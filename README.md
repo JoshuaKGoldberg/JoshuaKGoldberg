@@ -59,9 +59,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/FarazPatankar">
 					<img alt="Faraz Patankar" height="50px" src="https://github.com/FarazPatankar.png?size=50" width="50px" />
 				</a>
-				<a href="https://github.com/haydenmc">
-					<img alt="Hayden McAfee" height="50px" src="https://github.com/haydenmc.png?size=50" width="50px" />
-				</a>
 				<a href="https://github.com/IanVS">
 					<img alt="Ian VanSchooten" height="50px" src="https://github.com/IanVS.png?size=50" width="50px" />
 				</a>
@@ -73,9 +70,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/kitsonk">
 					<img alt="Kitson Kelly" height="50px" src="https://github.com/kitsonk.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/rwaskiewicz">
-					<img alt="Ryan Waskiewicz" height="50px" src="https://github.com/rwaskiewicz.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/serhalp">
 					<img alt="Philippe Serhal" height="50px" src="https://github.com/serhalp.png?size=50" width="50px" />
@@ -123,7 +117,7 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 		<tr>
 			<th span="row"><a href="https://github.com/eslint/eslint">eslint</a></th>
 			<td>Find and fix problems in your JavaScript code.</td>
-			<td>Committer</td>
+			<td>Committer (Retired)</td>
 			<td><img alt="Stars: eslint" src="https://img.shields.io/github/stars/eslint/eslint" /></td>
 		</tr>
 		<tr>
@@ -271,7 +265,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		<tr>
 			<th span="row"><a href="https://github.com/michaelfaith/eslint-plugin-package-json">eslint-plugin-package-json</a></th>
 			<td>Rules for consistent, readable, and valid package.json files. 🗂️</td>
-			<td>Adoptive maintainer</td>
+			<td>Secondary maintainer</td>
 			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/michaelfaith/eslint-plugin-package-json" /></td>
 		</tr>
 		<tr>
@@ -281,21 +275,21 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: bingo" src="https://img.shields.io/github/stars/bingo-js/bingo" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
-			<td>ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩</td>
-			<td>Adoptive maintainer</td>
-			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
 			<td>Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
+			<td>ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩</td>
+			<td>Adoptive maintainer</td>
+			<td><img alt="Stars: eslint-plugin-expect-type" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-plugin-expect-type" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/michaelfaith/package-json-validator">package-json-validator</a></th>
 			<td>Tools to validate package.json files.</td>
-			<td>Adoptive maintainer</td>
+			<td>Secondary maintainer</td>
 			<td><img alt="Stars: package-json-validator" src="https://img.shields.io/github/stars/michaelfaith/package-json-validator" /></td>
 		</tr>
 		<tr>
@@ -359,22 +353,22 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-fix-utils">eslint-fix-utils</a></th>
+			<th span="row"><a href="https://github.com/michaelfaith/eslint-fix-utils">eslint-fix-utils</a></th>
 			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/eslint-fix-utils" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
-			<td>Fills in missing allcontributors entries for a repository. 👪</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
+			<td>Secondary maintainer</td>
+			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/michaelfaith/eslint-fix-utils" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/wifi-share-link">wifi-share-link</a></th>
 			<td>Generates shareable WIFI:// link strings for wifi credentials. 📶</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: wifi-share-link" src="https://img.shields.io/github/stars/JoshuaKGoldberg/wifi-share-link" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
+			<td>Fills in missing allcontributors entries for a repository. 👪</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-auto-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-auto-action" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/should-semantic-release">should-semantic-release</a></th>
