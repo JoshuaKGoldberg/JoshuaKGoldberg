@@ -329,16 +329,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
-			<td>Gently fails test runs if the console was used during them. 📢</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Packages to enforce the number of sentences per line in Markdown files. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
+			<td>Gently fails test runs if the console was used during them. 📢</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: console-fail-test" src="https://img.shields.io/github/stars/JoshuaKGoldberg/console-fail-test" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/mock-react-redux">mock-react-redux</a></th>
@@ -497,6 +497,18 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-padding-lines">prettier-plugin-padding-lines</a></th>
+			<td>Prettier plugin to enforce a blank line after block-like statements. 🛋️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: prettier-plugin-padding-lines" src="https://img.shields.io/github/stars/JoshuaKGoldberg/prettier-plugin-padding-lines" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/stoptalking">stoptalking</a></th>
+			<td>A very zen speaker clock that fades from green to red. 🚦</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: stoptalking" src="https://img.shields.io/github/stars/JoshuaKGoldberg/stoptalking" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/npm-username-to-packages">npm-username-to-packages</a></th>
 			<td>Fetches any packages associated with an npm username. 📨</td>
 			<td>Creator & maintainer</td>
@@ -567,6 +579,24 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creates a new repository on GitHub, including waiting for initialization. 🆕</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: new-github-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/new-github-repository" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-cli-inferred">all-contributors-cli-inferred</a></th>
+			<td>Wraps all-contributors-cli by creating the .all-contributorsrc file from inferred settings. 💓</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-cli-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-cli-inferred" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/formatly-on-demand">formatly-on-demand</a></th>
+			<td>Offers to format pull requests with whatever formatter your project is already using, then formats them on demand. 🧼</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: formatly-on-demand" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly-on-demand" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-change-detector-action">package-change-detector-action</a></th>
+			<td>GitHub Action that outputs whether the package.json file changed. 👛</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: package-change-detector-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-change-detector-action" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>

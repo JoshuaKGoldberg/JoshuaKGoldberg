@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer (Retired)",
-				stars: 27513,
+				stars: 27516,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22895,
+				stars: 22897,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16392,
+				stars: 16401,
 			},
 			{
 				description:
@@ -60,7 +60,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "flint-fyi",
 				repo: "flint",
 				role: "Creator & Project Lead",
-				stars: 307,
+				stars: 308,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -122,7 +122,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2960,
+				stars: 2961,
 			},
 			{
 				description:
@@ -229,14 +229,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Prettier plugin to enforce consistent brace style for all control statements. 🥌",
 				owner: "JoshuaKGoldberg",
 				repo: "prettier-plugin-curly",
-				stars: 71,
+				stars: 72,
 			},
 			{
 				description:
 					"ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
 				owner: "JoshuaKGoldberg",
 				repo: "eslint-plugin-erasable-syntax-only",
-				stars: 53,
+				stars: 54,
 			},
 			{
 				description:
@@ -269,16 +269,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Gently fails test runs if the console was used during them. 📢",
-				owner: "JoshuaKGoldberg",
-				repo: "console-fail-test",
-				stars: 23,
-			},
-			{
-				description:
 					"Packages to enforce the number of sentences per line in Markdown files. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
+				stars: 24,
+			},
+			{
+				description:
+					"Gently fails test runs if the console was used during them. 📢",
+				owner: "JoshuaKGoldberg",
+				repo: "console-fail-test",
 				stars: 23,
 			},
 			{
@@ -461,6 +461,20 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 4,
 			},
 			{
+				description:
+					"Prettier plugin to enforce a blank line after block-like statements. 🛋️",
+				owner: "JoshuaKGoldberg",
+				repo: "prettier-plugin-padding-lines",
+				stars: 4,
+			},
+			{
+				description:
+					"A very zen speaker clock that fades from green to red. 🚦",
+				owner: "JoshuaKGoldberg",
+				repo: "stoptalking",
+				stars: 4,
+			},
+			{
 				description: "Fetches any packages associated with an npm username. 📨",
 				owner: "JoshuaKGoldberg",
 				repo: "npm-username-to-packages",
@@ -540,6 +554,27 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Creates a new repository on GitHub, including waiting for initialization. 🆕",
 				owner: "JoshuaKGoldberg",
 				repo: "new-github-repository",
+				stars: 2,
+			},
+			{
+				description:
+					"Wraps all-contributors-cli by creating the .all-contributorsrc file from inferred settings. 💓",
+				owner: "JoshuaKGoldberg",
+				repo: "all-contributors-cli-inferred",
+				stars: 2,
+			},
+			{
+				description:
+					"Offers to format pull requests with whatever formatter your project is already using, then formats them on demand. 🧼",
+				owner: "JoshuaKGoldberg",
+				repo: "formatly-on-demand",
+				stars: 2,
+			},
+			{
+				description:
+					"GitHub Action that outputs whether the package.json file changed. 👛",
+				owner: "JoshuaKGoldberg",
+				repo: "package-change-detector-action",
 				stars: 2,
 			},
 			{
