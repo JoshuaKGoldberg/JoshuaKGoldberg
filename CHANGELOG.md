@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.22.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.1...0.22.3) (2026-09-28)
+
+### Bug Fixes
+
+- add missing projects ([#608](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/608)) ([a044827](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a04482714e05de69513259c4c7b6117981c6f30d)), closes [JoshuaKGoldberg/create-typescript-app#2476](https://github.com/JoshuaKGoldberg/create-typescript-app/issues/2476)
+- retire from eslint ([652f1fd](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/652f1fd76585f42a70f45e0e792ed80741f4f085))
+- update eslint-fix-utils too ([da7a580](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/da7a580a06813631b3fc8ecbd6a7e412db01ccda))
+- update myself to be secondary in michaelfaith repos ([548bbfe](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/548bbfecdb16ac90118f80820e316108103836c7))
+
 ## [0.22.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.1...0.22.2) (2026-09-20)
 
 ### Bug Fixes
