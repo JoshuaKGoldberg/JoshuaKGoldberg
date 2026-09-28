@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.22.2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.1...0.22.2) (2026-09-20)
+
+### Bug Fixes
+
+- update myself to be secondary in michaelfaith repos ([548bbfe](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/548bbfecdb16ac90118f80820e316108103836c7))
+
 ## [0.22.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.0...0.22.1) (2026-08-14)
 
 ### Bug Fixes
