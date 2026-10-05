@@ -616,6 +616,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: draft-pr-once-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/draft-pr-once-action" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-types">all-contributors-types</a></th>
+			<td>The contribution types supported by All Contributors, as data. 🔣</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: all-contributors-types" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-types" /></td>
+		</tr>
 	</tbody>
 </table>
 

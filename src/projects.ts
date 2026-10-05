@@ -597,6 +597,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "draft-pr-once-action",
 				stars: 1,
 			},
+			{
+				description:
+					"The contribution types supported by All Contributors, as data. 🔣",
+				owner: "JoshuaKGoldberg",
+				repo: "all-contributors-types",
+				stars: 0,
+			},
 		],
 	},
 };
