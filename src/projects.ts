@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer (Retired)",
-				stars: 27516,
+				stars: 27563,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22897,
+				stars: 22892,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16401,
+				stars: 16409,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1388,
+				stars: 1389,
 			},
 			{
 				description:
@@ -60,7 +60,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "flint-fyi",
 				repo: "flint",
 				role: "Creator & Project Lead",
-				stars: 308,
+				stars: 310,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 162,
+				stars: 163,
 			},
 		],
 	},
@@ -92,7 +92,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 334,
+				stars: 336,
 			},
 			{
 				description:
@@ -106,7 +106,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Static export of platform-specific metadata for unicode emojis. 🗝️",
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-platform-data",
-				stars: 10,
+				stars: 11,
 			},
 		],
 	},
@@ -186,7 +186,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1191,
+				stars: 1190,
 			},
 			{
 				description:
@@ -194,13 +194,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Secondary maintainer",
-				stars: 261,
+				stars: 262,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 162,
+				stars: 163,
 			},
 			{
 				description:
@@ -272,7 +272,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Packages to enforce the number of sentences per line in Markdown files. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
-				stars: 24,
+				stars: 25,
 			},
 			{
 				description:
@@ -296,17 +296,17 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 18,
 			},
 			{
-				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
-				owner: "michaelfaith",
-				repo: "eslint-fix-utils",
-				role: "Secondary maintainer",
-				stars: 17,
-			},
-			{
 				description:
 					"Generates shareable WIFI:// link strings for wifi credentials. 📶",
 				owner: "JoshuaKGoldberg",
 				repo: "wifi-share-link",
+				stars: 18,
+			},
+			{
+				description: "Utilities for ESLint rule fixers and suggestions. 🧑‍🔧",
+				owner: "michaelfaith",
+				repo: "eslint-fix-utils",
+				role: "Secondary maintainer",
 				stars: 17,
 			},
 			{
@@ -510,6 +510,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Offers to format pull requests with whatever formatter your project is already using, then formats them on demand. 🧼",
+				owner: "JoshuaKGoldberg",
+				repo: "formatly-on-demand",
+				stars: 3,
+			},
+			{
+				description:
 					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",
 				repo: "octokit-from-auth",
@@ -561,13 +568,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Wraps all-contributors-cli by creating the .all-contributorsrc file from inferred settings. 💓",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-cli-inferred",
-				stars: 2,
-			},
-			{
-				description:
-					"Offers to format pull requests with whatever formatter your project is already using, then formats them on demand. 🧼",
-				owner: "JoshuaKGoldberg",
-				repo: "formatly-on-demand",
 				stars: 2,
 			},
 			{

@@ -353,16 +353,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-username-to-emails" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-username-to-emails" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/michaelfaith/eslint-fix-utils">eslint-fix-utils</a></th>
-			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
-			<td>Secondary maintainer</td>
-			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/michaelfaith/eslint-fix-utils" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/wifi-share-link">wifi-share-link</a></th>
 			<td>Generates shareable WIFI:// link strings for wifi credentials. 📶</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: wifi-share-link" src="https://img.shields.io/github/stars/JoshuaKGoldberg/wifi-share-link" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/michaelfaith/eslint-fix-utils">eslint-fix-utils</a></th>
+			<td>Utilities for ESLint rule fixers and suggestions. 🧑‍🔧</td>
+			<td>Secondary maintainer</td>
+			<td><img alt="Stars: eslint-fix-utils" src="https://img.shields.io/github/stars/michaelfaith/eslint-fix-utils" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-auto-action">all-contributors-auto-action</a></th>
@@ -539,6 +539,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: populate-all-contributors-for-repository" src="https://img.shields.io/github/stars/JoshuaKGoldberg/populate-all-contributors-for-repository" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/formatly-on-demand">formatly-on-demand</a></th>
+			<td>Offers to format pull requests with whatever formatter your project is already using, then formats them on demand. 🧼</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: formatly-on-demand" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly-on-demand" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
@@ -585,12 +591,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Wraps all-contributors-cli by creating the .all-contributorsrc file from inferred settings. 💓</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-cli-inferred" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-cli-inferred" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/formatly-on-demand">formatly-on-demand</a></th>
-			<td>Offers to format pull requests with whatever formatter your project is already using, then formats them on demand. 🧼</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: formatly-on-demand" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly-on-demand" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/package-change-detector-action">package-change-detector-action</a></th>
