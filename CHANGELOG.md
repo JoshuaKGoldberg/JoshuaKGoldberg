@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.22.4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.3...0.22.4) (2026-10-05)
+
+### Bug Fixes
+
+- pnpm projects:generate ([af63b3a](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/af63b3a5eb79b19569e30db93d90b6e14f486510))
+
 ## [0.22.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.1...0.22.3) (2026-09-28)
 
 ### Bug Fixes
