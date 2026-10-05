@@ -1,5 +1,15 @@
 # Changelog
 
+# [0.23.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.3...0.23.0) (2026-10-05)
+
+### Bug Fixes
+
+- pnpm projects:generate ([af63b3a](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/af63b3a5eb79b19569e30db93d90b6e14f486510))
+
+### Features
+
+- add all-contributors-types ([8dfe76f](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/8dfe76f085a4a65abaabfdce9dba7b7000755483))
+
 ## [0.22.3](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.1...0.22.3) (2026-09-28)
 
 ### Bug Fixes
