@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer (Retired)",
-				stars: 27563,
+				stars: 27629,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22892,
+				stars: 22895,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16409,
+				stars: 16410,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2254,
+				stars: 2253,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1389,
+				stars: 1388,
 			},
 			{
 				description:
@@ -194,7 +194,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Secondary maintainer",
-				stars: 262,
+				stars: 263,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -428,6 +428,12 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 5,
 			},
 			{
+				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
+				owner: "JoshuaKGoldberg",
+				repo: "zod-tsconfig",
+				stars: 5,
+			},
+			{
 				description:
 					"Parses co-authors from Git/GitHub-style commit messages and issue bodies. ✍️",
 				owner: "JoshuaKGoldberg",
@@ -452,12 +458,6 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				description: "Copies an object without its undefined properties. 🫥",
 				owner: "JoshuaKGoldberg",
 				repo: "without-undefined-properties",
-				stars: 4,
-			},
-			{
-				description: "Zod schemas for TypeScript's TSConfig properties. ⚙️",
-				owner: "JoshuaKGoldberg",
-				repo: "zod-tsconfig",
 				stars: 4,
 			},
 			{
@@ -579,6 +579,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Checks whether strings match React naming conventions. 📛",
+				owner: "JoshuaKGoldberg",
+				repo: "is-react-name",
+				stars: 2,
+			},
+			{
+				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
@@ -602,7 +609,28 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"The contribution types supported by All Contributors, as data. 🔣",
 				owner: "JoshuaKGoldberg",
 				repo: "all-contributors-types",
-				stars: 0,
+				stars: 1,
+			},
+			{
+				description:
+					"GitHub Action that changes a pull request to draft, once. 🙆",
+				owner: "JoshuaKGoldberg",
+				repo: "draft-pull-request-once-action",
+				stars: 1,
+			},
+			{
+				description:
+					"Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated help. 🎛️",
+				owner: "JoshuaKGoldberg",
+				repo: "parse-standard-args",
+				stars: 1,
+			},
+			{
+				description:
+					"Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️",
+				owner: "JoshuaKGoldberg",
+				repo: "pr-review-labels-action",
+				stars: 1,
 			},
 		],
 	},

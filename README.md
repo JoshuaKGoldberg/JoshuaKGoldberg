@@ -467,6 +467,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: github-sponsors-to-markdown" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-sponsors-to-markdown" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
+			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/description-to-co-authors">description-to-co-authors</a></th>
 			<td>Parses co-authors from Git/GitHub-style commit messages and issue bodies. ✍️</td>
 			<td>Creator & maintainer</td>
@@ -489,12 +495,6 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Copies an object without its undefined properties. 🫥</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: without-undefined-properties" src="https://img.shields.io/github/stars/JoshuaKGoldberg/without-undefined-properties" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/zod-tsconfig">zod-tsconfig</a></th>
-			<td>Zod schemas for TypeScript's TSConfig properties. ⚙️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: zod-tsconfig" src="https://img.shields.io/github/stars/JoshuaKGoldberg/zod-tsconfig" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/prettier-plugin-padding-lines">prettier-plugin-padding-lines</a></th>
@@ -599,6 +599,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: package-change-detector-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/package-change-detector-action" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/is-react-name">is-react-name</a></th>
+			<td>Checks whether strings match React naming conventions. 📛</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: is-react-name" src="https://img.shields.io/github/stars/JoshuaKGoldberg/is-react-name" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
 			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
 			<td>Creator & maintainer</td>
@@ -621,6 +627,24 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>The contribution types supported by All Contributors, as data. 🔣</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: all-contributors-types" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-types" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/draft-pull-request-once-action">draft-pull-request-once-action</a></th>
+			<td>GitHub Action that changes a pull request to draft, once. 🙆</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: draft-pull-request-once-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/draft-pull-request-once-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/parse-standard-args">parse-standard-args</a></th>
+			<td>Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated help. 🎛️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: parse-standard-args" src="https://img.shields.io/github/stars/JoshuaKGoldberg/parse-standard-args" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/pr-review-labels-action">pr-review-labels-action</a></th>
+			<td>Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: pr-review-labels-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/pr-review-labels-action" /></td>
 		</tr>
 	</tbody>
 </table>
