@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.23.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.23.0...0.23.1) (2026-10-06)
+
+### Bug Fixes
+
+- add a few missing projects ([fd6c23e](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/fd6c23e3cf4b3fe117ee2fc963279e0bfa797e49))
+
 # [0.23.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.3...0.23.0) (2026-10-05)
 
 ### Bug Fixes
