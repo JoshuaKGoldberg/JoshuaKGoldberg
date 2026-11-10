@@ -632,6 +632,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				repo: "pr-review-labels-action",
 				stars: 1,
 			},
+			{
+				description:
+					"Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️",
+				owner: "JoshuaKGoldberg",
+				repo: "lint-rule-review-skill",
+				stars: 0,
+			},
 		],
 	},
 };

@@ -646,6 +646,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: pr-review-labels-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/pr-review-labels-action" /></td>
 		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/lint-rule-review-skill">lint-rule-review-skill</a></th>
+			<td>Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: lint-rule-review-skill" src="https://img.shields.io/github/stars/JoshuaKGoldberg/lint-rule-review-skill" /></td>
+		</tr>
 	</tbody>
 </table>
 
