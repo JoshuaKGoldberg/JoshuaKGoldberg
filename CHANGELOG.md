@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.24.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.23.1...0.24.0) (2026-11-10)
+
+### Features
+
+- add lint-rule-review-skill ([#610](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/610)) ([089af40](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/089af40e1ff36fa9524ba0880066339c17bbfdf1))
+
 ## [0.23.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.23.0...0.23.1) (2026-10-06)
 
 ### Bug Fixes
