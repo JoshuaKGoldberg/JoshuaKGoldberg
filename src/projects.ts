@@ -641,7 +641,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Builds native, editable PowerPoint files from Slidev decks.",
+					"Builds native, editable PowerPoint files from Slidev decks. 🛝",
 				owner: "JoshuaKGoldberg",
 				repo: "slidev2pptx",
 				stars: 1,

@@ -648,7 +648,7 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/slidev2pptx">slidev2pptx</a></th>
-			<td>Builds native, editable PowerPoint files from Slidev decks.</td>
+			<td>Builds native, editable PowerPoint files from Slidev decks. 🛝</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: slidev2pptx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/slidev2pptx" /></td>
 		</tr>
