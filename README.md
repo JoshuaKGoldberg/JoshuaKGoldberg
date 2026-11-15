@@ -51,9 +51,6 @@ They deserve our sincere appreciation and gratitude.
 				<a href="https://github.com/beyang">
 					<img alt="Beyang Liu" height="75px" src="https://github.com/beyang.png?size=75" width="75px" />
 				</a>
-				<a href="https://github.com/loops-so">
-					<img alt="Loops" height="75px" src="https://github.com/loops-so.png?size=75" width="75px" />
-				</a>
 			</td>
 			<td >
 				<a href="https://github.com/FarazPatankar">
@@ -70,9 +67,6 @@ They deserve our sincere appreciation and gratitude.
 				</a>
 				<a href="https://github.com/kitsonk">
 					<img alt="Kitson Kelly" height="50px" src="https://github.com/kitsonk.png?size=50" width="50px" />
-				</a>
-				<a href="https://github.com/serhalp">
-					<img alt="Philippe Serhal" height="50px" src="https://github.com/serhalp.png?size=50" width="50px" />
 				</a>
 				<a href="https://github.com/ulrichstark">
 					<img alt="Ulrich Stark" height="50px" src="https://github.com/ulrichstark.png?size=50" width="50px" />
@@ -323,16 +317,16 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: OctoGuide" src="https://img.shields.io/github/stars/OctoGuide/bot" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
-			<td>TypeScript transformation that inlines calls to small functions. ⚡️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sentences-per-line">sentences-per-line</a></th>
 			<td>Packages to enforce the number of sentences per line in Markdown files. 📐</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: sentences-per-line" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sentences-per-line" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-function-inliner">ts-function-inliner</a></th>
+			<td>TypeScript transformation that inlines calls to small functions. ⚡️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: ts-function-inliner" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-function-inliner" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/console-fail-test">console-fail-test</a></th>
@@ -545,6 +539,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: formatly-on-demand" src="https://img.shields.io/github/stars/JoshuaKGoldberg/formatly-on-demand" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/parse-standard-args">parse-standard-args</a></th>
+			<td>Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated help. 🎛️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: parse-standard-args" src="https://img.shields.io/github/stars/JoshuaKGoldberg/parse-standard-args" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
@@ -605,16 +605,28 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: is-react-name" src="https://img.shields.io/github/stars/JoshuaKGoldberg/is-react-name" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
-			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
-		</tr>
-		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/github-default-labels">github-default-labels</a></th>
 			<td>Static export of GitHub's default labels. 🗂</td>
 			<td>Creator & maintainer</td>
 			<td><img alt="Stars: github-default-labels" src="https://img.shields.io/github/stars/JoshuaKGoldberg/github-default-labels" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/pr-review-labels-action">pr-review-labels-action</a></th>
+			<td>Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: pr-review-labels-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/pr-review-labels-action" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/lint-rule-review-skill">lint-rule-review-skill</a></th>
+			<td>Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: lint-rule-review-skill" src="https://img.shields.io/github/stars/JoshuaKGoldberg/lint-rule-review-skill" /></td>
+		</tr>
+		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
+			<td>A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/draft-pr-once-action">draft-pr-once-action</a></th>
@@ -635,22 +647,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: draft-pull-request-once-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/draft-pull-request-once-action" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/parse-standard-args">parse-standard-args</a></th>
-			<td>Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated help. 🎛️</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/slidev2pptx">slidev2pptx</a></th>
+			<td>Builds native, editable PowerPoint files from Slidev decks.</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: parse-standard-args" src="https://img.shields.io/github/stars/JoshuaKGoldberg/parse-standard-args" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/pr-review-labels-action">pr-review-labels-action</a></th>
-			<td>Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: pr-review-labels-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/pr-review-labels-action" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/lint-rule-review-skill">lint-rule-review-skill</a></th>
-			<td>Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: lint-rule-review-skill" src="https://img.shields.io/github/stars/JoshuaKGoldberg/lint-rule-review-skill" /></td>
+			<td><img alt="Stars: slidev2pptx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/slidev2pptx" /></td>
 		</tr>
 	</tbody>
 </table>

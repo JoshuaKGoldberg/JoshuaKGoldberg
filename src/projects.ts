@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer (Retired)",
-				stars: 27629,
+				stars: 27619,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22895,
+				stars: 22912,
 			},
 			{
 				description:
@@ -33,14 +33,14 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16410,
+				stars: 16468,
 			},
 			{
 				description:
 					"Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫",
 				owner: "JoshuaKGoldberg",
 				repo: "TypeStat",
-				stars: 2253,
+				stars: 2254,
 			},
 			{
 				description:
@@ -48,7 +48,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				image: "https://www.joshuakgoldberg.com/img/create-typescript-app.png",
 				owner: "JoshuaKGoldberg",
 				repo: "create-typescript-app",
-				stars: 1388,
+				stars: 1389,
 			},
 			{
 				description:
@@ -60,7 +60,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "flint-fyi",
 				repo: "flint",
 				role: "Creator & Project Lead",
-				stars: 310,
+				stars: 316,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 163,
+				stars: 165,
 			},
 		],
 	},
@@ -83,7 +83,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "omnidan",
 				repo: "node-emoji",
 				role: "Junior maintainer",
-				stars: 1340,
+				stars: 1343,
 			},
 			{
 				description: "Blasts emoji like fireworks all up in your HTML page. 🎆",
@@ -92,7 +92,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "emoji-blast",
-				stars: 336,
+				stars: 337,
 			},
 			{
 				description:
@@ -122,7 +122,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "JoshuaKGoldberg",
 				repo: "Old-Deleted-FullScreenMario",
 				role: "Creator",
-				stars: 2961,
+				stars: 2960,
 			},
 			{
 				description:
@@ -186,7 +186,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "dmnd",
 				repo: "dedent",
 				role: "Adoptive maintainer",
-				stars: 1190,
+				stars: 1193,
 			},
 			{
 				description:
@@ -194,20 +194,20 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Secondary maintainer",
-				stars: 263,
+				stars: 266,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 163,
+				stars: 165,
 			},
 			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
 				owner: "JoshuaKGoldberg",
 				repo: "ts-api-utils",
-				stars: 122,
+				stars: 123,
 			},
 			{
 				description:
@@ -222,7 +222,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "package-json-validator",
 				role: "Secondary maintainer",
-				stars: 112,
+				stars: 113,
 			},
 			{
 				description:
@@ -243,7 +243,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Formats code with whatever formatter a project is already using. 🧼",
 				owner: "JoshuaKGoldberg",
 				repo: "formatly",
-				stars: 47,
+				stars: 48,
 			},
 			{
 				description:
@@ -262,16 +262,16 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"TypeScript transformation that inlines calls to small functions. ⚡️",
-				owner: "JoshuaKGoldberg",
-				repo: "ts-function-inliner",
-				stars: 25,
-			},
-			{
-				description:
 					"Packages to enforce the number of sentences per line in Markdown files. 📐",
 				owner: "JoshuaKGoldberg",
 				repo: "sentences-per-line",
+				stars: 26,
+			},
+			{
+				description:
+					"TypeScript transformation that inlines calls to small functions. ⚡️",
+				owner: "JoshuaKGoldberg",
+				repo: "ts-function-inliner",
 				stars: 25,
 			},
 			{
@@ -307,7 +307,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-fix-utils",
 				role: "Secondary maintainer",
-				stars: 17,
+				stars: 18,
 			},
 			{
 				description:
@@ -517,6 +517,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated help. 🎛️",
+				owner: "JoshuaKGoldberg",
+				repo: "parse-standard-args",
+				stars: 3,
+			},
+			{
+				description:
 					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",
 				repo: "octokit-from-auth",
@@ -585,16 +592,30 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 2,
 			},
 			{
+				description: "Static export of GitHub's default labels. 🗂",
+				owner: "JoshuaKGoldberg",
+				repo: "github-default-labels",
+				stars: 2,
+			},
+			{
+				description:
+					"Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️",
+				owner: "JoshuaKGoldberg",
+				repo: "pr-review-labels-action",
+				stars: 2,
+			},
+			{
+				description:
+					"Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️",
+				owner: "JoshuaKGoldberg",
+				repo: "lint-rule-review-skill",
+				stars: 2,
+			},
+			{
 				description:
 					"A version of Sinon's `useFakeTimers` that you can call multiple times in a test. ⏱️",
 				owner: "JoshuaKGoldberg",
 				repo: "sinon-timers-repeatable",
-				stars: 1,
-			},
-			{
-				description: "Static export of GitHub's default labels. 🗂",
-				owner: "JoshuaKGoldberg",
-				repo: "github-default-labels",
 				stars: 1,
 			},
 			{
@@ -620,24 +641,10 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated help. 🎛️",
+					"Builds native, editable PowerPoint files from Slidev decks.",
 				owner: "JoshuaKGoldberg",
-				repo: "parse-standard-args",
+				repo: "slidev2pptx",
 				stars: 1,
-			},
-			{
-				description:
-					"Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️",
-				owner: "JoshuaKGoldberg",
-				repo: "pr-review-labels-action",
-				stars: 1,
-			},
-			{
-				description:
-					"Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️",
-				owner: "JoshuaKGoldberg",
-				repo: "lint-rule-review-skill",
-				stars: 0,
 			},
 		],
 	},
