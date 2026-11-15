@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.25.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.24.0...0.25.0) (2026-11-15)
+
+### Features
+
+- add slidev2pptx ([#611](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/611)) ([e7ed7c1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e7ed7c1fa8af2e38b541d9f7059e90547da32b35))
+
 # [0.24.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.23.1...0.24.0) (2026-11-10)
 
 ### Features
