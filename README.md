@@ -545,6 +545,12 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: parse-standard-args" src="https://img.shields.io/github/stars/JoshuaKGoldberg/parse-standard-args" /></td>
 		</tr>
 		<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/lint-rule-review-skill">lint-rule-review-skill</a></th>
+			<td>Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️</td>
+			<td>Creator & maintainer</td>
+			<td><img alt="Stars: lint-rule-review-skill" src="https://img.shields.io/github/stars/JoshuaKGoldberg/lint-rule-review-skill" /></td>
+		</tr>
+		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/octokit-from-auth">octokit-from-auth</a></th>
 			<td>Creates a GitHub Octokit instance from any available auth token. 🐙</td>
 			<td>Creator & maintainer</td>
@@ -617,10 +623,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: pr-review-labels-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/pr-review-labels-action" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/lint-rule-review-skill">lint-rule-review-skill</a></th>
-			<td>Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/slidev2pptx">slidev2pptx</a></th>
+			<td>Builds native, editable PowerPoint files from Slidev decks. 🛝</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: lint-rule-review-skill" src="https://img.shields.io/github/stars/JoshuaKGoldberg/lint-rule-review-skill" /></td>
+			<td><img alt="Stars: slidev2pptx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/slidev2pptx" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/sinon-timers-repeatable">sinon-timers-repeatable</a></th>
@@ -647,10 +653,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: draft-pull-request-once-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/draft-pull-request-once-action" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/slidev2pptx">slidev2pptx</a></th>
-			<td>Builds native, editable PowerPoint files from Slidev decks. 🛝</td>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/slop-issue-unlink-action">slop-issue-unlink-action</a></th>
+			<td>Unlinks issues from closed, unmerged slop pull requests. ⛓️‍💥</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: slidev2pptx" src="https://img.shields.io/github/stars/JoshuaKGoldberg/slidev2pptx" /></td>
+			<td><img alt="Stars: slop-issue-unlink-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/slop-issue-unlink-action" /></td>
 		</tr>
 	</tbody>
 </table>

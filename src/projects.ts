@@ -12,7 +12,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "eslint",
 				repo: "eslint",
 				role: "Committer (Retired)",
-				stars: 27619,
+				stars: 27628,
 			},
 			{
 				description:
@@ -21,7 +21,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "mochajs",
 				repo: "mocha",
 				role: "Maintainer",
-				stars: 22912,
+				stars: 22910,
 			},
 			{
 				description:
@@ -33,7 +33,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "typescript-eslint",
 				repo: "typescript-eslint",
 				role: "Maintainer",
-				stars: 16468,
+				stars: 16471,
 			},
 			{
 				description:
@@ -70,7 +70,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				},
 				owner: "JoshuaKGoldberg",
 				repo: "Bingo",
-				stars: 165,
+				stars: 168,
 			},
 		],
 	},
@@ -194,13 +194,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				owner: "michaelfaith",
 				repo: "eslint-plugin-package-json",
 				role: "Secondary maintainer",
-				stars: 266,
+				stars: 265,
 			},
 			{
 				description: "Delightful templates for web repositories. 💝",
 				owner: "bingo-js",
 				repo: "bingo",
-				stars: 165,
+				stars: 168,
 			},
 			{
 				description:
@@ -279,7 +279,7 @@ export const projectCategories: Record<string, ProjectCategory> = {
 					"Gently fails test runs if the console was used during them. 📢",
 				owner: "JoshuaKGoldberg",
 				repo: "console-fail-test",
-				stars: 23,
+				stars: 24,
 			},
 			{
 				description:
@@ -524,6 +524,13 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
+					"Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️",
+				owner: "JoshuaKGoldberg",
+				repo: "lint-rule-review-skill",
+				stars: 3,
+			},
+			{
+				description:
 					"Creates a GitHub Octokit instance from any available auth token. 🐙",
 				owner: "JoshuaKGoldberg",
 				repo: "octokit-from-auth",
@@ -606,9 +613,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Claude Code skill that thoroughly reviews custom ESLint rules. 🕵️",
+					"Builds native, editable PowerPoint files from Slidev decks. 🛝",
 				owner: "JoshuaKGoldberg",
-				repo: "lint-rule-review-skill",
+				repo: "slidev2pptx",
 				stars: 2,
 			},
 			{
@@ -641,9 +648,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"Builds native, editable PowerPoint files from Slidev decks. 🛝",
+					"Unlinks issues from closed, unmerged slop pull requests. ⛓️‍💥",
 				owner: "JoshuaKGoldberg",
-				repo: "slidev2pptx",
+				repo: "slop-issue-unlink-action",
 				stars: 1,
 			},
 		],
