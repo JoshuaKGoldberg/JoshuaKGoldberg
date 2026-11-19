@@ -145,10 +145,10 @@ If you work with JavaScript or TypeScript, you may have used one of the open sou
 			<td><img alt="Stars: flint" src="https://img.shields.io/github/stars/flint-fyi/flint" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/Bingo">Bingo</a></th>
+			<th span="row"><a href="https://github.com/bingo-js/bingo">bingo</a></th>
 			<td>Delightful templates for web repositories. 💝</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: Bingo" src="https://img.shields.io/github/stars/JoshuaKGoldberg/Bingo" /></td>
+			<td><img alt="Stars: bingo" src="https://img.shields.io/github/stars/bingo-js/bingo" /></td>
 		</tr>
 	</tbody>
 </table>
@@ -263,16 +263,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: eslint-plugin-package-json" src="https://img.shields.io/github/stars/michaelfaith/eslint-plugin-package-json" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/bingo-js/bingo">bingo</a></th>
-			<td>Delightful templates for web repositories. 💝</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: bingo" src="https://img.shields.io/github/stars/bingo-js/bingo" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/ts-api-utils">ts-api-utils</a></th>
+			<th span="row"><a href="https://github.com/typescript-eslint/ts-api-utils">ts-api-utils</a></th>
 			<td>Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/JoshuaKGoldberg/ts-api-utils" /></td>
+			<td><img alt="Stars: ts-api-utils" src="https://img.shields.io/github/stars/typescript-eslint/ts-api-utils" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type">eslint-plugin-expect-type</a></th>
@@ -635,16 +629,10 @@ I work on assorted projects in the JavaScript/TypeScript ecosystem that make it 
 			<td><img alt="Stars: sinon-timers-repeatable" src="https://img.shields.io/github/stars/JoshuaKGoldberg/sinon-timers-repeatable" /></td>
 		</tr>
 		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/draft-pr-once-action">draft-pr-once-action</a></th>
-			<td>GitHub Action that changes a pull request to draft, once. 🙆</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars: draft-pr-once-action" src="https://img.shields.io/github/stars/JoshuaKGoldberg/draft-pr-once-action" /></td>
-		</tr>
-		<tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/all-contributors-types">all-contributors-types</a></th>
+			<th span="row"><a href="https://github.com/michaelfaith/all-contributors-types">all-contributors-types</a></th>
 			<td>The contribution types supported by All Contributors, as data. 🔣</td>
 			<td>Creator & maintainer</td>
-			<td><img alt="Stars: all-contributors-types" src="https://img.shields.io/github/stars/JoshuaKGoldberg/all-contributors-types" /></td>
+			<td><img alt="Stars: all-contributors-types" src="https://img.shields.io/github/stars/michaelfaith/all-contributors-types" /></td>
 		</tr>
 		<tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/draft-pull-request-once-action">draft-pull-request-once-action</a></th>
