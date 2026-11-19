@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.26.1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.26.0...0.26.1) (2026-11-19)
+
+### Bug Fixes
+
+- remove duplicate and stale renamed projects ([#613](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/613)) ([3b8dbb7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/3b8dbb774ca994c16c6c41bd2fa4b47368823bf0))
+
 # [0.26.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.25.0...0.26.0) (2026-11-19)
 
 ### Features
