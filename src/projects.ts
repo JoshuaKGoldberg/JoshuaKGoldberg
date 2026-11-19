@@ -68,8 +68,8 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				links: {
 					Site: "https://create.bingo",
 				},
-				owner: "JoshuaKGoldberg",
-				repo: "Bingo",
+				owner: "bingo-js",
+				repo: "bingo",
 				stars: 168,
 			},
 		],
@@ -197,15 +197,9 @@ export const projectCategories: Record<string, ProjectCategory> = {
 				stars: 265,
 			},
 			{
-				description: "Delightful templates for web repositories. 💝",
-				owner: "bingo-js",
-				repo: "bingo",
-				stars: 168,
-			},
-			{
 				description:
 					"Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️",
-				owner: "JoshuaKGoldberg",
+				owner: "typescript-eslint",
 				repo: "ts-api-utils",
 				stars: 123,
 			},
@@ -627,15 +621,8 @@ export const projectCategories: Record<string, ProjectCategory> = {
 			},
 			{
 				description:
-					"GitHub Action that changes a pull request to draft, once. 🙆",
-				owner: "JoshuaKGoldberg",
-				repo: "draft-pr-once-action",
-				stars: 1,
-			},
-			{
-				description:
 					"The contribution types supported by All Contributors, as data. 🔣",
-				owner: "JoshuaKGoldberg",
+				owner: "michaelfaith",
 				repo: "all-contributors-types",
 				stars: 1,
 			},
