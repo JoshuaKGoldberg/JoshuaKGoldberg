@@ -1,5 +1,11 @@
 # Changelog
 
+# [0.26.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.25.0...0.26.0) (2026-11-19)
+
+### Features
+
+- add slop-issue-unlink-action ([#612](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/612)) ([0464868](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/046486835a07d96e458d95153658138462bbd5c1))
+
 # [0.25.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.24.0...0.25.0) (2026-11-15)
 
 ### Features
