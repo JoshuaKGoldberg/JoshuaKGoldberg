@@ -2,24 +2,34 @@
 	"dictionaries": ["npm", "node", "typescript"],
 	"ignorePaths": [
 		".all-contributorsrc",
-		".github",
 		"CHANGELOG.md",
 		"coverage",
+		"dist",
 		"lib",
 		"node_modules",
 		"pnpm-lock.yaml"
 	],
 	"words": [
 		"EightBittr",
+		"JoshuaKGoldberg",
+		"MatteoGabriele",
+		"OctoGuide",
+		"agentscan",
+		"apexskier",
 		"borderless",
 		"delighters",
 		"emojify",
 		"formatly",
 		"inlines",
 		"joshuakgoldberg",
-		"OctoGuide",
+		"mshick",
+		"octoguide",
+		"peakoss",
 		"slidev",
+		"stefanzweifel",
 		"stoptalking",
-		"twoslash"
+		"twoslash",
+		"zizmor",
+		"zizmorcore"
 	]
 }

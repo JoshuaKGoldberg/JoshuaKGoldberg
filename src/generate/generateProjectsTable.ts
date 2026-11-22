@@ -1,4 +1,4 @@
-import { Project } from "../types.js";
+import { Project } from "../types.ts";
 
 export interface ProjectsTableOptions {
 	description: string;

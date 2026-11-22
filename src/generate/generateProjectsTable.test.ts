@@ -1,6 +1,6 @@
 import { expect, test } from "vitest";
 
-import { generateProjectsTable } from "./generateProjectsTable.js";
+import { generateProjectsTable } from "./generateProjectsTable.ts";
 
 test("generateProjectsTable", () => {
 	expect(

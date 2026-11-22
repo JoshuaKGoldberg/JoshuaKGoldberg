@@ -1,9 +1,9 @@
 import { getGitHubAuthToken } from "get-github-auth-token";
 import fs from "node:fs/promises";
 
-import { writeFile } from "../shared/writeFile.js";
-import { generateProjectsTables } from "./generateProjectsTables.js";
-import { buildSponsorsTable } from "./generateSponsorsTable.js";
+import { writeFile } from "../shared/writeFile.ts";
+import { generateProjectsTables } from "./generateProjectsTables.ts";
+import { buildSponsorsTable } from "./generateSponsorsTable.ts";
 
 export async function generate() {
 	const auth = await getGitHubAuthToken();

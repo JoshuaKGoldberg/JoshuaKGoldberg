@@ -1,5 +1,5 @@
-import { generateProjects } from "./generateProjects.js";
-import { generateProjectsTable } from "./generateProjectsTable.js";
+import { generateProjects } from "./generateProjects.ts";
+import { generateProjectsTable } from "./generateProjectsTable.ts";
 
 export async function generateProjectsTables() {
 	const projectsData = await generateProjects();

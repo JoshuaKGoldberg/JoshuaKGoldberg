@@ -1,3 +1,3 @@
-import { generate } from "./index.js";
+import { generate } from "./index.ts";
 
 await generate();

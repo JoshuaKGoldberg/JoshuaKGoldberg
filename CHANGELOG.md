@@ -6,19 +6,19 @@
 
 - remove duplicate and stale renamed projects ([#613](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/613)) ([3b8dbb7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/3b8dbb774ca994c16c6c41bd2fa4b47368823bf0))
 
-# [0.26.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.25.0...0.26.0) (2026-11-19)
+## [0.26.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.25.0...0.26.0) (2026-11-19)
 
 ### Features
 
 - add slop-issue-unlink-action ([#612](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/612)) ([0464868](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/046486835a07d96e458d95153658138462bbd5c1))
 
-# [0.25.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.24.0...0.25.0) (2026-11-15)
+## [0.25.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.24.0...0.25.0) (2026-11-15)
 
 ### Features
 
 - add slidev2pptx ([#611](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/issues/611)) ([e7ed7c1](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e7ed7c1fa8af2e38b541d9f7059e90547da32b35))
 
-# [0.24.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.23.1...0.24.0) (2026-11-10)
+## [0.24.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.23.1...0.24.0) (2026-11-10)
 
 ### Features
 
@@ -30,7 +30,7 @@
 
 - add a few missing projects ([fd6c23e](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/fd6c23e3cf4b3fe117ee2fc963279e0bfa797e49))
 
-# [0.23.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.3...0.23.0) (2026-10-05)
+## [0.23.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.22.3...0.23.0) (2026-10-05)
 
 ### Bug Fixes
 
@@ -61,7 +61,7 @@
 
 - typo on 'an' ([1a7046f](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/1a7046f8054f9fc4ccf2449c42dd286b3f37a315))
 
-# [0.22.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.7...0.22.0) (2026-08-11)
+## [0.22.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.21.7...0.22.0) (2026-08-11)
 
 ### Features
 
@@ -109,7 +109,7 @@
 
 - add Flint logo ([18bc481](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/18bc481960454d2f9f1f409f7edacee46c9f8494))
 
-# [0.21.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.3...0.21.0) (2026-03-07)
+## [0.21.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.20.3...0.21.0) (2026-03-07)
 
 ### Bug Fixes
 
@@ -147,7 +147,7 @@
 
 - pnpm projects:generate ([e0540b7](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/e0540b772c990b3c0e49fd8b900ccd1ca3c31b4f))
 
-# [0.20.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.19.0...0.20.0) (2025-04-28)
+## [0.20.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.19.0...0.20.0) (2025-04-28)
 
 ### Bug Fixes
 
@@ -161,7 +161,7 @@
 
 - add OctoGuide ([66024b9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/66024b99d43376268b2935e0dba732ca0a29a7ed))
 
-# [0.19.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.18.1...0.19.0) (2025-03-28)
+## [0.19.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.18.1...0.19.0) (2025-03-28)
 
 ### Features
 
@@ -173,19 +173,19 @@
 
 - fully remove twitter, youtube ([b928ed9](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b928ed907314b26ac6adac9a61bff21147978674))
 
-# [0.18.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.17.0...0.18.0) (2025-03-14)
+## [0.18.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.17.0...0.18.0) (2025-03-14)
 
 ### Features
 
 - add all-properties-lazy ([a38d7c0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a38d7c0b7011763cdc0a5a67854d6ec4f936466f))
 
-# [0.17.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.16.0...0.17.0) (2025-03-12)
+## [0.17.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.16.0...0.17.0) (2025-03-12)
 
 ### Features
 
 - add github-default-labels ([a0bb9d0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/a0bb9d01d008de95ed2897a548dcb59380465bea))
 
-# [0.16.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.12...0.16.0) (2025-03-07)
+## [0.16.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.15.12...0.16.0) (2025-03-07)
 
 ### Features
 
@@ -262,13 +262,13 @@
 - pnpm projects:generate populate-all-contributors-for-repository ([74cd1fa](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/74cd1fabd243b094c1d588926be0c41cf58849ed))
 - re-ran projects:generate ([b1d0353](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b1d035306c0c489a89ebfc0633ac9852de93c401))
 
-# [0.15.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.14.0...0.15.0) (2024-12-11)
+## [0.15.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.14.0...0.15.0) (2024-12-11)
 
 ### Features
 
 - added cspell-populate-words, object-strings-deep ([cf71afe](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/cf71afe0d35ca06ede4d5bb00d18558ded86945f))
 
-# [0.14.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.13.0...0.14.0) (2024-08-14)
+## [0.14.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.13.0...0.14.0) (2024-08-14)
 
 ### Bug Fixes
 
@@ -280,7 +280,7 @@
 
 - add notion-rich-text-to-markdown ([5deb8d4](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/5deb8d43eb324da117704f408a96e1454dbe7c11))
 
-# [0.13.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.11.0...0.13.0) (2024-06-10)
+## [0.13.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.11.0...0.13.0) (2024-06-10)
 
 ### Bug Fixes
 
@@ -292,13 +292,13 @@
 
 - add get-github-auth-token ([128d79d](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/128d79d3a6a773ca95b1e4fec4ab875803376ebc))
 
-# [0.11.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.10.0...0.11.0) (2024-03-28)
+## [0.11.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.10.0...0.11.0) (2024-03-28)
 
 ### Features
 
 - remove 'twitch' entry ([25f6c63](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/25f6c63312ef8b3bd84766a13b6bfc4c97f800b7))
 
-# [0.10.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.4...0.10.0) (2024-03-20)
+## [0.10.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.9.4...0.10.0) (2024-03-20)
 
 ### Bug Fixes
 
@@ -332,13 +332,13 @@
 
 - add images to eslint and mocha ([4f3e118](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/4f3e118974fcff5a20a36164eb7228eac8412d20))
 
-# [0.9.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.8.0...0.9.0) (2024-01-26)
+## [0.9.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.8.0...0.9.0) (2024-01-26)
 
 ### Features
 
 - add eslint and mocha projects ([dd55cb5](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/dd55cb56764031e1bf954aa56dd81a2bbd125e77))
 
-# [0.8.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.7.0...0.8.0) (2024-01-13)
+## [0.8.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.7.0...0.8.0) (2024-01-13)
 
 ### Bug Fixes
 
@@ -348,25 +348,25 @@
 
 - added eslint-plugin-package-json, typedoc-plugin-konamimojisplosion, eslint-plugin-package-json ([b99b7f2](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/b99b7f27c3d03bc4858dccdee12026095213dea5))
 
-# [0.7.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.6.0...0.7.0) (2023-12-27)
+## [0.7.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.6.0...0.7.0) (2023-12-27)
 
 ### Features
 
 - add github-usernae-to-emails(-site), disposable-discord-client ([6033f42](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/6033f42316817ac608492ef324bbdf070d5cb992))
 
-# [0.6.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.5.0...0.6.0) (2023-12-22)
+## [0.6.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.5.0...0.6.0) (2023-12-22)
 
 ### Features
 
 - added commit-to-co-authors, co-author-to-username ([7db887a](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/7db887a98eef1f830e8245a26d2bc3dbdca03f62))
 
-# [0.5.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.4.0...0.5.0) (2023-12-07)
+## [0.5.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.4.0...0.5.0) (2023-12-07)
 
 ### Features
 
 - added eslint-plugin-never-disable ([74142ca](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/74142cad3a319f099a1fa29b926bc49709898aaf))
 
-# [0.4.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.3.2...0.4.0) (2023-11-16)
+## [0.4.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.3.2...0.4.0) (2023-11-16)
 
 ### Features
 
@@ -379,7 +379,7 @@
 - add bin entry back ([f356dad](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/f356dad56fb9485a76bc42955219390435e39ccc))
 - sync create-typescript-app data and table entry ([ab3ef7c](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/commit/ab3ef7c0f7ff8c916f90e393631465fc72eea0e2))
 
-# [0.3.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.2.2...0.3.0) (2023-11-05)
+## [0.3.0](https://github.com/JoshuaKGoldberg/JoshuaKGoldberg/compare/0.2.2...0.3.0) (2023-11-05)
 
 ### Bug Fixes
 

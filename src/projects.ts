@@ -1,5 +1,5 @@
 /* cspell:disable */
-import { ProjectCategory } from "./types.js";
+import { ProjectCategory } from "./types.ts";
 
 export const projectCategories: Record<string, ProjectCategory> = {
 	"Biggest Projects": {

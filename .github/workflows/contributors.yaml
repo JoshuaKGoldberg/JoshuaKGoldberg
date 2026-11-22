@@ -1,14 +1,15 @@
 jobs:
   contributors:
+    permissions:
+      actions: read
+      contents: read
+      issues: write
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-        with:
-          fetch-depth: 0
-      - uses: ./.github/actions/prepare
       - env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        uses: JoshuaKGoldberg/all-contributors-auto-action@587a3a5844b0104abb911a69a1a84ec645292f5e # v0.6.0
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: JoshuaKGoldberg/all-contributors-auto-action@v0.7.0
 
 name: Contributors
 
