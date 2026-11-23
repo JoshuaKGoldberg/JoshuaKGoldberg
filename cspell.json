@@ -6,7 +6,6 @@
 		"CHANGELOG.md",
 		"coverage",
 		"dist",
-		"lib",
 		"node_modules",
 		"pnpm-lock.yaml"
 	],
@@ -22,9 +21,7 @@
 		"emojify",
 		"formatly",
 		"inlines",
-		"joshuakgoldberg",
 		"mshick",
-		"octoguide",
 		"peakoss",
 		"slidev",
 		"stefanzweifel",
