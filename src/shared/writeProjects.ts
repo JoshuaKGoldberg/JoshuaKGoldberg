@@ -1,5 +1,5 @@
-import { ProjectCategory } from "../types.js";
-import { writeFile } from "./writeFile.js";
+import { ProjectCategory } from "../types.ts";
+import { writeFile } from "./writeFile.ts";
 
 export async function writeProjects(
 	projectCategories: Record<string, ProjectCategory>,
@@ -7,7 +7,7 @@ export async function writeProjects(
 	await writeFile(
 		"./src/projects.ts",
 		`/* cspell:disable */
-		import { ProjectCategory } from "./types.js";
+		import { ProjectCategory } from "./types.ts";
 		
 		export const projectCategories: Record<string, ProjectCategory> = ${JSON.stringify(
 			projectCategories,

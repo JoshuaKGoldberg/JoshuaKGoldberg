@@ -1,5 +1,5 @@
-import { projectCategories } from "./projects.js";
+import { projectCategories } from "./projects.ts";
 
 export { projectCategories };
 
-export type * from "./types.js";
+export type * from "./types.ts";

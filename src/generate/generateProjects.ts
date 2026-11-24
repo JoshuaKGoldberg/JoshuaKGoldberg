@@ -2,10 +2,10 @@ import { getGitHubAuthToken } from "get-github-auth-token";
 import * as emoji from "node-emoji";
 import { Octokit } from "octokit";
 
-import { projectCategories } from "../projects.js";
-import { writeProjects } from "../shared/writeProjects.js";
-import { Project } from "../types.js";
-import { byStars } from "./byStars.js";
+import { projectCategories } from "../projects.ts";
+import { writeProjects } from "../shared/writeProjects.ts";
+import { Project } from "../types.ts";
+import { byStars } from "./byStars.ts";
 
 export async function generateProjects() {
 	const auth = await getGitHubAuthToken();

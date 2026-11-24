@@ -1,7 +1,7 @@
 import chalk from "chalk";
 import { beforeEach, describe, expect, it, MockInstance, vi } from "vitest";
 
-import { add } from "./index.js";
+import { add } from "./index.ts";
 
 let mockConsoleInfo: MockInstance;
 let mockConsoleLog: MockInstance;
@@ -9,7 +9,7 @@ let mockConsoleWarn: MockInstance;
 
 const mockWriteProjects = vi.fn();
 
-vi.mock("../shared/writeProjects.js", () => ({
+vi.mock("../shared/writeProjects.ts", () => ({
 	get writeProjects() {
 		return mockWriteProjects;
 	},
@@ -19,7 +19,7 @@ const existingProject = {
 	repo: "existing-repo",
 };
 
-vi.mock("../projects.js", () => ({
+vi.mock("../projects.ts", () => ({
 	get projectCategories() {
 		return {
 			Tooling: {
@@ -29,7 +29,7 @@ vi.mock("../projects.js", () => ({
 	},
 }));
 
-describe("add", () => {
+describe(add, () => {
 	beforeEach(() => {
 		console.info = mockConsoleInfo = vi.fn(() => undefined);
 		console.log = mockConsoleLog = vi.fn(() => undefined);

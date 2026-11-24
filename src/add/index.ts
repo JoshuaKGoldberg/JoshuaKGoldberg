@@ -1,8 +1,8 @@
 import chalk from "chalk";
 
-import { byStars } from "../generate/byStars.js";
-import { projectCategories } from "../projects.js";
-import { writeProjects } from "../shared/writeProjects.js";
+import { byStars } from "../generate/byStars.ts";
+import { projectCategories } from "../projects.ts";
+import { writeProjects } from "../shared/writeProjects.ts";
 
 export async function add(repos: string[]) {
 	const categoryKey = "Tooling";
