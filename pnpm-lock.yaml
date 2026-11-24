@@ -73,8 +73,8 @@ importers:
         specifier: 0.2.0
         version: 0.2.0
       github-sponsors-to-markdown:
-        specifier: 0.2.3
-        version: 0.2.3
+        specifier: 0.3.0
+        version: 0.3.0
       husky:
         specifier: 9.1.7
         version: 9.1.7
@@ -2653,8 +2653,8 @@ packages:
   github-slugger@2.0.0:
     resolution: {integrity: sha512-IaOQ9puYtjrkq7Y0Ygl9KDZnrf/aiUJYUpVf89y8kyaxbRG7Y1SrX/jaumrv81vc61+kiMempujsM3Yw7w5qcw==}
 
-  github-sponsors-to-markdown@0.2.3:
-    resolution: {integrity: sha512-jHhPLyX74RTKB/5UgkiwP0e9Er3yAmd+wWweIjIcJVSDcZtHKYwmFWxdNLxK7MHkbktGXaByIvKMqzro+fTBng==}
+  github-sponsors-to-markdown@0.3.0:
+    resolution: {integrity: sha512-HdBxqDoIYkAEfh3+Y++reKxBGyank7FpLslv2ZgGI9kT65H70PnvcjaZGKPqpqmBh4XhyS9j0ByNdoJzgjmeSA==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -6875,9 +6875,10 @@ snapshots:
 
   github-slugger@2.0.0: {}
 
-  github-sponsors-to-markdown@0.2.3:
+  github-sponsors-to-markdown@0.3.0:
     dependencies:
       '@octokit/graphql': 9.0.5
+      get-github-auth-token: 0.2.0
 
   glob-parent@5.1.2:
     dependencies:
